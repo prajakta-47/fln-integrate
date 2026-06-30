@@ -1,0 +1,9 @@
+{
+  "metadata": {
+    "total_images": 24,
+    "processed": 0,
+    "skipped": 24,
+    "llm_provider": "ollama"
+  },
+  "questions": []
+}

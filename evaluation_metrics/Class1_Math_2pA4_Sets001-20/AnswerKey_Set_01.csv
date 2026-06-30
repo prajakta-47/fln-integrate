@@ -1,0 +1,10 @@
+set,q,type,question,answer
+1,Q1,matching,"Match shapes","[{""lPos"":1,""shape"":""Square"",""rPos"":3,""obj"":""Dice""},{""lPos"":2,""shape"":""Triangle"",""rPos"":1,""obj"":""Warning Sign""},{""lPos"":3,""shape"":""Circle"",""rPos"":2,""obj"":""Balloon""},{""lPos"":4,""shape"":""Rectangle"",""rPos"":4,""obj"":""Eraser""}]"
+1,Q2,group_circle,"Circle MORE/LESS groups","[{""cell"":""TL"",""task"":""MORE"",""lCount"":10,""rCount"":4,""ans"":""Left""},{""cell"":""TR"",""task"":""MORE"",""lCount"":3,""rCount"":6,""ans"":""Right""},{""cell"":""BL"",""task"":""LESS"",""lCount"":10,""rCount"":5,""ans"":""Right""},{""cell"":""BR"",""task"":""LESS"",""lCount"":8,""rCount"":2,""ans"":""Right""}]"
+1,Q3,fill_number,"Fill missing numbers in sequence 5,6,7,8,9,10",""""""
+1,Q4,choice,"Tick (✓) the tree that is SHORTER.","Tree B"
+1,Q5,matching,"Match pairs","[{""lPos"":1,""left"":""Lock"",""rPos"":3,""right"":""Key""},{""lPos"":2,""left"":""Drum"",""rPos"":2,""right"":""Bird""},{""lPos"":3,""left"":""Umbrella"",""rPos"":1,""right"":""Raincoat""},{""lPos"":4,""left"":""Pencil"",""rPos"":4,""right"":""Eraser""}]"
+1,Q6,cluster_loop,"Circle ₹1 coins",""""""
+1,Q7,path_trace,"Cut giftBox in half",""""""
+1,Q8,mcq,"How many left? (jar of bees)","0"
+1,Q9,dual_mark,"Most/Least butterfly",""""""

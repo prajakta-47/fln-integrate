@@ -1,0 +1,10 @@
+set,q,type,question,answer
+6,Q1,matching,"Match shapes","[{""lPos"":1,""shape"":""Square"",""rPos"":3,""obj"":""Window""},{""lPos"":2,""shape"":""Triangle"",""rPos"":4,""obj"":""Warning Sign""},{""lPos"":3,""shape"":""Rectangle"",""rPos"":2,""obj"":""Eraser""},{""lPos"":4,""shape"":""Circle"",""rPos"":1,""obj"":""Button""}]"
+6,Q2,group_circle,"Circle MORE/LESS groups","[{""cell"":""TL"",""task"":""MORE"",""lCount"":4,""rCount"":8,""ans"":""Right""},{""cell"":""TR"",""task"":""MORE"",""lCount"":10,""rCount"":3,""ans"":""Left""},{""cell"":""BL"",""task"":""LESS"",""lCount"":2,""rCount"":10,""ans"":""Left""},{""cell"":""BR"",""task"":""LESS"",""lCount"":3,""rCount"":6,""ans"":""Left""}]"
+6,Q3,fill_number,"Fill missing numbers in sequence 3,4,5,6,7,8",""""""
+6,Q4,choice,"Circle the watermelon that is BIGGER.","Watermelon B"
+6,Q5,matching,"Match pairs","[{""lPos"":1,""left"":""Shoe"",""rPos"":1,""right"":""Sock""},{""lPos"":2,""left"":""Drum"",""rPos"":4,""right"":""Bird""},{""lPos"":3,""left"":""Lock"",""rPos"":3,""right"":""Key""},{""lPos"":4,""left"":""Pencil"",""rPos"":2,""right"":""Eraser""}]"
+6,Q6,cluster_loop,"Circle ₹1 coins",""""""
+6,Q7,path_trace,"Cut giftBox in half",""""""
+6,Q8,mcq,"How many left? (vase of flowers)","0"
+6,Q9,dual_mark,"Most/Least rocket",""""""

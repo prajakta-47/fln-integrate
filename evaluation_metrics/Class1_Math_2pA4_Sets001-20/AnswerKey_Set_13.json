@@ -1,0 +1,65 @@
+[
+  {
+    "set": "13",
+    "q": "Q1",
+    "type": "matching",
+    "question": "Match shapes",
+    "answer": "[{\"lPos\":1,\"shape\":\"Square\",\"rPos\":2,\"obj\":\"Gift Box\"},{\"lPos\":2,\"shape\":\"Triangle\",\"rPos\":3,\"obj\":\"Party Hat\"},{\"lPos\":3,\"shape\":\"Circle\",\"rPos\":1,\"obj\":\"Soccer Ball\"},{\"lPos\":4,\"shape\":\"Rectangle\",\"rPos\":4,\"obj\":\"Pencil\"}]"
+  },
+  {
+    "set": "13",
+    "q": "Q2",
+    "type": "group_circle",
+    "question": "Circle MORE/LESS groups",
+    "answer": "[{\"cell\":\"TL\",\"task\":\"MORE\",\"lCount\":9,\"rCount\":5,\"ans\":\"Left\"},{\"cell\":\"TR\",\"task\":\"MORE\",\"lCount\":3,\"rCount\":8,\"ans\":\"Right\"},{\"cell\":\"BL\",\"task\":\"LESS\",\"lCount\":6,\"rCount\":4,\"ans\":\"Right\"},{\"cell\":\"BR\",\"task\":\"LESS\",\"lCount\":4,\"rCount\":9,\"ans\":\"Left\"}]"
+  },
+  {
+    "set": "13",
+    "q": "Q3",
+    "type": "fill_number",
+    "question": "Fill missing numbers in sequence 5,6,7,8,9,10",
+    "answer": "\"\""
+  },
+  {
+    "set": "13",
+    "q": "Q4",
+    "type": "choice",
+    "question": "Tick (\u2713) the container that can hold the LEAST water.",
+    "answer": "Spoon"
+  },
+  {
+    "set": "13",
+    "q": "Q5",
+    "type": "matching",
+    "question": "Match pairs",
+    "answer": "[{\"lPos\":1,\"left\":\"Umbrella\",\"rPos\":1,\"right\":\"Raincoat\"},{\"lPos\":2,\"left\":\"Kite\",\"rPos\":3,\"right\":\"Balloon\"},{\"lPos\":3,\"left\":\"Shoe\",\"rPos\":2,\"right\":\"Sock\"},{\"lPos\":4,\"left\":\"Crown\",\"rPos\":4,\"right\":\"Gift Box\"}]"
+  },
+  {
+    "set": "13",
+    "q": "Q6",
+    "type": "cluster_loop",
+    "question": "Circle \u20b91 coins",
+    "answer": "\"\""
+  },
+  {
+    "set": "13",
+    "q": "Q7",
+    "type": "path_trace",
+    "question": "Cut giftBox in half",
+    "answer": "\"\""
+  },
+  {
+    "set": "13",
+    "q": "Q8",
+    "type": "mcq",
+    "question": "How many left? (plate of birds)",
+    "answer": "0"
+  },
+  {
+    "set": "13",
+    "q": "Q9",
+    "type": "dual_mark",
+    "question": "Most/Least flower",
+    "answer": "\"\""
+  }
+]

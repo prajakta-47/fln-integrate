@@ -1,0 +1,10 @@
+set,q,type,question,answer
+8,Q1,matching,"Match shapes","[{""lPos"":1,""shape"":""Circle"",""rPos"":2,""obj"":""Plate""},{""lPos"":2,""shape"":""Rectangle"",""rPos"":1,""obj"":""Pencil""},{""lPos"":3,""shape"":""Square"",""rPos"":3,""obj"":""Gift Box""},{""lPos"":4,""shape"":""Triangle"",""rPos"":4,""obj"":""Ice Cream""}]"
+8,Q2,group_circle,"Circle MORE/LESS groups","[{""cell"":""TL"",""task"":""MORE"",""lCount"":8,""rCount"":2,""ans"":""Left""},{""cell"":""TR"",""task"":""MORE"",""lCount"":7,""rCount"":5,""ans"":""Left""},{""cell"":""BL"",""task"":""LESS"",""lCount"":7,""rCount"":4,""ans"":""Right""},{""cell"":""BR"",""task"":""LESS"",""lCount"":4,""rCount"":8,""ans"":""Left""}]"
+8,Q3,fill_number,"Fill missing numbers in sequence 4,5,6,7,8,9",""""""
+8,Q4,choice,"Circle the container that can hold the MOST water.","Bucket"
+8,Q5,matching,"Match pairs","[{""lPos"":1,""left"":""Pencil"",""rPos"":4,""right"":""Eraser""},{""lPos"":2,""left"":""Lock"",""rPos"":3,""right"":""Key""},{""lPos"":3,""left"":""Shoe"",""rPos"":2,""right"":""Sock""},{""lPos"":4,""left"":""Umbrella"",""rPos"":1,""right"":""Raincoat""}]"
+8,Q6,cluster_loop,"Circle ₹1 coins",""""""
+8,Q7,path_trace,"Cut guava in half",""""""
+8,Q8,mcq,"How many left? (basket of butterflies)","0"
+8,Q9,dual_mark,"Most/Least balloon",""""""

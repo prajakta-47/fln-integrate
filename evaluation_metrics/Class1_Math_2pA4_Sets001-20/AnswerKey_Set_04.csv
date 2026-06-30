@@ -1,0 +1,10 @@
+set,q,type,question,answer
+4,Q1,matching,"Match shapes","[{""lPos"":1,""shape"":""Square"",""rPos"":2,""obj"":""Dice""},{""lPos"":2,""shape"":""Rectangle"",""rPos"":1,""obj"":""Book""},{""lPos"":3,""shape"":""Circle"",""rPos"":4,""obj"":""Button""},{""lPos"":4,""shape"":""Triangle"",""rPos"":3,""obj"":""Mango""}]"
+4,Q2,group_circle,"Circle MORE/LESS groups","[{""cell"":""TL"",""task"":""MORE"",""lCount"":3,""rCount"":6,""ans"":""Right""},{""cell"":""TR"",""task"":""MORE"",""lCount"":8,""rCount"":3,""ans"":""Left""},{""cell"":""BL"",""task"":""LESS"",""lCount"":5,""rCount"":10,""ans"":""Left""},{""cell"":""BR"",""task"":""LESS"",""lCount"":2,""rCount"":9,""ans"":""Left""}]"
+4,Q3,fill_number,"Fill missing numbers in sequence 1,2,3,4,5,6",""""""
+4,Q4,choice,"Tick (✓) the ribbon that is SHORTER.","Ribbon B"
+4,Q5,matching,"Match pairs","[{""lPos"":1,""left"":""Shoe"",""rPos"":1,""right"":""Sock""},{""lPos"":2,""left"":""Drum"",""rPos"":4,""right"":""Bird""},{""lPos"":3,""left"":""Pencil"",""rPos"":2,""right"":""Eraser""},{""lPos"":4,""left"":""Lock"",""rPos"":3,""right"":""Key""}]"
+4,Q6,cluster_loop,"Circle ₹1 coins",""""""
+4,Q7,path_trace,"Cut giftBox in half",""""""
+4,Q8,mcq,"How many left? (plate of mangoes)","0"
+4,Q9,dual_mark,"Most/Least leaf",""""""

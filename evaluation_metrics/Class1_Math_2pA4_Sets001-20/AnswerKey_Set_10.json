@@ -1,0 +1,65 @@
+[
+  {
+    "set": "10",
+    "q": "Q1",
+    "type": "matching",
+    "question": "Match shapes",
+    "answer": "[{\"lPos\":1,\"shape\":\"Triangle\",\"rPos\":4,\"obj\":\"Mango\"},{\"lPos\":2,\"shape\":\"Square\",\"rPos\":2,\"obj\":\"Gift Box\"},{\"lPos\":3,\"shape\":\"Circle\",\"rPos\":3,\"obj\":\"Clock\"},{\"lPos\":4,\"shape\":\"Rectangle\",\"rPos\":1,\"obj\":\"Door\"}]"
+  },
+  {
+    "set": "10",
+    "q": "Q2",
+    "type": "group_circle",
+    "question": "Circle MORE/LESS groups",
+    "answer": "[{\"cell\":\"TL\",\"task\":\"MORE\",\"lCount\":7,\"rCount\":2,\"ans\":\"Left\"},{\"cell\":\"TR\",\"task\":\"MORE\",\"lCount\":4,\"rCount\":8,\"ans\":\"Right\"},{\"cell\":\"BL\",\"task\":\"LESS\",\"lCount\":3,\"rCount\":8,\"ans\":\"Left\"},{\"cell\":\"BR\",\"task\":\"LESS\",\"lCount\":10,\"rCount\":2,\"ans\":\"Right\"}]"
+  },
+  {
+    "set": "10",
+    "q": "Q3",
+    "type": "fill_number",
+    "question": "Fill missing numbers in sequence 4,5,6,7,8,9",
+    "answer": "\"\""
+  },
+  {
+    "set": "10",
+    "q": "Q4",
+    "type": "choice",
+    "question": "Circle the container that can hold the MOST water.",
+    "answer": "Bucket"
+  },
+  {
+    "set": "10",
+    "q": "Q5",
+    "type": "matching",
+    "question": "Match pairs",
+    "answer": "[{\"lPos\":1,\"left\":\"Umbrella\",\"rPos\":4,\"right\":\"Raincoat\"},{\"lPos\":2,\"left\":\"Drum\",\"rPos\":1,\"right\":\"Bird\"},{\"lPos\":3,\"left\":\"Pencil\",\"rPos\":2,\"right\":\"Eraser\"},{\"lPos\":4,\"left\":\"Rocket\",\"rPos\":3,\"right\":\"Star\"}]"
+  },
+  {
+    "set": "10",
+    "q": "Q6",
+    "type": "cluster_loop",
+    "question": "Circle \u20b91 coins",
+    "answer": "\"\""
+  },
+  {
+    "set": "10",
+    "q": "Q7",
+    "type": "path_trace",
+    "question": "Cut chocolate in half",
+    "answer": "\"\""
+  },
+  {
+    "set": "10",
+    "q": "Q8",
+    "type": "mcq",
+    "question": "How many left? (box of stars)",
+    "answer": "0"
+  },
+  {
+    "set": "10",
+    "q": "Q9",
+    "type": "dual_mark",
+    "question": "Most/Least fish",
+    "answer": "\"\""
+  }
+]

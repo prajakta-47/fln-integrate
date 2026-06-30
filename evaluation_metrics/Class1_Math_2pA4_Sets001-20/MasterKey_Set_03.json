@@ -1,0 +1,588 @@
+{
+  "meta": {
+    "set": 3,
+    "pid": "SET-00003",
+    "gen": "2026-06-29T11:50:37.421Z",
+    "qs": 9,
+    "coord_unit": "mm",
+    "icr_version": "1.0",
+    "layout": "3-page-A4"
+  },
+  "registration_marks": {
+    "tl": {
+      "x_min": 0,
+      "y_min": 0,
+      "x_max": 5,
+      "y_max": 5
+    },
+    "tr": {
+      "x_min": 205,
+      "y_min": 0,
+      "x_max": 210,
+      "y_max": 5
+    },
+    "bl": {
+      "x_min": 0,
+      "y_min": 292,
+      "x_max": 5,
+      "y_max": 297
+    },
+    "br": {
+      "x_min": 205,
+      "y_min": 292,
+      "x_max": 210,
+      "y_max": 297
+    }
+  },
+  "questions": {
+    "Q1": {
+      "type": "matching",
+      "question": "Match shapes",
+      "expected_answer": [
+        {
+          "lPos": 1,
+          "shape": "Triangle",
+          "rPos": 1,
+          "obj": "Party Hat"
+        },
+        {
+          "lPos": 2,
+          "shape": "Circle",
+          "rPos": 2,
+          "obj": "Button"
+        },
+        {
+          "lPos": 3,
+          "shape": "Square",
+          "rPos": 3,
+          "obj": "Chocolate"
+        },
+        {
+          "lPos": 4,
+          "shape": "Rectangle",
+          "rPos": 4,
+          "obj": "Pencil"
+        }
+      ],
+      "icr": {
+        "detect": "drawn_line_between_dots",
+        "pairs": [
+          {
+            "from": "q1-left-1",
+            "to": "q1-right-1"
+          },
+          {
+            "from": "q1-left-2",
+            "to": "q1-right-2"
+          },
+          {
+            "from": "q1-left-3",
+            "to": "q1-right-3"
+          },
+          {
+            "from": "q1-left-4",
+            "to": "q1-right-4"
+          }
+        ],
+        "match_method": "dot_center_distance",
+        "threshold_mm": 6
+      },
+      "coord_hint": {
+        "type": "matching",
+        "lCol": "q1-left-col",
+        "rCol": "q1-right-col"
+      },
+      "coords_mm": {
+        "q1-left-1": {
+          "x_min": 12.26,
+          "y_min": 41.34,
+          "x_max": 102.35,
+          "y_max": 61.45
+        },
+        "q1-left-2": {
+          "x_min": 12.26,
+          "y_min": 63.3,
+          "x_max": 102.35,
+          "y_max": 83.41
+        },
+        "q1-left-3": {
+          "x_min": 12.26,
+          "y_min": 85.26,
+          "x_max": 102.35,
+          "y_max": 105.37
+        },
+        "q1-left-4": {
+          "x_min": 12.26,
+          "y_min": 107.22,
+          "x_max": 102.35,
+          "y_max": 127.33
+        },
+        "q1-right-1": {
+          "x_min": 107.64,
+          "y_min": 41.34,
+          "x_max": 197.73,
+          "y_max": 61.45
+        },
+        "q1-right-2": {
+          "x_min": 107.64,
+          "y_min": 63.3,
+          "x_max": 197.73,
+          "y_max": 83.41
+        },
+        "q1-right-3": {
+          "x_min": 107.64,
+          "y_min": 85.26,
+          "x_max": 197.73,
+          "y_max": 105.37
+        },
+        "q1-right-4": {
+          "x_min": 107.64,
+          "y_min": 107.22,
+          "x_max": 197.73,
+          "y_max": 127.33
+        }
+      },
+      "difficulty": "easy"
+    },
+    "Q2": {
+      "type": "group_circle",
+      "question": "Circle MORE/LESS groups",
+      "expected_answer": null,
+      "icr": {
+        "detect": "freehand_circle",
+        "cells": [
+          {
+            "region": "q2-TL-left",
+            "expected": "circled"
+          },
+          {
+            "region": "q2-TR-right",
+            "expected": "circled"
+          },
+          {
+            "region": "q2-BL-right",
+            "expected": "circled"
+          },
+          {
+            "region": "q2-BR-left",
+            "expected": "circled"
+          }
+        ]
+      },
+      "coord_hint": {
+        "type": "group_circle",
+        "cells": [
+          {
+            "cell": "TL",
+            "task": "MORE",
+            "lCount": 9,
+            "rCount": 3,
+            "ans": "Left"
+          },
+          {
+            "cell": "TR",
+            "task": "MORE",
+            "lCount": 2,
+            "rCount": 10,
+            "ans": "Right"
+          },
+          {
+            "cell": "BL",
+            "task": "LESS",
+            "lCount": 10,
+            "rCount": 4,
+            "ans": "Right"
+          },
+          {
+            "cell": "BR",
+            "task": "LESS",
+            "lCount": 3,
+            "rCount": 10,
+            "ans": "Left"
+          }
+        ]
+      },
+      "coords_mm": {
+        "q2-TL": {
+          "x_min": 14.64,
+          "y_min": 148.49,
+          "x_max": 104.18,
+          "y_max": 172.83
+        },
+        "q2-TR": {
+          "x_min": 108.68,
+          "y_min": 143.47,
+          "x_max": 195.35,
+          "y_max": 177.86
+        },
+        "q2-BL": {
+          "x_min": 14.64,
+          "y_min": 195.06,
+          "x_max": 104.18,
+          "y_max": 219.4
+        },
+        "q2-BR": {
+          "x_min": 108.68,
+          "y_min": 190.03,
+          "x_max": 195.35,
+          "y_max": 224.43
+        }
+      },
+      "difficulty": "medium"
+    },
+    "Q3": {
+      "type": "fill_number",
+      "question": "Fill missing numbers in sequence 1,2,3,4,5,6",
+      "expected_answer": null,
+      "icr": {
+        "detect": "handwritten_digit_in_box",
+        "blanks": [
+          {
+            "region": "q3-blank-1",
+            "expected_value": 2
+          },
+          {
+            "region": "q3-blank-4",
+            "expected_value": 5
+          }
+        ]
+      },
+      "coord_hint": {
+        "type": "fill_number",
+        "rowId": "q3-row",
+        "blanks": [
+          {
+            "pos": 1,
+            "value": 2
+          },
+          {
+            "pos": 4,
+            "value": 5
+          }
+        ]
+      },
+      "coords_mm": {
+        "q3-blank-1": {
+          "x_min": 65.58,
+          "y_min": 245.33,
+          "x_max": 77.75,
+          "y_max": 257.5
+        },
+        "q3-blank-4": {
+          "x_min": 132.25,
+          "y_min": 245.33,
+          "x_max": 144.42,
+          "y_max": 257.5
+        }
+      },
+      "difficulty": "hard"
+    },
+    "Q4": {
+      "type": "choice",
+      "question": "Tick (\u2713) the container that can hold the LEAST water.",
+      "expected_answer": "Spoon",
+      "icr": {
+        "detect": "circle_or_tick",
+        "expected_label": "Spoon",
+        "options": []
+      },
+      "coord_hint": {
+        "type": "choice",
+        "rowId": "q4-row"
+      },
+      "coords_mm": {
+        "q4-item-1": {
+          "x_min": 37.26,
+          "y_min": 269.41,
+          "x_max": 62.66,
+          "y_max": 306.98
+        },
+        "q4-item-2": {
+          "x_min": 70.07,
+          "y_min": 269.41,
+          "x_max": 95.47,
+          "y_max": 306.98
+        },
+        "q4-item-3": {
+          "x_min": 102.88,
+          "y_min": 269.41,
+          "x_max": 128.28,
+          "y_max": 306.98
+        }
+      },
+      "difficulty": "medium"
+    },
+    "Q5": {
+      "type": "matching",
+      "question": "Match pairs",
+      "expected_answer": [
+        {
+          "lPos": 1,
+          "left": "Shoe",
+          "rPos": 2,
+          "right": "Sock"
+        },
+        {
+          "lPos": 2,
+          "left": "Drum",
+          "rPos": 3,
+          "right": "Bird"
+        },
+        {
+          "lPos": 3,
+          "left": "Toothbrush",
+          "rPos": 4,
+          "right": "Toothpaste"
+        },
+        {
+          "lPos": 4,
+          "left": "Lock",
+          "rPos": 1,
+          "right": "Key"
+        }
+      ],
+      "icr": {
+        "detect": "drawn_line_between_dots",
+        "pairs": [
+          {
+            "from": "q5-left-1",
+            "to": "q5-right-2"
+          },
+          {
+            "from": "q5-left-2",
+            "to": "q5-right-3"
+          },
+          {
+            "from": "q5-left-3",
+            "to": "q5-right-4"
+          },
+          {
+            "from": "q5-left-4",
+            "to": "q5-right-1"
+          }
+        ],
+        "match_method": "dot_center_distance",
+        "threshold_mm": 6
+      },
+      "coord_hint": {
+        "type": "matching",
+        "lCol": "q5-left-col",
+        "rCol": "q5-right-col"
+      },
+      "coords_mm": {
+        "q5-left-1": {
+          "x_min": 12.26,
+          "y_min": 33.4,
+          "x_max": 102.35,
+          "y_max": 54.04
+        },
+        "q5-left-2": {
+          "x_min": 12.26,
+          "y_min": 55.89,
+          "x_max": 102.35,
+          "y_max": 76.53
+        },
+        "q5-left-3": {
+          "x_min": 12.26,
+          "y_min": 78.38,
+          "x_max": 102.35,
+          "y_max": 99.02
+        },
+        "q5-left-4": {
+          "x_min": 12.26,
+          "y_min": 100.87,
+          "x_max": 102.35,
+          "y_max": 121.51
+        },
+        "q5-right-1": {
+          "x_min": 107.64,
+          "y_min": 33.4,
+          "x_max": 197.73,
+          "y_max": 54.04
+        },
+        "q5-right-2": {
+          "x_min": 107.64,
+          "y_min": 55.89,
+          "x_max": 197.73,
+          "y_max": 76.53
+        },
+        "q5-right-3": {
+          "x_min": 107.64,
+          "y_min": 78.38,
+          "x_max": 197.73,
+          "y_max": 99.02
+        },
+        "q5-right-4": {
+          "x_min": 107.64,
+          "y_min": 100.87,
+          "x_max": 197.73,
+          "y_max": 121.51
+        }
+      },
+      "difficulty": "easy"
+    },
+    "Q6": {
+      "type": "cluster_loop",
+      "question": "Circle \u20b91 coins",
+      "expected_answer": 4,
+      "icr": {
+        "detect": "loop_around_items",
+        "target_type": "coin1",
+        "expected_count": 4,
+        "total_items": 6
+      },
+      "coord_hint": {
+        "type": "cluster_loop",
+        "rowId": "q6-row",
+        "target": "coin1",
+        "count": 4
+      },
+      "coords_mm": {
+        "q6-coin-1": {
+          "x_min": 42.82,
+          "y_min": 136.32,
+          "x_max": 61.34,
+          "y_max": 155.9
+        },
+        "q6-coin-2": {
+          "x_min": 63.99,
+          "y_min": 136.32,
+          "x_max": 82.51,
+          "y_max": 155.9
+        },
+        "q6-coin-3": {
+          "x_min": 85.15,
+          "y_min": 136.32,
+          "x_max": 103.68,
+          "y_max": 155.9
+        },
+        "q6-coin-4": {
+          "x_min": 106.32,
+          "y_min": 136.32,
+          "x_max": 124.84,
+          "y_max": 155.9
+        },
+        "q6-coin-5": {
+          "x_min": 127.49,
+          "y_min": 136.32,
+          "x_max": 146.01,
+          "y_max": 155.9
+        },
+        "q6-coin-6": {
+          "x_min": 148.65,
+          "y_min": 136.32,
+          "x_max": 167.18,
+          "y_max": 155.9
+        }
+      },
+      "difficulty": "medium"
+    },
+    "Q7": {
+      "type": "path_trace",
+      "question": "Cut guava in half",
+      "expected_answer": null,
+      "icr": {
+        "detect": "pencil_line_on_dashed_path",
+        "region": "q7-food",
+        "axis": "vertical_center",
+        "expected": "line_present"
+      },
+      "coord_hint": {
+        "type": "path_trace",
+        "areaId": "q7-area",
+        "foodId": "q7-food"
+      },
+      "coords_mm": {
+        "q7-food": {
+          "x_min": 90.71,
+          "y_min": 170.3,
+          "x_max": 119.29,
+          "y_max": 199.93
+        }
+      },
+      "difficulty": "hard"
+    },
+    "Q8": {
+      "type": "mcq",
+      "question": "How many left? (plate of mangoes)",
+      "expected_answer": "0",
+      "icr": {
+        "detect": "circle_mark",
+        "choices": [
+          "q8-c0",
+          "q8-c1",
+          "q8-c2"
+        ],
+        "expected_choice": "q8-c0",
+        "expected_value": "0"
+      },
+      "coord_hint": {
+        "type": "mcq",
+        "choicesId": "q8-choices",
+        "correct": 0
+      },
+      "coords_mm": {
+        "q8-c0": {
+          "x_min": 70.68,
+          "y_min": 258.25,
+          "x_max": 90.38,
+          "y_max": 271.75
+        },
+        "q8-c1": {
+          "x_min": 95.15,
+          "y_min": 258.25,
+          "x_max": 114.85,
+          "y_max": 271.75
+        },
+        "q8-c2": {
+          "x_min": 119.61,
+          "y_min": 258.25,
+          "x_max": 139.32,
+          "y_max": 271.75
+        }
+      },
+      "difficulty": "medium"
+    },
+    "Q9": {
+      "type": "dual_mark",
+      "question": "Most/Least bird",
+      "expected_answer": "A",
+      "icr": {
+        "detect_circle": {
+          "region": "q9-group-A"
+        },
+        "detect_tick": {
+          "region": "q9-group-B"
+        },
+        "method": "symbol_recognition"
+      },
+      "coord_hint": {
+        "type": "dual_mark",
+        "rowId": "q9-row",
+        "circle": "A",
+        "tick": "B"
+      },
+      "coords_mm": {
+        "q9-group-A": {
+          "x_min": 28.27,
+          "y_min": 33.13,
+          "x_max": 102.35,
+          "y_max": 64.88
+        },
+        "q9-group-B": {
+          "x_min": 109.76,
+          "y_min": 33.13,
+          "x_max": 135.16,
+          "y_max": 64.88
+        },
+        "q9-group-C": {
+          "x_min": 142.57,
+          "y_min": 33.13,
+          "x_max": 181.73,
+          "y_max": 64.88
+        }
+      },
+      "difficulty": "hard"
+    }
+  }
+}

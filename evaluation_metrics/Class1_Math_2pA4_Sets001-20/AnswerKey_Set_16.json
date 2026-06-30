@@ -1,0 +1,65 @@
+[
+  {
+    "set": "16",
+    "q": "Q1",
+    "type": "matching",
+    "question": "Match shapes",
+    "answer": "[{\"lPos\":1,\"shape\":\"Triangle\",\"rPos\":2,\"obj\":\"Warning Sign\"},{\"lPos\":2,\"shape\":\"Circle\",\"rPos\":3,\"obj\":\"Clock\"},{\"lPos\":3,\"shape\":\"Rectangle\",\"rPos\":4,\"obj\":\"Eraser\"},{\"lPos\":4,\"shape\":\"Square\",\"rPos\":1,\"obj\":\"Window\"}]"
+  },
+  {
+    "set": "16",
+    "q": "Q2",
+    "type": "group_circle",
+    "question": "Circle MORE/LESS groups",
+    "answer": "[{\"cell\":\"TL\",\"task\":\"MORE\",\"lCount\":6,\"rCount\":5,\"ans\":\"Left\"},{\"cell\":\"TR\",\"task\":\"MORE\",\"lCount\":2,\"rCount\":7,\"ans\":\"Right\"},{\"cell\":\"BL\",\"task\":\"LESS\",\"lCount\":2,\"rCount\":9,\"ans\":\"Left\"},{\"cell\":\"BR\",\"task\":\"LESS\",\"lCount\":6,\"rCount\":3,\"ans\":\"Right\"}]"
+  },
+  {
+    "set": "16",
+    "q": "Q3",
+    "type": "fill_number",
+    "question": "Fill missing numbers in sequence 1,2,3,4,5,6",
+    "answer": "\"\""
+  },
+  {
+    "set": "16",
+    "q": "Q4",
+    "type": "choice",
+    "question": "Heavier side (a dice and a balloon)",
+    "answer": "Right"
+  },
+  {
+    "set": "16",
+    "q": "Q5",
+    "type": "matching",
+    "question": "Match pairs",
+    "answer": "[{\"lPos\":1,\"left\":\"Shoe\",\"rPos\":2,\"right\":\"Sock\"},{\"lPos\":2,\"left\":\"Crown\",\"rPos\":3,\"right\":\"Gift Box\"},{\"lPos\":3,\"left\":\"Kite\",\"rPos\":1,\"right\":\"Balloon\"},{\"lPos\":4,\"left\":\"Drum\",\"rPos\":4,\"right\":\"Bird\"}]"
+  },
+  {
+    "set": "16",
+    "q": "Q6",
+    "type": "cluster_loop",
+    "question": "Circle \u20b91 coins",
+    "answer": "\"\""
+  },
+  {
+    "set": "16",
+    "q": "Q7",
+    "type": "path_trace",
+    "question": "Cut apple in half",
+    "answer": "\"\""
+  },
+  {
+    "set": "16",
+    "q": "Q8",
+    "type": "mcq",
+    "question": "How many left? (box of stars)",
+    "answer": "0"
+  },
+  {
+    "set": "16",
+    "q": "Q9",
+    "type": "dual_mark",
+    "question": "Most/Least balloon",
+    "answer": "\"\""
+  }
+]

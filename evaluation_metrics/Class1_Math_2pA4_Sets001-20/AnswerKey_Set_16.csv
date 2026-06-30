@@ -1,0 +1,10 @@
+set,q,type,question,answer
+16,Q1,matching,"Match shapes","[{""lPos"":1,""shape"":""Triangle"",""rPos"":2,""obj"":""Warning Sign""},{""lPos"":2,""shape"":""Circle"",""rPos"":3,""obj"":""Clock""},{""lPos"":3,""shape"":""Rectangle"",""rPos"":4,""obj"":""Eraser""},{""lPos"":4,""shape"":""Square"",""rPos"":1,""obj"":""Window""}]"
+16,Q2,group_circle,"Circle MORE/LESS groups","[{""cell"":""TL"",""task"":""MORE"",""lCount"":6,""rCount"":5,""ans"":""Left""},{""cell"":""TR"",""task"":""MORE"",""lCount"":2,""rCount"":7,""ans"":""Right""},{""cell"":""BL"",""task"":""LESS"",""lCount"":2,""rCount"":9,""ans"":""Left""},{""cell"":""BR"",""task"":""LESS"",""lCount"":6,""rCount"":3,""ans"":""Right""}]"
+16,Q3,fill_number,"Fill missing numbers in sequence 1,2,3,4,5,6",""""""
+16,Q4,choice,"Heavier side (a dice and a balloon)","Right"
+16,Q5,matching,"Match pairs","[{""lPos"":1,""left"":""Shoe"",""rPos"":2,""right"":""Sock""},{""lPos"":2,""left"":""Crown"",""rPos"":3,""right"":""Gift Box""},{""lPos"":3,""left"":""Kite"",""rPos"":1,""right"":""Balloon""},{""lPos"":4,""left"":""Drum"",""rPos"":4,""right"":""Bird""}]"
+16,Q6,cluster_loop,"Circle ₹1 coins",""""""
+16,Q7,path_trace,"Cut apple in half",""""""
+16,Q8,mcq,"How many left? (box of stars)","0"
+16,Q9,dual_mark,"Most/Least balloon",""""""

@@ -1,0 +1,65 @@
+[
+  {
+    "set": "2",
+    "q": "Q1",
+    "type": "matching",
+    "question": "Match shapes",
+    "answer": "[{\"lPos\":1,\"shape\":\"Rectangle\",\"rPos\":1,\"obj\":\"Door\"},{\"lPos\":2,\"shape\":\"Square\",\"rPos\":4,\"obj\":\"Chocolate\"},{\"lPos\":3,\"shape\":\"Triangle\",\"rPos\":2,\"obj\":\"Mango\"},{\"lPos\":4,\"shape\":\"Circle\",\"rPos\":3,\"obj\":\"Clock\"}]"
+  },
+  {
+    "set": "2",
+    "q": "Q2",
+    "type": "group_circle",
+    "question": "Circle MORE/LESS groups",
+    "answer": "[{\"cell\":\"TL\",\"task\":\"MORE\",\"lCount\":6,\"rCount\":2,\"ans\":\"Left\"},{\"cell\":\"TR\",\"task\":\"MORE\",\"lCount\":2,\"rCount\":9,\"ans\":\"Right\"},{\"cell\":\"BL\",\"task\":\"LESS\",\"lCount\":5,\"rCount\":8,\"ans\":\"Left\"},{\"cell\":\"BR\",\"task\":\"LESS\",\"lCount\":2,\"rCount\":8,\"ans\":\"Left\"}]"
+  },
+  {
+    "set": "2",
+    "q": "Q3",
+    "type": "fill_number",
+    "question": "Fill missing numbers in sequence 2,3,4,5,6,7",
+    "answer": "\"\""
+  },
+  {
+    "set": "2",
+    "q": "Q4",
+    "type": "choice",
+    "question": "Heavier side (a dice and a balloon)",
+    "answer": "Right"
+  },
+  {
+    "set": "2",
+    "q": "Q5",
+    "type": "matching",
+    "question": "Match pairs",
+    "answer": "[{\"lPos\":1,\"left\":\"Rocket\",\"rPos\":2,\"right\":\"Star\"},{\"lPos\":2,\"left\":\"Drum\",\"rPos\":1,\"right\":\"Bird\"},{\"lPos\":3,\"left\":\"Lock\",\"rPos\":3,\"right\":\"Key\"},{\"lPos\":4,\"left\":\"Pencil\",\"rPos\":4,\"right\":\"Eraser\"}]"
+  },
+  {
+    "set": "2",
+    "q": "Q6",
+    "type": "cluster_loop",
+    "question": "Circle \u20b91 coins",
+    "answer": "\"\""
+  },
+  {
+    "set": "2",
+    "q": "Q7",
+    "type": "path_trace",
+    "question": "Cut mango in half",
+    "answer": "\"\""
+  },
+  {
+    "set": "2",
+    "q": "Q8",
+    "type": "mcq",
+    "question": "How many left? (box of gifts)",
+    "answer": "0"
+  },
+  {
+    "set": "2",
+    "q": "Q9",
+    "type": "dual_mark",
+    "question": "Most/Least leaf",
+    "answer": "\"\""
+  }
+]

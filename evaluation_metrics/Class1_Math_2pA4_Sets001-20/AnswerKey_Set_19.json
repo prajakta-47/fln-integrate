@@ -1,0 +1,65 @@
+[
+  {
+    "set": "19",
+    "q": "Q1",
+    "type": "matching",
+    "question": "Match shapes",
+    "answer": "[{\"lPos\":1,\"shape\":\"Circle\",\"rPos\":2,\"obj\":\"Clock\"},{\"lPos\":2,\"shape\":\"Rectangle\",\"rPos\":4,\"obj\":\"Book\"},{\"lPos\":3,\"shape\":\"Square\",\"rPos\":3,\"obj\":\"Gift Box\"},{\"lPos\":4,\"shape\":\"Triangle\",\"rPos\":1,\"obj\":\"Ice Cream\"}]"
+  },
+  {
+    "set": "19",
+    "q": "Q2",
+    "type": "group_circle",
+    "question": "Circle MORE/LESS groups",
+    "answer": "[{\"cell\":\"TL\",\"task\":\"MORE\",\"lCount\":6,\"rCount\":5,\"ans\":\"Left\"},{\"cell\":\"TR\",\"task\":\"MORE\",\"lCount\":7,\"rCount\":5,\"ans\":\"Left\"},{\"cell\":\"BL\",\"task\":\"LESS\",\"lCount\":7,\"rCount\":4,\"ans\":\"Right\"},{\"cell\":\"BR\",\"task\":\"LESS\",\"lCount\":10,\"rCount\":2,\"ans\":\"Right\"}]"
+  },
+  {
+    "set": "19",
+    "q": "Q3",
+    "type": "fill_number",
+    "question": "Fill missing numbers in sequence 5,6,7,8,9,10",
+    "answer": "\"\""
+  },
+  {
+    "set": "19",
+    "q": "Q4",
+    "type": "choice",
+    "question": "Circle the container that can hold the MOST water.",
+    "answer": "Bucket"
+  },
+  {
+    "set": "19",
+    "q": "Q5",
+    "type": "matching",
+    "question": "Match pairs",
+    "answer": "[{\"lPos\":1,\"left\":\"Umbrella\",\"rPos\":3,\"right\":\"Raincoat\"},{\"lPos\":2,\"left\":\"Pencil\",\"rPos\":2,\"right\":\"Eraser\"},{\"lPos\":3,\"left\":\"Rocket\",\"rPos\":1,\"right\":\"Star\"},{\"lPos\":4,\"left\":\"Kite\",\"rPos\":4,\"right\":\"Balloon\"}]"
+  },
+  {
+    "set": "19",
+    "q": "Q6",
+    "type": "cluster_loop",
+    "question": "Circle \u20b91 coins",
+    "answer": "\"\""
+  },
+  {
+    "set": "19",
+    "q": "Q7",
+    "type": "path_trace",
+    "question": "Cut mango in half",
+    "answer": "\"\""
+  },
+  {
+    "set": "19",
+    "q": "Q8",
+    "type": "mcq",
+    "question": "How many left? (plate of mangoes)",
+    "answer": "0"
+  },
+  {
+    "set": "19",
+    "q": "Q9",
+    "type": "dual_mark",
+    "question": "Most/Least rocket",
+    "answer": "\"\""
+  }
+]

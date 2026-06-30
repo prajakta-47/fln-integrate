@@ -1,0 +1,42 @@
+{
+  "question_heading": "THICK and THIN Things",
+  "question_type": "Classification",
+  "learning_outcome": "The child will be able to distinguish and categorize objects based on the physical attribute of thickness/thinness.",
+  "student_action": "Identify and categorize objects into 'Thick' and 'Thin' groups (implied sorting or circling/drawing lines based on the layout).",
+  "answer_format": "match",
+  "visual_elements": "The worksheet features a colorful header with 'THICK and THIN' in large, playful fonts. It is divided into two vertical columns by a dashed blue line. The left column is headed by a green 'Thick' label, and the right column by a pink 'Thin' label. Illustrations include: Thick (red book, hamburger, tree, thick rope, thick crayon) and Thin (notebook, thin tree, pizza slice, spool of thread, thin pencil, thin crayon). The border is decorated with stars and pencils.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 12,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Comparing attributes (Thickness)",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Attribute identification",
+    "Categorization",
+    "Vocabulary development (thick/thin)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "moderate",
+  "scaffolding_details": "The worksheet uses a clear two-column layout with color-coded headers (Green for Thick, Pink for Thin) to provide visual scaffolding for categorization.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of object shapes and the concept of size/dimension.",
+  "common_misconceptions": [
+    "Confusing thickness with length (e.g., thinking a long thin pencil is 'thick' because it is large)",
+    "Confusing thickness with weight"
+  ],
+  "cultural_context": "The items (hamburger, pizza, notebook) are globally recognized but may be more aligned with Western urban contexts than rural Indian contexts.",
+  "teacher_guidance": "Since the worksheet doesn't have explicit 'do this' instructions (like 'circle' or 'draw a line'), the teacher should instruct students to either draw lines connecting the items to the correct column or to color the items that belong in a specific category. Use real-life objects (a thick marker vs. a thin pen) to reinforce the concept before starting.",
+  "adaptation_suggestions": "For struggling learners: Provide physical objects to touch and feel. For advanced learners: Ask them to find more examples in the classroom or draw their own 'thick' and 'thin' objects.",
+  "cross_curricular_links": "Language Arts (adjective usage), Science (observing physical properties).",
+  "all_text_detected": "THICK and THIN Things Thick Thin",
+  "confidence_score": 95,
+  "reasoning": "The worksheet is clearly a classification task based on the visual grouping of objects under 'Thick' and 'Thin' headers. The visual evidence of the two columns and the specific objects chosen makes the intent unambiguous."
+}

@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Question Paper Template</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Times New Roman', Times, serif; background: #eef1f5; padding: 30px 20px; }
+
+.page {
+    max-width: 210mm; margin: 0 auto; background: #fff;
+    padding: 20mm 25mm; min-height: 297mm;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.08);
+}
+
+/* ── Header ── */
+.header-bar { border-bottom: 3px solid #000; padding-bottom: 14px; margin-bottom: 16px; }
+.school { font-size: 18px; font-weight: 700; text-align: center; letter-spacing: 1px; text-transform: uppercase; }
+.subtitle { text-align: center; font-size: 13px; color: #444; margin-top: 2px; }
+.exam-info { display: flex; justify-content: space-between; font-size: 13px; margin: 12px 0 0 0; font-weight: 600; }
+
+/* ── Instructions ── */
+.gen-inst { margin: 14px 0 18px 0; padding: 10px 14px; border: 1.5px solid #000; }
+.gen-inst h3 { font-size: 13px; margin-bottom: 6px; text-transform: uppercase; }
+.gen-inst p { font-size: 12px; line-height: 1.6; color: #222; }
+
+/* ── Section ── */
+.section-title {
+    font-size: 15px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+    margin: 20px 0 14px 0; padding-bottom: 6px; border-bottom: 2px solid #000;
+}
+
+/* ── Question ── */
+.qblock { margin-bottom: 22px; page-break-inside: avoid; }
+.qnum { font-size: 14px; font-weight: 700; margin-bottom: 4px; }
+.qtext {
+    font-size: 13.5px; line-height: 1.55; color: #222;
+    margin: 2px 0 8px 18px; padding-left: 10px; border-left: 2.5px solid #444;
+    min-height: 20px;
+}
+
+/* ── Options ── */
+.options { margin: 4px 0 0 30px; }
+.opt {
+    display: inline-block; width: 48%; margin: 3px 0; font-size: 13px; line-height: 1.5; color: #333;
+    vertical-align: top;
+}
+.opt-label { font-weight: 700; margin-right: 4px; }
+
+/* ── Illustration Placeholder ── */
+.illustration {
+    margin: 8px 0 8px 18px; padding: 10px; border: 1.5px dashed #aaa;
+    min-height: 60px; text-align: center; color: #999; font-size: 12px;
+    background: #fafafa;
+}
+
+/* ── Fill in the blanks / Answer line ── */
+.blank { display: inline-block; width: 80px; border-bottom: 1.5px solid #000; margin: 0 4px; }
+
+/* ── Print ── */
+@media print {
+    body { background: #fff; padding: 0; }
+    .page { box-shadow: none; padding: 0.6in; }
+    .qblock { break-inside: avoid; }
+}
+</style>
+</head>
+<body>
+
+<div class="page">
+
+    <!-- ═══════════ HEADER ═══════════ -->
+    <div class="header-bar">
+        <div class="school">SUNRISE PUBLIC SCHOOL</div>
+        <div class="subtitle">Early Learning Assessment — Kindergarten</div>
+        <div class="exam-info">
+            <span>Time Allowed: 1 Hour</span>
+            <span>Max. Marks: 10</span>
+        </div>
+    </div>
+
+    <!-- ═══════════ GENERAL INSTRUCTIONS ═══════════ -->
+    <div class="gen-inst">
+        <h3>General Instructions</h3>
+        <p>
+            1. Read each question carefully before answering.<br>
+            2. Choose the correct option and write its letter in the box provided.<br>
+            3. There are 10 questions in this paper. All questions are compulsory.
+        </p>
+    </div>
+
+    <!-- ═══════════ SECTION ═══════════ -->
+    <div class="section-title">Section A &mdash; Multiple Choice Questions</div>
+
+    <!-- ─── Question 1 ─── -->
+    <div class="qblock">
+        <div class="qnum">1.</div>
+        <div class="qtext"><!-- Question text goes here --></div>
+        <div class="illustration"><!-- Illustration / diagram goes here (optional) --></div>
+        <div class="options">
+            <div class="opt"><span class="opt-label">(A)</span> <!-- Option A --></div>
+            <div class="opt"><span class="opt-label">(B)</span> <!-- Option B --></div>
+            <div class="opt"><span class="opt-label">(C)</span> <!-- Option C --></div>
+            <div class="opt"><span class="opt-label">(D)</span> <!-- Option D --></div>
+        </div>
+    </div>
+
+    <!-- ─── Question 2 ─── -->
+    <div class="qblock">
+        <div class="qnum">2.</div>
+        <div class="qtext"><!-- Question text goes here --></div>
+        <div class="illustration"><!-- Illustration / diagram goes here (optional) --></div>
+        <div class="options">
+            <div class="opt"><span class="opt-label">(A)</span> <!-- Option A --></div>
+            <div class="opt"><span class="opt-label">(B)</span> <!-- Option B --></div>
+            <div class="opt"><span class="opt-label">(C)</span> <!-- Option C --></div>
+            <div class="opt"><span class="opt-label">(D)</span> <!-- Option D --></div>
+        </div>
+    </div>
+
+    <!-- ─── Question 3 ─── -->
+    <div class="qblock">
+        <div class="qnum">3.</div>
+        <div class="qtext"><!-- Question text goes here --></div>
+        <div class="illustration"><!-- Illustration / diagram goes here (optional) --></div>
+        <div class="options">
+            <div class="opt"><span class="opt-label">(A)</span> <!-- Option A --></div>
+            <div class="opt"><span class="opt-label">(B)</span> <!-- Option B --></div>
+            <div class="opt"><span class="opt-label">(C)</span> <!-- Option C --></div>
+            <div class="opt"><span class="opt-label">(D)</span> <!-- Option D --></div>
+        </div>
+    </div>
+
+    <!-- ─── Question 4 ─── -->
+    <div class="qblock">
+        <div class="qnum">4.</div>
+        <div class="qtext"><!-- Question text goes here --></div>
+        <div class="illustration"><!-- Illustration / diagram goes here (optional) --></div>
+        <div class="options">
+            <div class="opt"><span class="opt-label">(A)</span> <!-- Option A --></div>
+            <div class="opt"><span class="opt-label">(B)</span> <!-- Option B --></div>
+            <div class="opt"><span class="opt-label">(C)</span> <!-- Option C --></div>
+            <div class="opt"><span class="opt-label">(D)</span> <!-- Option D --></div>
+        </div>
+    </div>
+
+    <!-- ─── Question 5 ─── -->
+    <div class="qblock">
+        <div class="qnum">5.</div>
+        <div class="qtext"><!-- Question text goes here --></div>
+        <div class="illustration"><!-- Illustration / diagram goes here (optional) --></div>
+        <div class="options">
+            <div class="opt"><span class="opt-label">(A)</span> <!-- Option A --></div>
+            <div class="opt"><span class="opt-label">(B)</span> <!-- Option B --></div>
+            <div class="opt"><span class="opt-label">(C)</span> <!-- Option C --></div>
+            <div class="opt"><span class="opt-label">(D)</span> <!-- Option D --></div>
+        </div>
+    </div>
+
+    <!-- ─── Question 6 ─── -->
+    <div class="qblock">
+        <div class="qnum">6.</div>
+        <div class="qtext"><!-- Question text goes here --></div>
+        <div class="illustration"><!-- Illustration / diagram goes here (optional) --></div>
+        <div class="options">
+            <div class="opt"><span class="opt-label">(A)</span> <!-- Option A --></div>
+            <div class="opt"><span class="opt-label">(B)</span> <!-- Option B --></div>
+            <div class="opt"><span class="opt-label">(C)</span> <!-- Option C --></div>
+            <div class="opt"><span class="opt-label">(D)</span> <!-- Option D --></div>
+        </div>
+    </div>
+
+    <!-- ─── Question 7 ─── -->
+    <div class="qblock">
+        <div class="qnum">7.</div>
+        <div class="qtext"><!-- Question text goes here --></div>
+        <div class="illustration"><!-- Illustration / diagram goes here (optional) --></div>
+        <div class="options">
+            <div class="opt"><span class="opt-label">(A)</span> <!-- Option A --></div>
+            <div class="opt"><span class="opt-label">(B)</span> <!-- Option B --></div>
+            <div class="opt"><span class="opt-label">(C)</span> <!-- Option C --></div>
+            <div class="opt"><span class="opt-label">(D)</span> <!-- Option D --></div>
+        </div>
+    </div>
+
+    <!-- ─── Question 8 ─── -->
+    <div class="qblock">
+        <div class="qnum">8.</div>
+        <div class="qtext"><!-- Question text goes here --></div>
+        <div class="illustration"><!-- Illustration / diagram goes here (optional) --></div>
+        <div class="options">
+            <div class="opt"><span class="opt-label">(A)</span> <!-- Option A --></div>
+            <div class="opt"><span class="opt-label">(B)</span> <!-- Option B --></div>
+            <div class="opt"><span class="opt-label">(C)</span> <!-- Option C --></div>
+            <div class="opt"><span class="opt-label">(D)</span> <!-- Option D --></div>
+        </div>
+    </div>
+
+    <!-- ─── Question 9 ─── -->
+    <div class="qblock">
+        <div class="qnum">9.</div>
+        <div class="qtext"><!-- Question text goes here --></div>
+        <div class="illustration"><!-- Illustration / diagram goes here (optional) --></div>
+        <div class="options">
+            <div class="opt"><span class="opt-label">(A)</span> <!-- Option A --></div>
+            <div class="opt"><span class="opt-label">(B)</span> <!-- Option B --></div>
+            <div class="opt"><span class="opt-label">(C)</span> <!-- Option C --></div>
+            <div class="opt"><span class="opt-label">(D)</span> <!-- Option D --></div>
+        </div>
+    </div>
+
+    <!-- ─── Question 10 ─── -->
+    <div class="qblock">
+        <div class="qnum">10.</div>
+        <div class="qtext"><!-- Question text goes here --></div>
+        <div class="illustration"><!-- Illustration / diagram goes here (optional) --></div>
+        <div class="options">
+            <div class="opt"><span class="opt-label">(A)</span> <!-- Option A --></div>
+            <div class="opt"><span class="opt-label">(B)</span> <!-- Option B --></div>
+            <div class="opt"><span class="opt-label">(C)</span> <!-- Option C --></div>
+            <div class="opt"><span class="opt-label">(D)</span> <!-- Option D --></div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

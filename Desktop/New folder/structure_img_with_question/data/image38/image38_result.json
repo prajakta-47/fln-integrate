@@ -1,0 +1,43 @@
+{
+  "question_heading": "Match similar shapes in the two columns. / Match the shapes that are similar.",
+  "question_type": "Shapes",
+  "learning_outcome": "The child will be able to identify, recognize, and match identical geometric shapes and abstract symbols/orientations.",
+  "student_action": "match",
+  "answer_format": "match",
+  "visual_elements": "Two distinct sections. Section 1: Two vertical rectangles (pink and blue) containing colored geometric shapes (yellow circle, square, triangle, semi-circle). A line is drawn connecting the circle in the pink box to the circle in the blue box. Section 2: Two vertical rectangles (green and red) containing black abstract curved symbols/shapes in different orientations.",
+  "number_range": "N/A",
+  "has_example": true,
+  "question_count": 2,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Visual Discrimination",
+  "sub_concept": "Shape and Symbol Recognition",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Shape recognition",
+    "Spatial awareness",
+    "Pattern matching",
+    "Fine motor coordination"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The first task provides a visual example of how to match by drawing a line between the two yellow circles.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic recognition of common geometric shapes and ability to follow a line.",
+  "common_misconceptions": [
+    "Matching by color instead of shape (e.g., matching the yellow triangle to the yellow square)",
+    "Difficulty with orientation in the second task (e.g., not recognizing a symbol is the same if it is rotated)"
+  ],
+  "cultural_context": "Neutral/Universal",
+  "teacher_guidance": "Use this to assess if children can distinguish between properties like shape vs. color. For the second task, emphasize that the 'shape' is the same even if it is turned upside down or sideways to build spatial reasoning.",
+  "adaptation_suggestions": "For struggling learners: Use physical shape blocks to match. For advanced learners: Introduce shapes that are similar but not identical (e.g., a square vs. a rectangle) to increase difficulty.",
+  "cross_curricular_links": "Mathematics (Geometry), Pre-writing skills (Fine Motor)",
+  "all_text_detected": "Match similar shapes in the two columns. Match the shapes that are similar. Make more such shapes and match similar shapes among them.",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is clearly divided into two tasks: one focusing on standard geometric shapes and one on abstract symbol orientation. An example is explicitly provided in the first task. The instructions are direct and suitable for the target age group."
+}

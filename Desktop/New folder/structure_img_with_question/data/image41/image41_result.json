@@ -1,0 +1,41 @@
+{
+  "question_heading": "Matching Game",
+  "question_type": "Matching",
+  "learning_outcome": "The child will be able to identify and match colored objects with their corresponding black-and-white outlines, demonstrating visual discrimination and object recognition skills.",
+  "student_action": "The student should draw a line to connect each colored fruit in the top row to its matching outline in the bottom row.",
+  "answer_format": "match",
+  "visual_elements": "The worksheet features a colorful border of vertical stripes. It has two rows of circular frames. The top row contains three colored illustrations: grapes (purple), pomegranate (pink/red), and an orange (orange). The bottom row contains three dashed-line circular frames with black-and-white outlines of the same fruits (orange, grapes, pomegranate) in a different order. Small black dots are placed at the bottom of each circle to serve as anchor points for matching.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 3,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Visual Discrimination",
+  "sub_concept": "Object-to-Outline Matching",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Object recognition",
+    "Fine motor skills (drawing lines)",
+    "Cognitive association"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The use of dots at the bottom of each circle provides a clear visual cue for where the child should start and end their matching lines.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic recognition of common fruits and ability to hold a writing tool.",
+  "common_misconceptions": [
+    "Matching based on position rather than content (e.g., connecting the first item in the top row to the first item in the bottom row regardless of the fruit type)."
+  ],
+  "cultural_context": "The fruits (grapes, pomegranate, orange) are universally recognized and common in Indian households.",
+  "teacher_guidance": "Encourage the child to name each fruit aloud before drawing the line. This integrates vocabulary building with the visual task. Ensure they use a ruler or steady hand to connect the dots.",
+  "adaptation_suggestions": "For struggling learners, provide a physical line or a colored pencil to make the path clearer. For advanced learners, ask them to color the bottom outlines to match the top ones or name the colors used.",
+  "cross_curricular_links": "EVS (Environmental Studies) - Identification of fruits.",
+  "all_text_detected": "Matching Game",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is unambiguous. The heading 'Matching Game' clearly defines the task. The visual structure of colored images above outlines with anchor dots is a standard pedagogical design for matching tasks in early childhood education."
+}

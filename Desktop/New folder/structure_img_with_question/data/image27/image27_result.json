@@ -1,0 +1,42 @@
+{
+  "question_heading": "Big or Small? / Circle the Biggest",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to identify and differentiate between objects based on their relative size (big vs. small and biggest).",
+  "student_action": "circle",
+  "answer_format": "circle",
+  "visual_elements": "Two distinct worksheet pages shown. Page 1: A 2x2 grid containing pairs of animals (bee, flamingo, pig, duckling) in different sizes. Page 2: Four horizontal rows containing sets of three objects (pumpkins, jars, pretzels, flowers in vases) in varying sizes. Bright colors, simple cartoon illustrations, clear borders.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 8,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Comparing Size (Attributes)",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Size comparison",
+    "Attribute identification",
+    "Fine motor control (circling)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The worksheet uses a progression of difficulty: the first page asks to identify 'Big' from a pair (binary comparison), while the second page asks to identify 'Biggest' from a set of three (ternary comparison).",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of the concepts of 'big' and 'small'.",
+  "common_misconceptions": [
+    "Confusing 'big' with 'tall' or 'long' if the object's orientation changes.",
+    "Difficulty distinguishing between 'big' and 'biggest' when presented with three items."
+  ],
+  "cultural_context": "Neutral/Universal illustrations.",
+  "teacher_guidance": "Use these worksheets to introduce vocabulary like 'large', 'tiny', 'huge', and 'small'. Before giving the worksheet, use real-world objects (e.g., two different sized balls) to demonstrate the concept physically.",
+  "adaptation_suggestions": "For struggling learners: Use physical manipulatives first. For advanced learners: Ask them to draw an object that is 'smaller than the bee but bigger than the pig'.",
+  "cross_curricular_links": "Language Arts (vocabulary building)",
+  "all_text_detected": "Big or Small? Circle the Big Picture. Circle the Biggest Circle the Big Picture. 8 Pages Big Small Worksheets",
+  "confidence_score": 100,
+  "reasoning": "The text instructions are clearly legible and explicitly state the task. The visual structure (grids and rows) and the progression from 2 items to 3 items are standard pedagogical approaches for teaching size comparison in early childhood education."
+}

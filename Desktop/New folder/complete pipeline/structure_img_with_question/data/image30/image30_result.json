@@ -1,0 +1,43 @@
+{
+  "question_heading": "Big vs. small",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to identify, compare, and differentiate between objects based on their relative size (big and small).",
+  "student_action": "circle and draw",
+  "answer_format": "circle|draw",
+  "visual_elements": "A structured 2x3 grid layout. The top section contains the title 'Big vs. small' with a small yellow bird illustration. The grid contains six cells: four cells feature pairs of animals (cat/fish, spider/snake, parrot/dog, guinea pig/turtle) with questions above them, and two cells at the bottom feature single objects (ice cream, fish) with instructions to draw a relative size.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 6,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Comparing Size (Attributes)",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Size comparison",
+    "Relative sizing",
+    "Fine motor skills (drawing)",
+    "Vocabulary comprehension (big/small)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The worksheet uses visual pairs to guide the child through the concept of comparison before asking them to apply the concept through drawing.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of the words 'big' and 'small' and ability to hold a pencil/crayon.",
+  "common_misconceptions": [
+    "Confusing 'bigger' with 'more' (quantity)",
+    "Difficulty understanding relative size if the objects are of similar scale"
+  ],
+  "cultural_context": "Neutral/Global; the animals and objects (ice cream, fish, cat, etc.) are universally recognizable.",
+  "teacher_guidance": "Use this worksheet to reinforce vocabulary. Before starting, do a physical activity where children point to 'big' and 'small' objects in the classroom. For the drawing section, ensure children understand they are not just drawing any fish/ice cream, but one that is specifically larger or smaller than the one provided.",
+  "adaptation_suggestions": "For struggling learners: Use physical manipulatives (blocks, toys) to demonstrate size before the paper task. For advanced learners: Ask them to draw a 'medium' sized object between the two provided.",
+  "cross_curricular_links": "EVS (Environmental Studies) - identifying animals and their characteristics.",
+  "all_text_detected": "Name ________ Date ________ Big vs. small Look at the pictures below and answer the questions by circling the correct picture. Which is bigger? Which is smaller? Which is smaller? Which is bigger? Draw a smaller ice cream. Draw a bigger fish.",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is clearly titled, the instructions are explicit, and the grid structure makes the task breakdown unambiguous. All text was successfully read and mapped to educational concepts."
+}

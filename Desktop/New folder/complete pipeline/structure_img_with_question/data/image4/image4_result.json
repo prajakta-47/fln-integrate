@@ -1,0 +1,42 @@
+{
+  "question_heading": "Tick (\u2713) the heavy ones.",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to compare two objects based on the attribute of weight (heavy vs. light).",
+  "student_action": "The student should identify the heavier object in each pair and place a tick mark (\u2713) in the provided box below that object.",
+  "answer_format": "fill_in_blank",
+  "visual_elements": "The worksheet is organized in a structured grid with four rows. Each row contains two distinct illustrations representing pairs of objects for comparison: 1) A dog and a cat, 2) A large pile of grapes and a small pile of grapes, 3) A marble/ball and a soccer ball, 4) A large book and a small book. Each object has a white rectangular box underneath it for the student to place the tick mark.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 4,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Weight (Mass) Comparison",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Attribute identification",
+    "Comparative reasoning",
+    "Weight estimation"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The worksheet uses direct visual comparisons of size and quantity to imply weight, which helps children bridge the gap between visual size and the concept of mass.",
+  "multiple_representations": true,
+  "assessment_purpose": "formative",
+  "prior_knowledge_required": "Basic understanding of size (big vs. small) and familiarity with common objects like animals, fruit, and books.",
+  "common_misconceptions": [
+    "Confusing size with weight (assuming everything 'big' is always 'heavy' even if it's light, though in these examples they correlate)",
+    "Difficulty understanding that a small dense object might be heavier than a large light object (though not explicitly tested here)"
+  ],
+  "cultural_context": "The objects (dog, cat, grapes, soccer ball, books) are globally recognizable and culturally neutral/relevant for Indian children.",
+  "teacher_guidance": "Before using this worksheet, conduct a hands-on activity using real objects (e.g., a heavy stone vs. a light leaf) to let children feel the difference in weight. This builds the sensory foundation needed to solve the visual problems on the page.",
+  "adaptation_suggestions": "For struggling learners: Use real objects first. For advanced learners: Ask them to explain 'why' they chose that object or introduce objects where size and weight do not correlate (e.g., a large balloon vs. a small metal marble).",
+  "cross_curricular_links": "Science (Physical properties of matter)",
+  "all_text_detected": "Tick (\u2713) the heavy ones. Book Book",
+  "confidence_score": 100,
+  "reasoning": "The instruction is explicit, the visual pairs are clearly designed for weight comparison, and the layout is standard for early childhood assessment. The text 'heavy' is highlighted in pink to draw attention to the key concept."
+}

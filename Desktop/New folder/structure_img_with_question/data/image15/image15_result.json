@@ -1,0 +1,42 @@
+{
+  "question_heading": "None visible",
+  "question_type": "Matching",
+  "learning_outcome": "The student will be able to identify and match identical geometric shapes and colors.",
+  "student_action": "Match the shape on the left column with its identical counterpart in the right column by drawing a line.",
+  "answer_format": "connect",
+  "visual_elements": "Two vertical columns of colorful geometric shapes (blue circle, purple diamond, green square, yellow star, red heart) separated by dots. The shapes are simple, solid-colored icons with black outlines.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 5,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Shapes",
+  "sub_concept": "Shape and Color Recognition",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Shape identification",
+    "Color recognition",
+    "Fine motor coordination (drawing lines)"
+  ],
+  "language": "None",
+  "script": "None",
+  "instruction_clarity": "unclear",
+  "visual_density": "simple",
+  "scaffolding_details": "No explicit scaffolding or examples provided; relies entirely on visual cues.",
+  "multiple_representations": false,
+  "assessment_purpose": "diagnostic",
+  "prior_knowledge_required": "Basic recognition of primary/secondary colors and basic geometric shapes.",
+  "common_misconceptions": [
+    "Matching based on color only while ignoring shape (e.g., if there were two different blue shapes)",
+    "Difficulty with spatial orientation when drawing lines"
+  ],
+  "cultural_context": "Neutral/Universal",
+  "teacher_guidance": "Since there are no written instructions, the teacher must verbally instruct the child to 'find the same shape' and 'draw a line to connect them'. Use this to assess if the child can distinguish between shape and color.",
+  "adaptation_suggestions": "For struggling learners: Provide a physical example by drawing the first line. For advanced learners: Ask them to name the shape and color aloud after matching.",
+  "cross_curricular_links": "Art (Color theory)",
+  "all_text_detected": "None",
+  "confidence_score": 95,
+  "reasoning": "The worksheet contains two columns of shapes with dots in between, which is a standard visual convention for matching tasks. The shapes are clearly identifiable (circle, diamond, square, star, heart) and the task is unambiguous for the target age group."
+}

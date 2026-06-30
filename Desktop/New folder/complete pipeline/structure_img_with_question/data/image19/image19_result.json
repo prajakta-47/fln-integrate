@@ -1,0 +1,42 @@
+{
+  "question_heading": "Find the same",
+  "question_type": "Logical Reasoning",
+  "learning_outcome": "The child will be able to identify and discriminate visual similarities and differences in posture and orientation of stick figures.",
+  "student_action": "Circle the picture in each column that is similar to the reference picture at the top of that column.",
+  "answer_format": "circle",
+  "visual_elements": "A structured grid layout with 4 columns and 6 rows. The top row contains 'reference' stick figures. Below each reference figure is a column of 5 different stick figures in various poses. The stick figures are simple line drawings (stick men). The worksheet has a red header line and a footer with a website URL.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 4,
+  "worksheet_type": "fine_motor",
+  "difficulty": "easy",
+  "concept": "Visual Discrimination",
+  "sub_concept": "Pattern Matching and Spatial Orientation",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Observation",
+    "Spatial awareness",
+    "Fine motor control (circling)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The worksheet uses a clear 'reference vs. options' structure where the top row serves as the constant for comparison.",
+  "multiple_representations": false,
+  "assessment_purpose": "diagnostic",
+  "prior_knowledge_required": "Basic ability to recognize human-like shapes and understand the concept of 'same'.",
+  "common_misconceptions": [
+    "Confusing a similar pose with an identical pose (e.g., a figure with an arm up vs. an arm out)",
+    "Focusing on the stick figure itself rather than the specific limb orientation"
+  ],
+  "cultural_context": "Neutral/Universal stick figure representations.",
+  "teacher_guidance": "Use this to assess a child's readiness for reading (visual scanning) and fine motor precision. If a child struggles, ask them to point to the arms/legs of the reference figure first to verbalize the pose.",
+  "adaptation_suggestions": "For struggling learners: Use physical movement (ask them to mimic the pose) before circling. For advanced learners: Ask them to draw a figure that is 'different' from the reference.",
+  "cross_curricular_links": "Pre-reading skills (visual tracking and discrimination).",
+  "all_text_detected": "Find the same. In each column, circle the picture that is similar to the picture above. www.myhomeschoolmath.com",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is clearly titled, the instructions are explicit, and the task (comparing the top row to the rows below in a grid) is unambiguous. The visual evidence directly supports the classification of visual discrimination/logical reasoning."
+}

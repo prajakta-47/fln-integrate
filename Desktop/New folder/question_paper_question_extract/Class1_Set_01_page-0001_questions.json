@@ -1,0 +1,728 @@
+{
+  "worksheet": "Class1_Set_01_page-0001.jpg",
+  "worksheet_info": {
+    "width": 1241,
+    "height": 1754,
+    "preprocessing": {
+      "blurry": false,
+      "skewed": false,
+      "small": false,
+      "low_contrast": false,
+      "lap_var": 3444.2,
+      "angle": 0.0,
+      "original_size": "1241x1754",
+      "applied": []
+    }
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "bounding_box": {
+        "x": 67,
+        "y": 134,
+        "width": 1109,
+        "height": 88
+      },
+      "analysis_attempts": 1,
+      "analysis_error": null,
+      "confidence": 1.0,
+      "raw_response": "```json\n{\n  \"question_text\": \"1) Match the objects that have the same shape.\",\n  \"all_visible_text\": [\n    {\"text\": \"Name:\", \"position\": \"top|left\"},\n    {\"text\": \"Date:\", \"position\": \"top|center\"},\n    {\"text\": \"Roll No.:\", \"position\": \"top|right\"},\n    {\"text\": \"Marks:\", \"position\": \"top|right\"},\n    {\"text\": \"/ 40\", \"position\": \"top|right\"},\n    {\"text\": \"1) Match the objects that have the same shape.\", \"position\": \"middle\"}\n  ],\n  \"instruction_verb\": \"Match\",\n  \"question_type\": \"Shape-Recognition\",\n  \"question_sub_type\": \"Match-Column\",\n  \"structure\": \"text-only\",\n  \"item_count\": 1,\n  \"items\": [\n    {\n      \"item_number\": 1,\n      \"text\": \"Match the objects that have the same shape.\",\n      \"objects\": [],\n      \"answer_space\": {}\n    }\n  ],\n  \"objects\": [],\n  \"total_object_count\": 0,\n  \"illustration_purpose\": \"matching\",\n  \"answer_spaces\": [],\n  \"visual_elements\": [\"border\", \"underline\"],\n  \"colors_mentioned\": [],\n  \"relational_words\": [\"same\"],\n  \"group_context\": {\"is_grouped\": false, \"group_id\": 0, \"group_instruction\": \"\"},\n  \"concept\": \"Shape Recognition\",\n  \"learning_outcome\": \"Identify and match objects based on their geometric shapes\",\n  \"cognitive_skill\": \"Understanding\",\n  \"motor_skill\": \"Matching\",\n  \"difficulty\": \"Easy\"\n}\n```",
+      "question_text": "1) Match the objects that have the same shape.",
+      "all_visible_text": [
+        {
+          "text": "Name:",
+          "position": "top|left"
+        },
+        {
+          "text": "Date:",
+          "position": "top|center"
+        },
+        {
+          "text": "Roll No.:",
+          "position": "top|right"
+        },
+        {
+          "text": "Marks:",
+          "position": "top|right"
+        },
+        {
+          "text": "/ 40",
+          "position": "top|right"
+        },
+        {
+          "text": "1) Match the objects that have the same shape.",
+          "position": "middle"
+        }
+      ],
+      "instruction_verb": "Match",
+      "question_type": "Shape-Recognition",
+      "question_sub_type": "Match-Column",
+      "structure": "text-only",
+      "item_count": 1,
+      "items": [
+        {
+          "item_number": 1,
+          "text": "Match the objects that have the same shape.",
+          "objects": [],
+          "answer_space": {}
+        }
+      ],
+      "objects": [],
+      "total_object_count": 0,
+      "illustration_purpose": "matching",
+      "answer_spaces": [],
+      "visual_elements": [
+        "border",
+        "underline"
+      ],
+      "colors_mentioned": [],
+      "relational_words": [
+        "same"
+      ],
+      "group_context": {
+        "is_grouped": false,
+        "group_id": 0,
+        "group_instruction": ""
+      },
+      "concept": "Shape Recognition",
+      "learning_outcome": "Identify and match objects based on their geometric shapes",
+      "cognitive_skill": "Understanding",
+      "motor_skill": "Matching",
+      "difficulty": "Easy"
+    },
+    {
+      "question_number": 2,
+      "bounding_box": {
+        "x": 67,
+        "y": 241,
+        "width": 1109,
+        "height": 125
+      },
+      "analysis_attempts": 1,
+      "analysis_error": null,
+      "confidence": 1.0,
+      "raw_response": "```json\n{\n  \"question_text\": \"\",\n  \"all_visible_text\": [\n    {\"text\": \"Rectangle\", \"position\": \"left\"},\n    {\"text\": \"Mango\", \"position\": \"right\"}\n  ],\n  \"instruction_verb\": \"\",\n  \"question_type\": \"Shape-Recognition\",\n  \"question_sub_type\": \"\",\n  \"structure\": \"horizontal-row\",\n  \"item_count\": 0,\n  \"items\": [],\n  \"objects\": [\n    {\"name\": \"rectangle\", \"count\": 1, \"attributes\": [\"black outline\"], \"position\": \"left\", \"arrangement\": \"row\"},\n    {\"name\": \"circle\", \"count\": 2, \"attributes\": [\"small\", \"black outline\"], \"position\": \"center\", \"arrangement\": \"row\"},\n    {\"name\": \"mango\", \"count\": 1, \"attributes\": [\"oval shape\", \"black outline\"], \"position\": \"right\", \"arrangement\": \"row\"}\n  ],\n  \"total_object_count\": 4,\n  \"illustration_purpose\": \"identification\",\n  \"answer_spaces\": [],\n  \"visual_elements\": [\"box-border\"],\n  \"colors_mentioned\": [],\n  \"relational_words\": [],\n  \"group_context\": {\"is_grouped\": false, \"group_id\": 0, \"group_instruction\": \"\"},\n  \"concept\": \"Shapes and Objects\",\n  \"learning_outcome\": \"Identify and distinguish between geometric shapes and real-world objects\",\n  \"cognitive_skill\": \"Understanding\",\n  \"motor_skill\": \"\",\n  \"difficulty\": \"Easy\"\n}\n```",
+      "question_text": "",
+      "all_visible_text": [
+        {
+          "text": "Rectangle",
+          "position": "left"
+        },
+        {
+          "text": "Mango",
+          "position": "right"
+        }
+      ],
+      "instruction_verb": "",
+      "question_type": "Shape-Recognition",
+      "question_sub_type": "",
+      "structure": "horizontal-row",
+      "item_count": 0,
+      "items": [],
+      "objects": [
+        {
+          "name": "rectangle",
+          "count": 1,
+          "attributes": [
+            "black outline"
+          ],
+          "position": "left",
+          "arrangement": "row"
+        },
+        {
+          "name": "circle",
+          "count": 2,
+          "attributes": [
+            "small",
+            "black outline"
+          ],
+          "position": "center",
+          "arrangement": "row"
+        },
+        {
+          "name": "mango",
+          "count": 1,
+          "attributes": [
+            "oval shape",
+            "black outline"
+          ],
+          "position": "right",
+          "arrangement": "row"
+        }
+      ],
+      "total_object_count": 4,
+      "illustration_purpose": "identification",
+      "answer_spaces": [],
+      "visual_elements": [
+        "box-border"
+      ],
+      "colors_mentioned": [],
+      "relational_words": [],
+      "group_context": {
+        "is_grouped": false,
+        "group_id": 0,
+        "group_instruction": ""
+      },
+      "concept": "Shapes and Objects",
+      "learning_outcome": "Identify and distinguish between geometric shapes and real-world objects",
+      "cognitive_skill": "Understanding",
+      "motor_skill": "",
+      "difficulty": "Easy"
+    },
+    {
+      "question_number": 3,
+      "bounding_box": {
+        "x": 67,
+        "y": 371,
+        "width": 1109,
+        "height": 125
+      },
+      "analysis_attempts": 1,
+      "analysis_error": null,
+      "confidence": 1.0,
+      "raw_response": "```json\n{\n  \"question_text\": \"\",\n  \"all_visible_text\": [\n    {\"text\": \"Triangle\", \"position\": \"left\"},\n    {\"text\": \"CHOCO\", \"position\": \"center\"},\n    {\"text\": \"Chocolate\", \"position\": \"right\"}\n  ],\n  \"instruction_verb\": \"\",\n  \"question_type\": \"Shape-Recognition\",\n  \"question_sub_type\": \"\",\n  \"structure\": \"horizontal-row\",\n  \"item_count\": 0,\n  \"items\": [],\n  \"objects\": [\n    {\"name\": \"triangle\", \"count\": 1, \"attributes\": [\"black outline\"], \"position\": \"left\", \"arrangement\": \"single\"},\n    {\"name\": \"circle\", \"count\": 2, \"attributes\": [\"black outline\"], \"position\": \"center\", \"arrangement\": \"row\"},\n    {\"name\": \"chocolate bar\", \"count\": 1, \"attributes\": [\"grid pattern\", \"labeled CHOCO\"], \"position\": \"right\", \"arrangement\": \"single\"}\n  ],\n  \"total_object_count\": 4,\n  \"illustration_purpose\": \"matching\",\n  \"answer_spaces\": [],\n  \"visual_elements\": [\"box-border\"],\n  \"colors_mentioned\": [],\n  \"relational_words\": [],\n  \"group_context\": {\"is_grouped\": false, \"group_id\": 0, \"group_instruction\": \"\"},\n  \"concept\": \"Shape and Object Identification\",\n  \"learning_outcome\": \"Identify and associate shapes and objects with their names\",\n  \"cognitive_skill\": \"Understanding\",\n  \"motor_skill\": \"\",\n  \"difficulty\": \"Easy\"\n}\n```",
+      "question_text": "",
+      "all_visible_text": [
+        {
+          "text": "Triangle",
+          "position": "left"
+        },
+        {
+          "text": "CHOCO",
+          "position": "center"
+        },
+        {
+          "text": "Chocolate",
+          "position": "right"
+        }
+      ],
+      "instruction_verb": "",
+      "question_type": "Shape-Recognition",
+      "question_sub_type": "",
+      "structure": "horizontal-row",
+      "item_count": 0,
+      "items": [],
+      "objects": [
+        {
+          "name": "triangle",
+          "count": 1,
+          "attributes": [
+            "black outline"
+          ],
+          "position": "left",
+          "arrangement": "single"
+        },
+        {
+          "name": "circle",
+          "count": 2,
+          "attributes": [
+            "black outline"
+          ],
+          "position": "center",
+          "arrangement": "row"
+        },
+        {
+          "name": "chocolate bar",
+          "count": 1,
+          "attributes": [
+            "grid pattern",
+            "labeled CHOCO"
+          ],
+          "position": "right",
+          "arrangement": "single"
+        }
+      ],
+      "total_object_count": 4,
+      "illustration_purpose": "matching",
+      "answer_spaces": [],
+      "visual_elements": [
+        "box-border"
+      ],
+      "colors_mentioned": [],
+      "relational_words": [],
+      "group_context": {
+        "is_grouped": false,
+        "group_id": 0,
+        "group_instruction": ""
+      },
+      "concept": "Shape and Object Identification",
+      "learning_outcome": "Identify and associate shapes and objects with their names",
+      "cognitive_skill": "Understanding",
+      "motor_skill": "",
+      "difficulty": "Easy"
+    },
+    {
+      "question_number": 4,
+      "bounding_box": {
+        "x": 67,
+        "y": 500,
+        "width": 1109,
+        "height": 126
+      },
+      "analysis_attempts": 1,
+      "analysis_error": null,
+      "confidence": 1.0,
+      "raw_response": "```json\n{\n  \"question_text\": \"\",\n  \"all_visible_text\": [\n    {\"text\": \"Square\", \"position\": \"left\"},\n    {\"text\": \"Clock\", \"position\": \"right\"}\n  ],\n  \"instruction_verb\": \"\",\n  \"question_type\": \"Shape-Recognition\",\n  \"question_sub_type\": \"\",\n  \"structure\": \"horizontal-row\",\n  \"item_count\": 2,\n  \"items\": [\n    {\"item_number\": 1, \"text\": \"Square\", \"objects\": [{\"name\": \"square\", \"count\": 1, \"attributes\": [\"black outline\"], \"position\": \"center\", \"arrangement\": \"single\"}], \"answer_space\": {}},\n    {\"item_number\": 2, \"text\": \"Clock\", \"objects\": [{\"name\": \"clock\", \"count\": 1, \"attributes\": [\"black outline\", \"analog\"], \"position\": \"center\", \"arrangement\": \"single\"}], \"answer_space\": {}}\n  ],\n  \"objects\": [\n    {\"name\": \"square\", \"count\": 1, \"attributes\": [\"black outline\"], \"position\": \"left\", \"arrangement\": \"single\"},\n    {\"name\": \"circle\", \"count\": 2, \"attributes\": [\"small\", \"black outline\"], \"position\": \"center\", \"arrangement\": \"row\"},\n    {\"name\": \"clock\", \"count\": 1, \"attributes\": [\"black outline\", \"analog\"], \"position\": \"right\", \"arrangement\": \"single\"}\n  ],\n  \"total_object_count\": 4,\n  \"illustration_purpose\": \"identification\",\n  \"answer_spaces\": [],\n  \"visual_elements\": [\"border\", \"box-border\"],\n  \"colors_mentioned\": [],\n  \"relational_words\": [],\n  \"group_context\": {\"is_grouped\": false, \"group_id\": 0, \"group_instruction\": \"\"},\n  \"concept\": \"Shapes and Objects\",\n  \"learning_outcome\": \"Identify and name basic shapes and objects\",\n  \"cognitive_skill\": \"Remembering\",\n  \"motor_skill\": \"\",\n  \"difficulty\": \"Easy\"\n}\n```",
+      "question_text": "",
+      "all_visible_text": [
+        {
+          "text": "Square",
+          "position": "left"
+        },
+        {
+          "text": "Clock",
+          "position": "right"
+        }
+      ],
+      "instruction_verb": "",
+      "question_type": "Shape-Recognition",
+      "question_sub_type": "",
+      "structure": "horizontal-row",
+      "item_count": 2,
+      "items": [
+        {
+          "item_number": 1,
+          "text": "Square",
+          "objects": [
+            {
+              "name": "square",
+              "count": 1,
+              "attributes": [
+                "black outline"
+              ],
+              "position": "center",
+              "arrangement": "single"
+            }
+          ],
+          "answer_space": {}
+        },
+        {
+          "item_number": 2,
+          "text": "Clock",
+          "objects": [
+            {
+              "name": "clock",
+              "count": 1,
+              "attributes": [
+                "black outline",
+                "analog"
+              ],
+              "position": "center",
+              "arrangement": "single"
+            }
+          ],
+          "answer_space": {}
+        }
+      ],
+      "objects": [
+        {
+          "name": "square",
+          "count": 1,
+          "attributes": [
+            "black outline"
+          ],
+          "position": "left",
+          "arrangement": "single"
+        },
+        {
+          "name": "circle",
+          "count": 2,
+          "attributes": [
+            "small",
+            "black outline"
+          ],
+          "position": "center",
+          "arrangement": "row"
+        },
+        {
+          "name": "clock",
+          "count": 1,
+          "attributes": [
+            "black outline",
+            "analog"
+          ],
+          "position": "right",
+          "arrangement": "single"
+        }
+      ],
+      "total_object_count": 4,
+      "illustration_purpose": "identification",
+      "answer_spaces": [],
+      "visual_elements": [
+        "border",
+        "box-border"
+      ],
+      "colors_mentioned": [],
+      "relational_words": [],
+      "group_context": {
+        "is_grouped": false,
+        "group_id": 0,
+        "group_instruction": ""
+      },
+      "concept": "Shapes and Objects",
+      "learning_outcome": "Identify and name basic shapes and objects",
+      "cognitive_skill": "Remembering",
+      "motor_skill": "",
+      "difficulty": "Easy"
+    },
+    {
+      "question_number": 5,
+      "bounding_box": {
+        "x": 67,
+        "y": 630,
+        "width": 1109,
+        "height": 125
+      },
+      "analysis_attempts": 1,
+      "analysis_error": null,
+      "confidence": 1.0,
+      "raw_response": "```json\n{\n  \"question_text\": \"\",\n  \"all_visible_text\": [\n    {\"text\": \"Circle\", \"position\": \"left\"},\n    {\"text\": \"Book\", \"position\": \"right\"}\n  ],\n  \"instruction_verb\": \"\",\n  \"question_type\": \"Shape-Recognition\",\n  \"question_sub_type\": \"\",\n  \"structure\": \"horizontal-row\",\n  \"item_count\": 2,\n  \"items\": [\n    {\"item_number\": 1, \"text\": \"Circle\", \"objects\": [{\"name\": \"circle\", \"count\": 1, \"attributes\": [], \"position\": \"center\", \"arrangement\": \"single\"}], \"answer_space\": {}},\n    {\"item_number\": 2, \"text\": \"Book\", \"objects\": [{\"name\": \"book\", \"count\": 1, \"attributes\": [], \"position\": \"center\", \"arrangement\": \"single\"}], \"answer_space\": {}}\n  ],\n  \"objects\": [\n    {\"name\": \"circle\", \"count\": 3, \"attributes\": [], \"position\": \"scattered\", \"arrangement\": \"row\"},\n    {\"name\": \"book\", \"count\": 1, \"attributes\": [], \"position\": \"center\", \"arrangement\": \"single\"}\n  ],\n  \"total_object_count\": 4,\n  \"illustration_purpose\": \"identification\",\n  \"answer_spaces\": [],\n  \"visual_elements\": [\"box-border\"],\n  \"colors_mentioned\": [],\n  \"relational_words\": [],\n  \"group_context\": {\"is_grouped\": false, \"group_id\": 0, \"group_instruction\": \"\"},\n  \"concept\": \"Shapes and Objects\",\n  \"learning_outcome\": \"Identify and distinguish between shapes and objects\",\n  \"cognitive_skill\": \"Understanding\",\n  \"motor_skill\": \"\",\n  \"difficulty\": \"Easy\"\n}\n```",
+      "question_text": "",
+      "all_visible_text": [
+        {
+          "text": "Circle",
+          "position": "left"
+        },
+        {
+          "text": "Book",
+          "position": "right"
+        }
+      ],
+      "instruction_verb": "",
+      "question_type": "Shape-Recognition",
+      "question_sub_type": "",
+      "structure": "horizontal-row",
+      "item_count": 2,
+      "items": [
+        {
+          "item_number": 1,
+          "text": "Circle",
+          "objects": [
+            {
+              "name": "circle",
+              "count": 1,
+              "attributes": [],
+              "position": "center",
+              "arrangement": "single"
+            }
+          ],
+          "answer_space": {}
+        },
+        {
+          "item_number": 2,
+          "text": "Book",
+          "objects": [
+            {
+              "name": "book",
+              "count": 1,
+              "attributes": [],
+              "position": "center",
+              "arrangement": "single"
+            }
+          ],
+          "answer_space": {}
+        }
+      ],
+      "objects": [
+        {
+          "name": "circle",
+          "count": 3,
+          "attributes": [],
+          "position": "scattered",
+          "arrangement": "row"
+        },
+        {
+          "name": "book",
+          "count": 1,
+          "attributes": [],
+          "position": "center",
+          "arrangement": "single"
+        }
+      ],
+      "total_object_count": 4,
+      "illustration_purpose": "identification",
+      "answer_spaces": [],
+      "visual_elements": [
+        "box-border"
+      ],
+      "colors_mentioned": [],
+      "relational_words": [],
+      "group_context": {
+        "is_grouped": false,
+        "group_id": 0,
+        "group_instruction": ""
+      },
+      "concept": "Shapes and Objects",
+      "learning_outcome": "Identify and distinguish between shapes and objects",
+      "cognitive_skill": "Understanding",
+      "motor_skill": "",
+      "difficulty": "Easy"
+    },
+    {
+      "question_number": 6,
+      "bounding_box": {
+        "x": 68,
+        "y": 789,
+        "width": 1107,
+        "height": 593
+      },
+      "analysis_attempts": 1,
+      "analysis_error": null,
+      "confidence": 1.0,
+      "raw_response": "```json\n{\n  \"question_text\": \"2) Circle the group as directed.\",\n  \"all_visible_text\": [\n    {\"text\": \"2) Circle the group as directed.\", \"position\": \"top\"},\n    {\"text\": \"Circle the group that has MORE.\", \"position\": \"bottom|left\"},\n    {\"text\": \"Circle the group that has MORE.\", \"position\": \"bottom|right\"},\n    {\"text\": \"Circle the group that has LESS.\", \"position\": \"bottom|left\"},\n    {\"text\": \"Circle the group that has LESS.\", \"position\": \"bottom|right\"}\n  ],\n  \"instruction_verb\": \"Circle\",\n  \"question_type\": \"Comparison\",\n  \"question_sub_type\": \"Greater-Less\",\n  \"structure\": \"grid\",\n  \"item_count\": 4,\n  \"items\": [\n    {\"item_number\": 1, \"text\": \"\", \"objects\": [{\"name\": \"star\", \"count\": 10}, {\"name\": \"bomb\", \"count\": 4}], \"answer_space\": {}},\n    {\"item_number\": 2, \"text\": \"\", \"objects\": [{\"name\": \"leaf\", \"count\": 10}, {\"name\": \"bee\", \"count\": 5}], \"answer_space\": {}},\n    {\"item_number\": 3, \"text\": \"\", \"objects\": [{\"name\": \"balloon\", \"count\": 10}, {\"name\": \"crown\", \"count\": 3}], \"answer_space\": {}},\n    {\"item_number\": 4, \"text\": \"\", \"objects\": [{\"name\": \"flower\", \"count\": 5}, {\"name\": \"kite\", \"count\": 6}], \"answer_space\": {}}\n  ],\n  \"objects\": [\n    {\"name\": \"star\", \"count\": 10, \"attributes\": [], \"position\": \"center\", \"arrangement\": \"grid\"},\n    {\"name\": \"bomb\", \"count\": 4, \"attributes\": [], \"position\": \"center\", \"arrangement\": \"grid\"},\n    {\"name\": \"leaf\", \"count\": 10, \"attributes\": [], \"position\": \"center\", \"arrangement\": \"grid\"},\n    {\"name\": \"bee\", \"count\": 5, \"attributes\": [], \"position\": \"center\", \"arrangement\": \"grid\"},\n    {\"name\": \"balloon\", \"count\": 10, \"attributes\": [], \"position\": \"center\", \"arrangement\": \"grid\"},\n    {\"name\": \"crown\", \"count\": 3, \"attributes\": [], \"position\": \"center\", \"arrangement\": \"grid\"},\n    {\"name\": \"flower\", \"count\": 5, \"attributes\": [], \"position\": \"center\", \"arrangement\": \"grid\"},\n    {\"name\": \"kite\", \"count\": 6, \"attributes\": [], \"position\": \"center\", \"arrangement\": \"grid\"}\n  ],\n  \"total_object_count\": 53,\n  \"illustration_purpose\": \"comparison\",\n  \"answer_spaces\": [\n    {\"type\": \"circle\", \"count\": 4, \"location\": \"beside-text\", \"associated_item_number\": 0}\n  ],\n  \"visual_elements\": [\"border\", \"box-border\"],\n  \"colors_mentioned\": [],\n  \"relational_words\": [\"more\", \"less\"],\n  \"group_context\": {\"is_grouped\": true, \"group_id\": 0, \"group_instruction\": \"Circle the group as directed.\"},\n  \"concept\": \"Comparison of quantities\",\n  \"learning_outcome\": \"Identify and compare groups of objects based on quantity using terms more and less\",\n  \"cognitive_skill\": \"Analyzing\",\n  \"motor_skill\": \"Circling\",\n  \"difficulty\": \"Easy\"\n}\n```",
+      "question_text": "2) Circle the group as directed.",
+      "all_visible_text": [
+        {
+          "text": "2) Circle the group as directed.",
+          "position": "top"
+        },
+        {
+          "text": "Circle the group that has MORE.",
+          "position": "bottom|left"
+        },
+        {
+          "text": "Circle the group that has MORE.",
+          "position": "bottom|right"
+        },
+        {
+          "text": "Circle the group that has LESS.",
+          "position": "bottom|left"
+        },
+        {
+          "text": "Circle the group that has LESS.",
+          "position": "bottom|right"
+        }
+      ],
+      "instruction_verb": "Circle",
+      "question_type": "Comparison",
+      "question_sub_type": "Greater-Less",
+      "structure": "grid",
+      "item_count": 4,
+      "items": [
+        {
+          "item_number": 1,
+          "text": "",
+          "objects": [
+            {
+              "name": "star",
+              "count": 10
+            },
+            {
+              "name": "bomb",
+              "count": 4
+            }
+          ],
+          "answer_space": {}
+        },
+        {
+          "item_number": 2,
+          "text": "",
+          "objects": [
+            {
+              "name": "leaf",
+              "count": 10
+            },
+            {
+              "name": "bee",
+              "count": 5
+            }
+          ],
+          "answer_space": {}
+        },
+        {
+          "item_number": 3,
+          "text": "",
+          "objects": [
+            {
+              "name": "balloon",
+              "count": 10
+            },
+            {
+              "name": "crown",
+              "count": 3
+            }
+          ],
+          "answer_space": {}
+        },
+        {
+          "item_number": 4,
+          "text": "",
+          "objects": [
+            {
+              "name": "flower",
+              "count": 5
+            },
+            {
+              "name": "kite",
+              "count": 6
+            }
+          ],
+          "answer_space": {}
+        }
+      ],
+      "objects": [
+        {
+          "name": "star",
+          "count": 10,
+          "attributes": [],
+          "position": "center",
+          "arrangement": "grid"
+        },
+        {
+          "name": "bomb",
+          "count": 4,
+          "attributes": [],
+          "position": "center",
+          "arrangement": "grid"
+        },
+        {
+          "name": "leaf",
+          "count": 10,
+          "attributes": [],
+          "position": "center",
+          "arrangement": "grid"
+        },
+        {
+          "name": "bee",
+          "count": 5,
+          "attributes": [],
+          "position": "center",
+          "arrangement": "grid"
+        },
+        {
+          "name": "balloon",
+          "count": 10,
+          "attributes": [],
+          "position": "center",
+          "arrangement": "grid"
+        },
+        {
+          "name": "crown",
+          "count": 3,
+          "attributes": [],
+          "position": "center",
+          "arrangement": "grid"
+        },
+        {
+          "name": "flower",
+          "count": 5,
+          "attributes": [],
+          "position": "center",
+          "arrangement": "grid"
+        },
+        {
+          "name": "kite",
+          "count": 6,
+          "attributes": [],
+          "position": "center",
+          "arrangement": "grid"
+        }
+      ],
+      "total_object_count": 53,
+      "illustration_purpose": "comparison",
+      "answer_spaces": [
+        {
+          "type": "circle",
+          "count": 4,
+          "location": "beside-text",
+          "associated_item_number": 0
+        }
+      ],
+      "visual_elements": [
+        "border",
+        "box-border"
+      ],
+      "colors_mentioned": [],
+      "relational_words": [
+        "more",
+        "less"
+      ],
+      "group_context": {
+        "is_grouped": true,
+        "group_id": 0,
+        "group_instruction": "Circle the group as directed."
+      },
+      "concept": "Comparison of quantities",
+      "learning_outcome": "Identify and compare groups of objects based on quantity using terms more and less",
+      "cognitive_skill": "Analyzing",
+      "motor_skill": "Circling",
+      "difficulty": "Easy"
+    },
+    {
+      "question_number": 7,
+      "bounding_box": {
+        "x": 68,
+        "y": 1405,
+        "width": 1107,
+        "height": 120
+      },
+      "analysis_attempts": 1,
+      "analysis_error": null,
+      "confidence": 1.0,
+      "raw_response": "```json\n{\n  \"question_text\": \"3) Fill in the missing numbers.\",\n  \"all_visible_text\": [\n    {\"text\": \"3) Fill in the missing numbers.\", \"position\": \"top\"},\n    {\"text\": \"4\", \"position\": \"center\"},\n    {\"text\": \"7\", \"position\": \"center\"},\n    {\"text\": \"8\", \"position\": \"center\"},\n    {\"text\": \"9\", \"position\": \"center\"}\n  ],\n  \"instruction_verb\": \"Fill\",\n  \"question_type\": \"Sequencing\",\n  \"question_sub_type\": \"Fill-Missing\",\n  \"structure\": \"horizontal-row\",\n  \"item_count\": 1,\n  \"items\": [\n    {\n      \"item_number\": 1,\n      \"text\": \"4 -> [ ] -> [ ] -> 7 -> 8 -> 9\",\n      \"objects\": [],\n      \"answer_space\": {}\n    }\n  ],\n  \"objects\": [],\n  \"total_object_count\": 0,\n  \"illustration_purpose\": \"number-recognition\",\n  \"answer_spaces\": [\n    {\"type\": \"box\", \"count\": 2, \"location\": \"inside-text\", \"associated_item_number\": 1}\n  ],\n  \"visual_elements\": [\"arrow\", \"box-border\"],\n  \"colors_mentioned\": [],\n  \"relational_words\": [],\n  \"group_context\": {\"is_grouped\": false, \"group_id\": 0, \"group_instruction\": \"\"},\n  \"concept\": \"Number Sequencing\",\n  \"learning_outcome\": \"Identify and complete a numerical sequence\",\n  \"cognitive_skill\": \"Applying\",\n  \"motor_skill\": \"Writing\",\n  \"difficulty\": \"Easy\"\n}\n```",
+      "question_text": "3) Fill in the missing numbers.",
+      "all_visible_text": [
+        {
+          "text": "3) Fill in the missing numbers.",
+          "position": "top"
+        },
+        {
+          "text": "4",
+          "position": "center"
+        },
+        {
+          "text": "7",
+          "position": "center"
+        },
+        {
+          "text": "8",
+          "position": "center"
+        },
+        {
+          "text": "9",
+          "position": "center"
+        }
+      ],
+      "instruction_verb": "Fill",
+      "question_type": "Sequencing",
+      "question_sub_type": "Fill-Missing",
+      "structure": "horizontal-row",
+      "item_count": 1,
+      "items": [
+        {
+          "item_number": 1,
+          "text": "4 -> [ ] -> [ ] -> 7 -> 8 -> 9",
+          "objects": [],
+          "answer_space": {}
+        }
+      ],
+      "objects": [],
+      "total_object_count": 0,
+      "illustration_purpose": "number-recognition",
+      "answer_spaces": [
+        {
+          "type": "box",
+          "count": 2,
+          "location": "inside-text",
+          "associated_item_number": 1
+        }
+      ],
+      "visual_elements": [
+        "arrow",
+        "box-border"
+      ],
+      "colors_mentioned": [],
+      "relational_words": [],
+      "group_context": {
+        "is_grouped": false,
+        "group_id": 0,
+        "group_instruction": ""
+      },
+      "concept": "Number Sequencing",
+      "learning_outcome": "Identify and complete a numerical sequence",
+      "cognitive_skill": "Applying",
+      "motor_skill": "Writing",
+      "difficulty": "Easy"
+    }
+  ]
+}

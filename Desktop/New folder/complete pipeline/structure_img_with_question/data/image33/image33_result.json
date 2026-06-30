@@ -1,0 +1,41 @@
+{
+  "question_heading": "Match the similar.",
+  "question_type": "Matching",
+  "learning_outcome": "The child will be able to identify and pair identical objects based on visual attributes.",
+  "student_action": "The student should draw lines to connect identical fruit images from the left column to the right column.",
+  "answer_format": "match",
+  "visual_elements": "Two vertical columns of colorful fruit illustrations (Apple, Orange, Banana, Blueberry, Strawberry). The background is white with a yellow border and colorful abstract shapes on the sides. An email address is at the bottom.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 5,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Visual Discrimination",
+  "sub_concept": "Object Recognition and Pairing",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Object identification",
+    "Visual perception",
+    "Fine motor skills (drawing lines)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "No explicit scaffolding or examples provided; relies on the intuitive nature of the task.",
+  "multiple_representations": false,
+  "assessment_purpose": "diagnostic",
+  "prior_knowledge_required": "Basic recognition of common fruits.",
+  "common_misconceptions": [
+    "Matching by color instead of specific object (e.g., matching the red apple to the red strawberry because both are red)."
+  ],
+  "cultural_context": "The fruits shown (apple, orange, banana, blueberry, strawberry) are globally recognized and common in urban Indian contexts.",
+  "teacher_guidance": "Use this to assess a child's ability to notice subtle differences in shape and detail. If a child struggles, point out specific features like the stem of the apple or the seeds on the strawberry.",
+  "adaptation_suggestions": "For struggling learners: Provide a partially drawn line as a guide. For advanced learners: Ask them to name the fruits or identify the colors of each fruit after matching.",
+  "cross_curricular_links": "EVS (Environmental Studies) - identifying food/fruits.",
+  "all_text_detected": "Match the similar. komalbagathariya5@gmail.com",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is unambiguous. The instruction 'Match the similar' combined with two columns of fruit images clearly indicates a visual discrimination matching task. The items are distinct and easily identifiable."
+}

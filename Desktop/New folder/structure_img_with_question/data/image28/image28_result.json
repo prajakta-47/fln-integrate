@@ -1,0 +1,43 @@
+{
+  "question_heading": "Big vs small",
+  "question_type": "Classification",
+  "learning_outcome": "The child will be able to distinguish between objects of different sizes and categorize them based on the attributes 'big' and 'small'.",
+  "student_action": "The student should draw lines to connect the big apples to the 'big' basket and the small apples to the 'small' basket.",
+  "answer_format": "connect",
+  "visual_elements": "The worksheet features a white background with several red apple illustrations of two distinct sizes (large and small). At the bottom, there are two brown wicker-style baskets, one labeled 'big' and the other labeled 'small'. A red curved line is drawn from a large apple to the 'big' basket, labeled with 'e.g.' to indicate it is an example.",
+  "number_range": "N/A",
+  "has_example": true,
+  "question_count": 11,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Pre-number concepts",
+  "sub_concept": "Comparison of size (Big vs Small)",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Size comparison",
+    "Classification",
+    "Fine motor skills (drawing lines)",
+    "Attribute identification"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "An example is provided using a red line connecting a large apple to the 'big' basket, labeled 'e.g.' to guide the child.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of size differences and ability to follow a visual example.",
+  "common_misconceptions": [
+    "Confusing the number of items with size (e.g., thinking a group of small apples is 'big')",
+    "Misinterpreting the labels if they cannot yet read"
+  ],
+  "cultural_context": "Generic/Universal; apples are a globally recognized fruit.",
+  "teacher_guidance": "Before starting, use real-world objects (like big stones and small pebbles) to demonstrate the concept. Ensure children understand the labels 'big' and 'small' by pointing to them. Encourage them to use a ruler or steady hand to draw the lines to develop fine motor control.",
+  "adaptation_suggestions": "For struggling learners: Use physical objects or cut-outs of apples to sort into baskets. For advanced learners: Ask them to find other objects in the classroom that are 'big' or 'small' or introduce 'medium' size.",
+  "cross_curricular_links": "Environmental Studies (identifying fruits/nature)",
+  "all_text_detected": "MamaLovePrint Pre-K Worksheet, Big vs small, MATCHING ACTIVITY, e.g., big, small, MAMALOVEPRINT mamaloveprint.com",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is explicitly titled 'Big vs small' and includes a 'MATCHING ACTIVITY' tag. The visual evidence of the 'e.g.' line clearly demonstrates the intended task of connecting size-appropriate items to labeled baskets. The grade level is stated as Pre-K."
+}

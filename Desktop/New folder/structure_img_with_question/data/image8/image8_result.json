@@ -1,0 +1,42 @@
+{
+  "question_heading": "School-Time Matching",
+  "question_type": "Matching",
+  "learning_outcome": "The student will be able to identify and pair identical visual objects, demonstrating visual discrimination and object recognition skills.",
+  "student_action": "Draw a line connecting the matching pictures.",
+  "answer_format": "match",
+  "visual_elements": "The worksheet features a header with 'Name:' and 'Date:' fields. The title 'School-Time Matching' is in colorful, playful bubble letters. There are two columns of large, colorful, cartoon-style illustrations: a backpack, an open book with a lightbulb, a red apple, a yellow school bus, and a pair of sneakers. Each image is accompanied by a black dot to facilitate drawing lines. The layout is a structured two-column grid.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 5,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Visual Discrimination",
+  "sub_concept": "Object Recognition and Pairing",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Remembering",
+  "skills": [
+    "Visual discrimination",
+    "Object identification",
+    "Fine motor skills (line drawing)",
+    "Visual scanning"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The use of black dots next to each image provides a clear starting and ending point for the child to draw their matching lines.",
+  "multiple_representations": false,
+  "assessment_purpose": "formative",
+  "prior_knowledge_required": "Basic recognition of common school-related objects.",
+  "common_misconceptions": [
+    "Connecting an item to its nearest neighbor rather than its identical match due to poor visual scanning.",
+    "Drawing lines that overlap so much they become illegible."
+  ],
+  "cultural_context": "The objects (backpack, school bus, apple, book) are globally recognized school symbols, making them highly relatable for children in various contexts, including India.",
+  "teacher_guidance": "Use this as a warm-up activity to assess visual perception. Encourage children to point to the objects and name them aloud before drawing lines to integrate oral language skills.",
+  "adaptation_suggestions": "For struggling learners, reduce the number of items to 3. For advanced learners, ask them to name the objects or describe their colors/uses to increase cognitive load.",
+  "cross_curricular_links": "Oral Language (naming objects), Fine Motor (pencil control).",
+  "all_text_detected": "Name: Date: School-Time Matching INSTRUCTIONS: Draw a line connecting the matching pictures.",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is unambiguous. The title, instructions, and visual task (matching identical items via lines) are clearly visible and standard for early childhood education."
+}

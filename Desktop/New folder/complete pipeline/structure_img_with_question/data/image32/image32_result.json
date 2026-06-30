@@ -1,0 +1,42 @@
+{
+  "question_heading": "Put a cross (X) on the vessel that can hold the least amount of water.",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to compare the capacity of different objects and identify the one with the smallest volume.",
+  "student_action": "The student should identify the smallest vessel in each row and draw a cross (X) over it.",
+  "answer_format": "draw",
+  "visual_elements": "The worksheet contains five horizontal rows, each separated by a thick pink band. Each row contains three different illustrated vessels: a jug, a small cup/mug, a large pot/pitcher, and a bucket. The illustrations are colorful and represent common household items.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 5,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Capacity/Volume",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Analyzing",
+  "skills": [
+    "Visual discrimination",
+    "Comparing sizes",
+    "Understanding capacity",
+    "Logical reasoning"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "moderate",
+  "scaffolding_details": "The worksheet uses visual representations of real-world objects to help children grasp the abstract concept of capacity.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of size (big vs. small) and familiarity with common household containers.",
+  "common_misconceptions": [
+    "Confusing height with capacity (e.g., thinking a tall thin glass holds more than a short wide bowl)",
+    "Focusing on the number of items rather than the volume they hold"
+  ],
+  "cultural_context": "The vessels shown (pitcher, bucket, mug, pot) are universally recognizable and common in Indian households.",
+  "teacher_guidance": "Before giving this worksheet, conduct a hands-on activity using real water and containers. Let children pour water from a small cup into a large bucket to see the difference in volume. This builds the concrete foundation needed for the pictorial task.",
+  "adaptation_suggestions": "For struggling learners: Use real objects instead of pictures. For advanced learners: Ask them to rank all three objects in a row from least to most capacity.",
+  "cross_curricular_links": "Science (properties of liquids/volume)",
+  "all_text_detected": "Put a cross (X) on the vessel that can hold the least amount of water.",
+  "confidence_score": 100,
+  "reasoning": "The instruction is explicitly stated at the top. The task involves comparing the capacity of three items per row across five rows. The visual evidence clearly shows different sized containers suitable for a capacity comparison task."
+}

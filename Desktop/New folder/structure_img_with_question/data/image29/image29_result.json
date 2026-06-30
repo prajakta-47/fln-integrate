@@ -1,0 +1,41 @@
+{
+  "question_heading": "Matching Game",
+  "question_type": "Matching",
+  "learning_outcome": "The child will be able to identify and match identical objects based on visual recognition of shape and form.",
+  "student_action": "The student should draw a line to connect the colored fruit in the top row to its corresponding outline/silhouette in the bottom row.",
+  "answer_format": "match",
+  "visual_elements": "A header with colorful vertical stripes and the text 'Matching Game'. Two rows of circular frames. The top row contains three colored illustrations (banana, pineapple, pear) in solid black circles. The bottom row contains three black-and-white outlines (pineapple, pear, banana) in dashed black circles. Small black dots are placed below each circle to serve as anchor points for matching.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 3,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Visual Discrimination",
+  "sub_concept": "Object Recognition and Shape Matching",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Object recognition",
+    "Fine motor skills (drawing lines)",
+    "Cognitive association"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The worksheet uses color vs. outline as a scaffold to help the child distinguish between the 'source' and the 'target' objects.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic recognition of common fruits (banana, pineapple, pear).",
+  "common_misconceptions": [
+    "Matching the wrong shape due to orientation (e.g., matching the banana to the pineapple because they are both yellow/bright)."
+  ],
+  "cultural_context": "The fruits shown (banana, pineapple, pear) are globally recognized and common in Indian contexts.",
+  "teacher_guidance": "Encourage the child to name the fruit aloud before drawing the line. Ask 'Which one looks like this banana?' to prompt verbal reasoning. Ensure they use a ruler or steady hand to connect the dots.",
+  "adaptation_suggestions": "For struggling learners: Provide a partially drawn line as a guide. For advanced learners: Ask them to color the outlines or name the starting letter of each fruit.",
+  "cross_curricular_links": "EVS (Environmental Studies) - Identification of fruits.",
+  "all_text_detected": "Matching Game",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is explicitly titled 'Matching Game'. The visual structure of colored objects above outlines is a standard pedagogical design for visual discrimination tasks in early childhood education. The items are clearly identifiable as banana, pineapple, and pear."
+}

@@ -1,0 +1,42 @@
+{
+  "question_heading": "Match the objects with their basic shapes.",
+  "question_type": "Shapes",
+  "learning_outcome": "Identify and relate real-world objects to their corresponding geometric shapes.",
+  "student_action": "Match the real-world objects on the left and right sides to the basic geometric shapes in the center column by drawing lines.",
+  "answer_format": "match",
+  "visual_elements": "The worksheet features a central column of four colored geometric shapes (pink square, light green rectangle, blue triangle, brown circle). Flanking these are two columns of real-world objects: a wooden top, square tiles, a coin, and a blackboard on the left; a biscuit, a party hat, a matchbox, and a ball on the right. A line is already drawn from the wooden top to the blue triangle (though this appears to be a mistake or a non-standard example, as a top is more conical/circular, but it serves as a visual cue for the task).",
+  "number_range": "N/A",
+  "has_example": true,
+  "question_count": 8,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Geometry",
+  "sub_concept": "Identifying 2D shapes in real-world objects",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Shape recognition",
+    "Object-to-shape association",
+    "Fine motor skills (drawing lines)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "moderate",
+  "scaffolding_details": "The worksheet provides a visual example of drawing a line from an object to a shape to demonstrate the required action.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Recognition of basic 2D shapes (square, rectangle, triangle, circle).",
+  "common_misconceptions": [
+    "Confusing a square with a rectangle",
+    "Mistaking a 3D object's appearance for a different 2D shape (e.g., the ball as a circle vs. a sphere)"
+  ],
+  "cultural_context": "The objects used (coin, matchbox, wooden top/lattoo, blackboard) are highly relatable and culturally relevant to Indian children.",
+  "teacher_guidance": "Before starting, review the names and properties of the four shapes. Ask students to find other objects in the classroom that match these shapes. Note that the example line provided in the image (top to triangle) might be confusing; clarify that they should look for the most prominent shape in the object.",
+  "adaptation_suggestions": "For struggling learners: Provide the shapes in outline form for them to color first. For advanced learners: Ask them to name the shapes or draw their own objects next to the shapes.",
+  "cross_curricular_links": "Art (observing shapes in nature/objects)",
+  "all_text_detected": "Match the objects with their basic shapes. INDIA",
+  "confidence_score": 95,
+  "reasoning": "The instruction is explicit. The layout clearly presents a matching task between objects and shapes. The objects are standard for early childhood numeracy in an Indian context."
+}

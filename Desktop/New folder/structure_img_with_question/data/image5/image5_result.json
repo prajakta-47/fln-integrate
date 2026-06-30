@@ -1,0 +1,42 @@
+{
+  "question_heading": "Matching game",
+  "question_type": "Matching",
+  "learning_outcome": "The child will be able to identify and match identical visual objects based on their attributes (color, shape, and type of flower).",
+  "student_action": "The student should draw lines to connect the identical flower pots in the top row to their counterparts in the bottom row.",
+  "answer_format": "match",
+  "visual_elements": "A yellow header bar with the text 'Matching game'. Two rows of illustrations. The top row contains five distinct flower pots: 1. Small pink/purple flowers in a light blue pot, 2. Large yellow flower in a pink pot, 3. Blue tulips in a pink pot, 4. Large pink flower in a light blue pot, 5. Two red flowers in a dark blue pot. The bottom row contains the same five flower pots but in a different order. Each pot has a small blue dot below it to serve as a connection point.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 5,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Visual Discrimination",
+  "sub_concept": "Object Matching / Attribute Recognition",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Pattern recognition",
+    "Fine motor skills (drawing lines)",
+    "Attention to detail"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The use of blue dots below each item provides a clear visual cue for where the child should start and end their matching lines.",
+  "multiple_representations": false,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic ability to recognize colors and shapes; ability to hold a writing tool.",
+  "common_misconceptions": [
+    "Matching based on color alone (e.g., matching a pink pot to another pink pot even if the flower is different)",
+    "Matching based on flower type alone without looking at the pot color"
+  ],
+  "cultural_context": "Neutral/Universal",
+  "teacher_guidance": "Encourage children to look at both the flower and the pot color before drawing a line. Ask them to describe the differences between the pots to build vocabulary (e.g., 'This one has blue tulips, this one has a yellow flower').",
+  "adaptation_suggestions": "For struggling learners: Reduce the number of items to 3. For advanced learners: Ask them to count the number of petals or flowers in each pot after matching.",
+  "cross_curricular_links": "Art (color recognition), Science (identifying different types of plants/flowers)",
+  "all_text_detected": "Matching game",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is a standard visual discrimination task. The heading 'Matching game' and the layout of two rows of items with connection points (blue dots) clearly indicate a matching task. The items are distinct enough for a Pre-K level child to differentiate."
+}

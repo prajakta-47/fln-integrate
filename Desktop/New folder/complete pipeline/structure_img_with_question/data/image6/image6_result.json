@@ -1,0 +1,43 @@
+{
+  "question_heading": "Circle the light object.",
+  "question_type": "Classification",
+  "learning_outcome": "The child will be able to distinguish between objects based on their physical property of weight (light vs. heavy).",
+  "student_action": "Circle the object in each pair that is lighter in weight.",
+  "answer_format": "circle",
+  "visual_elements": "A structured 2x4 grid containing 8 colorful illustrations. The pairs are: 1. A glass bottle and a bucket; 2. A box of crayons and a single crayon; 3. A pumpkin and a mango; 4. A key and a padlock. The background is a light cream color with a thin border.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 4,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Understanding physical properties of objects",
+  "sub_concept": "Weight (Light vs. Heavy)",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Observation",
+    "Comparison",
+    "Classification",
+    "Critical Thinking",
+    "Weight discrimination"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The worksheet uses paired comparisons to help the child make a direct comparison between two items, which is a standard scaffolding technique for early learners.",
+  "multiple_representations": true,
+  "assessment_purpose": "formative",
+  "prior_knowledge_required": "Basic understanding of everyday objects and the concept of 'heavy' and 'light'.",
+  "common_misconceptions": [
+    "Size-weight illusion: A child might think a larger object (like the pumpkin) is always heavier, or a smaller object (like the key) is always lighter, without considering the material.",
+    "Confusing 'light' (weight) with 'light' (brightness/color)."
+  ],
+  "cultural_context": "The objects (mango, pumpkin, bucket, bottle) are common and relatable in an Indian household context.",
+  "teacher_guidance": "Before giving this worksheet, conduct a hands-on activity where children hold different objects (a feather vs. a stone, an empty bottle vs. a full one) to feel the difference in weight. This builds the sensory foundation needed for the cognitive task.",
+  "adaptation_suggestions": "For struggling learners: Use real objects for them to touch and feel before attempting the worksheet. For advanced learners: Ask them to justify their choice (e.g., 'Why is the crayon lighter than the box?').",
+  "cross_curricular_links": "Science (Physical properties of matter)",
+  "all_text_detected": "Circle the light object. CRAYON CRAYON",
+  "confidence_score": 100,
+  "reasoning": "The instruction is explicit, the task is clearly defined through visual pairs, and the concept of weight comparison is a standard early childhood development milestone."
+}

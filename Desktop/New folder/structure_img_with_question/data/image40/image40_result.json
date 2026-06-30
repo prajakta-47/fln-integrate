@@ -1,0 +1,42 @@
+{
+  "question_heading": "BIG AND SMALL",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to identify and differentiate between objects based on their relative size (big vs. small).",
+  "student_action": "The student should identify the larger object in each pair and place a tick mark (\u2713) in the provided square box next to it.",
+  "answer_format": "fill_in_blank",
+  "visual_elements": "The worksheet features a header with Name and Date fields. It contains two main comparison sets: 1) A cow and an ant, 2) A rabbit and an elephant. Each animal is accompanied by a small white square box for the tick mark. The layout is split into two horizontal sections by a thin blue line. The illustrations are cartoon-style, colorful, and high-contrast.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 2,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Comparing Size (Big and Small)",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Size comparison",
+    "Object identification",
+    "Fine motor skills (marking/ticking)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The worksheet uses highly recognizable animals (cow, ant, rabbit, elephant) to provide visual context for the concept of size extremes.",
+  "multiple_representations": true,
+  "assessment_purpose": "formative",
+  "prior_knowledge_required": "Basic recognition of common animals and the concept of 'more' or 'larger' in a general sense.",
+  "common_misconceptions": [
+    "Confusing 'big' with 'heavy' or 'fast'",
+    "Focusing on the number of animals rather than the size of the individual animal"
+  ],
+  "cultural_context": "The animals used (cow, elephant) are very common and relatable in the Indian context.",
+  "teacher_guidance": "Use this worksheet to introduce the vocabulary of size. Before handing it out, use real-world objects (e.g., a big ball and a small ball) to demonstrate the concept. Encourage students to say the words 'big' and 'small' aloud as they work.",
+  "adaptation_suggestions": "For struggling learners: Provide physical objects to touch and compare first. For advanced learners: Ask them to draw a 'medium' sized animal between the two given animals or use words like 'huge' and 'tiny'.",
+  "cross_curricular_links": "EVS (Environmental Studies) - Animal recognition.",
+  "all_text_detected": "NAME ________ DATE ________ BIG AND SMALL Tick ( \u2713 ) identify the bigger one. edubuzz KIDS",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is very clear. The heading 'BIG AND SMALL' and the instruction 'Tick ( \u2713 ) identify the bigger one' leave no ambiguity regarding the task. The visual evidence of the cow/ant and rabbit/elephant pairs directly supports the size comparison concept."
+}

@@ -1,0 +1,43 @@
+{
+  "question_heading": "Encircle the ones which have more quantity.",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to compare two sets of objects or volumes and identify the one with a greater quantity/volume.",
+  "student_action": "circle",
+  "answer_format": "circle",
+  "visual_elements": "A structured grid of 6 rectangular boxes with pink borders. Each box contains two illustrations of containers (pitchers, jars, coin banks, mugs, glasses) filled with different levels of substances (water, candies, jam, coins, tea, juice). The background is light green.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 6,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Comparison of Quantities",
+  "sub_concept": "More vs Less (Volume and Count)",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Comparing volumes",
+    "Comparing discrete quantities",
+    "Visual estimation",
+    "Fine motor skills (encircling)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "moderate",
+  "scaffolding_details": "The worksheet uses highly relatable, everyday objects to represent different types of quantity: continuous quantity (liquids in pitchers/glasses) and discrete quantity (items in jars/coin banks).",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of the concepts 'more' and 'less'.",
+  "common_misconceptions": [
+    "Confusing the size of the container with the quantity of the content (e.g., thinking a larger jar always has more, even if it's nearly empty).",
+    "Focusing on the height of the liquid rather than the total volume in non-uniform containers."
+  ],
+  "cultural_context": "The items shown (tea, jam, coin banks, pitchers) are globally recognizable and common in Indian households, making it culturally relevant.",
+  "teacher_guidance": "Before giving this worksheet, conduct a hands-on activity using real water and different sized cups to demonstrate 'more' and 'less'. Ask students to point to the 'fuller' container to build vocabulary.",
+  "adaptation_suggestions": "For struggling learners: Use physical objects (manipulatives) first. For advanced learners: Introduce the concept of 'least' or 'equal' and ask them to find the container with the least quantity.",
+  "cross_curricular_links": "Science (properties of liquids/solids)",
+  "all_text_detected": "Encircle the ones which have more quantity. JAM JAM",
+  "confidence_score": 100,
+  "reasoning": "The instruction is explicit, the visual evidence clearly shows pairs of items for comparison, and the task is a standard early numeracy comparison exercise. The distinction between liquid volume and discrete object counting is clearly represented."
+}

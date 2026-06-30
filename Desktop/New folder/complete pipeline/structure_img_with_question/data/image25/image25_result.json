@@ -1,0 +1,42 @@
+{
+  "question_heading": "How will she get the kite. / Put a cross (X) on the taller object.",
+  "question_type": "Logical Reasoning",
+  "learning_outcome": "The student will be able to identify appropriate tools/methods to reach a height and compare the relative heights of two objects.",
+  "student_action": "Identify the correct scenario for reaching the kite and mark the taller object in each pair with a cross.",
+  "answer_format": "circle|draw",
+  "visual_elements": "Two main sections. Section 1: Five illustrations of a girl, a house, a kite, and various ladder configurations (some broken, some too short, some correct). Section 2: Four pairs of objects enclosed in blue circles (ladders, people, candles, trees) for height comparison.",
+  "number_range": "N/A",
+  "has_example": true,
+  "question_count": 6,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Measurement and Logical Reasoning",
+  "sub_concept": "Comparison of length/height and problem-solving",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Applying",
+  "skills": [
+    "Visual discrimination",
+    "Spatial reasoning",
+    "Comparing heights",
+    "Problem-solving"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "moderate",
+  "scaffolding_details": "The first question uses a narrative scenario to guide reasoning. The second question provides a clear visual example (an 'X' on the taller ladder) to demonstrate the required action.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of 'tall' vs 'short' and functional use of objects like ladders.",
+  "common_misconceptions": [
+    "Confusing 'longer' with 'taller' if objects are horizontal",
+    "Selecting the ladder that looks 'better' rather than the one that reaches the kite"
+  ],
+  "cultural_context": "Relatable everyday objects (house, kite, trees, candles) common in Indian households.",
+  "teacher_guidance": "Use this worksheet to transition from concrete physical comparisons (standing next to a friend) to abstract visual comparisons. For the first part, ask students to explain *why* a specific ladder works (e.g., 'The ladder is tall enough').",
+  "adaptation_suggestions": "For struggling learners, use physical objects (blocks or pencils) to demonstrate height before the worksheet. For advanced learners, ask them to draw a third object that is taller than the tallest one in a pair.",
+  "cross_curricular_links": "Environmental Studies (understanding tools and heights)",
+  "all_text_detected": "How will she get the kite. Put a cross (X) on the taller object.",
+  "confidence_score": 100,
+  "reasoning": "The worksheet contains two distinct tasks. The first is a logical reasoning task regarding reaching a kite, and the second is a direct measurement/comparison task. The presence of an example (the 'X' on the ladder) is clearly visible, confirming the intended action for the second part."
+}

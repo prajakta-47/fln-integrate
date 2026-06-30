@@ -1,0 +1,43 @@
+{
+  "question_heading": "Circle the Correct Opposite",
+  "question_type": "Vocabulary",
+  "learning_outcome": "The student will be able to identify and select the antonym (opposite) of a given concept represented by a picture and a word.",
+  "student_action": "The student should look at the picture on the left and circle the picture that shows its opposite from the two choices provided.",
+  "answer_format": "circle",
+  "visual_elements": "A structured grid with 5 rows. Each row contains: a numbered green circle, a primary image with a label below it, the word 'or', and two alternative images with labels below them. Illustrations include an elephant, mouse, giraffe, coffee mug, ice cube, fan, box with ball, box, box with ball/arrow, boy (happy/sad/loud), sun, moon, and lightbulb.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 5,
+  "worksheet_type": "literacy",
+  "difficulty": "easy",
+  "concept": "Antonyms (Opposites)",
+  "sub_concept": "Vocabulary Development",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Vocabulary acquisition",
+    "Visual discrimination",
+    "Concept association",
+    "Reading basic sight words",
+    "Logical reasoning"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "moderate",
+  "scaffolding_details": "Uses high-quality, colorful illustrations to represent abstract concepts (like 'happy' or 'hot') to assist children who are still developing reading skills.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic recognition of common objects and simple adjectives; ability to follow simple instructions.",
+  "common_misconceptions": [
+    "Choosing a related word instead of an opposite (e.g., choosing 'tall' for 'big' because both are large)",
+    "Confusing 'cool' with 'cold' in row 2"
+  ],
+  "cultural_context": "The imagery is universal and globally recognizable, making it highly suitable for Indian classrooms.",
+  "teacher_guidance": "Use this as a warm-up activity. Read the words aloud with the students to build phonological awareness. Encourage students to explain *why* they chose a specific answer to deepen conceptual understanding.",
+  "adaptation_suggestions": "For struggling learners: Focus only on the pictures and verbalize the opposites. For advanced learners: Ask them to write a simple sentence using the pair of opposites (e.g., 'The elephant is big, the mouse is small').",
+  "cross_curricular_links": "Language Arts (Vocabulary), Social-Emotional Learning (identifying emotions like happy/sad).",
+  "all_text_detected": "Circle the Correct Opposite. Look at the picture on the left and circle the picture that shows its opposite. 1 big small or tall 2 hot cold or cool 3 in out or up 4 happy sad or loud 5 day night or light",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is clearly titled, the instructions are explicit, and the grid structure is unambiguous. All text and images are legible and directly support the stated learning goal of identifying opposites."
+}

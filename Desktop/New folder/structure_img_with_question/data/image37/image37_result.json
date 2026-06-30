@@ -1,0 +1,42 @@
+{
+  "question_heading": "Big and Small",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to identify and differentiate between objects based on their relative size (big vs. small).",
+  "student_action": "Identify the larger object in each pair and tick/mark the circle below it.",
+  "answer_format": "circle",
+  "visual_elements": "The worksheet features a clean, white background with a black border. It contains three rows of paired illustrations: 1) A large bed and a small bed, 2) A small table and a large table, 3) A small armchair and a large sofa, 4) A single flower in a small vase and a bouquet in a large vase, 5) A large bookshelf and a small storage unit, 6) A small nightstand and a large dresser. Each object has a circular checkbox below it for the student to mark.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 6,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Comparing Size (Big and Small)",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Size comparison",
+    "Object recognition",
+    "Fine motor skills (marking circles)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The worksheet uses direct visual pairing of objects of different sizes to guide the child's comparison process.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic recognition of common household objects (furniture, plants).",
+  "common_misconceptions": [
+    "Confusing 'big' with 'tall' or 'heavy'",
+    "Selecting the object that is closer to the viewer if perspective is skewed (though not an issue in these flat illustrations)"
+  ],
+  "cultural_context": "The objects (beds, tables, sofas, bookshelves) are universal and easily recognizable in most Indian households.",
+  "teacher_guidance": "Before using this worksheet, conduct a hands-on activity using real classroom objects (e.g., a big book vs. a small book) to establish the concept of size. Ensure children understand the instruction 'tick the box' by demonstrating it on the board first.",
+  "adaptation_suggestions": "For struggling learners: Use physical objects or 3D toys first. For advanced learners: Ask them to name the objects or use comparative adjectives like 'bigger' and 'smallest'.",
+  "cross_curricular_links": "Environmental Studies (identifying household items).",
+  "all_text_detected": "Big and Small, Name, Date, Find the larger of the objects and tick the box below it.",
+  "confidence_score": 100,
+  "reasoning": "The text is clearly legible, the instructions are explicit, and the visual pairings of objects are unambiguous in their size difference, allowing for a definitive analysis of the educational intent."
+}

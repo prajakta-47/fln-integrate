@@ -1,0 +1,42 @@
+{
+  "question_heading": "Big or Small?",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to compare the size of two objects and identify which is 'big' or 'small' based on visual attributes.",
+  "student_action": "circle",
+  "answer_format": "circle",
+  "visual_elements": "A structured 2x3 grid layout. Each cell contains two distinct, colorful cartoon-style illustrations (e.g., elephant and mouse, tree and banana, house and boy, t-shirt and shoes, sailboat and boat, two stars) and a text instruction below the images. The header includes lines for 'Name' and 'Date'.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 6,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Comparing Attributes (Size)",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Size comparison",
+    "Vocabulary comprehension (big/small)",
+    "Fine motor skills (circling)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The worksheet uses highly recognizable, high-contrast objects to facilitate comparison without cognitive overload.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of the concepts 'big' and 'small' in spoken language.",
+  "common_misconceptions": [
+    "Confusing 'big' with 'heavy'",
+    "Confusing 'big' with 'more' (quantity vs size)"
+  ],
+  "cultural_context": "The illustrations are generic and globally recognizable, making them suitable for Indian classrooms, though they lack specific Indian cultural markers.",
+  "teacher_guidance": "Use this as a warm-up activity. Before handing it out, conduct a hands-on activity with physical objects (e.g., a big ball and a small ball) to reinforce the vocabulary. Read the instructions aloud for pre-readers.",
+  "adaptation_suggestions": "For struggling learners: Provide physical objects to touch and compare first. For advanced learners: Ask them to name the objects or use comparative adjectives like 'bigger' or 'smaller' in sentences.",
+  "cross_curricular_links": "Language Arts (Vocabulary development)",
+  "all_text_detected": "Name: ___________ Date: ___________ Big or Small? Circle the smaller one Circle the bigger one Circle the smaller one Circle the bigger one Circle the bigger one Circle the smaller one",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is unambiguous. The heading, instructions, and visual pairings clearly indicate a task of comparing sizes. The grid structure and question count are explicitly visible."
+}

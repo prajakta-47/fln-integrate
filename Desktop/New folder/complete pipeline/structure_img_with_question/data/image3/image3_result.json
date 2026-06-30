@@ -1,0 +1,45 @@
+{
+  "question_heading": "None visible",
+  "question_type": "Matching",
+  "learning_outcome": "The student will be able to identify and match identical objects/images to develop visual discrimination skills.",
+  "student_action": "Match the image on the left with its identical counterpart on the right by drawing a line between the circles.",
+  "answer_format": "connect",
+  "visual_elements": "Two vertical columns of food illustrations (pizza slice, pink donut, cookies, sandwich, french fries). Each image has a small empty circle next to it. The layout is a structured two-column grid.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 5,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Visual Discrimination",
+  "sub_concept": "Object Matching / Visual Perception",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Visual perception",
+    "Hand-eye coordination",
+    "Object identification"
+  ],
+  "language": "English (implied by context, though no text is present)",
+  "script": "N/A",
+  "instruction_clarity": "unclear",
+  "visual_density": "simple",
+  "scaffolding_details": "No explicit scaffolding or examples provided; relies entirely on visual recognition.",
+  "multiple_representations": false,
+  "assessment_purpose": "diagnostic",
+  "prior_knowledge_required": "Ability to recognize common food items and basic fine motor control for drawing lines.",
+  "common_misconceptions": [
+    "Matching based on category (e.g., matching all food items) rather than specific identity.",
+    "Difficulty distinguishing between similar items if they were present (not an issue here as items are distinct)."
+  ],
+  "cultural_context": "The food items (pizza, donuts, fries, sandwiches) are globally recognized but are more aligned with Western diets; however, they are common in urban Indian contexts.",
+  "teacher_guidance": "Use this to assess a child's ability to notice subtle differences and similarities. If a child struggles, point to one item and ask 'What is this?' before asking them to find the same one.",
+  "adaptation_suggestions": {
+    "struggling": "Provide physical objects (real food or plastic toys) to match with the pictures.",
+    "advanced": "Ask the child to name the food items or count how many items are in each group (e.g., 'How many cookies are there?')."
+  },
+  "cross_curricular_links": "Language (Vocabulary building of food names)",
+  "all_text_detected": "None",
+  "confidence_score": 95,
+  "reasoning": "The worksheet clearly shows two columns of identical images with circles placed between them, which is a standard design for a matching task. The lack of text suggests it is intended for very young learners (Pre-K) who are working on visual discrimination."
+}

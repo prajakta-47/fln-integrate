@@ -1,0 +1,209 @@
+{
+  "batch": [
+    {
+      "file": "image1.png",
+      "confidence": 95,
+      "question_type": "Classification"
+    },
+    {
+      "file": "image10.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image11.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image12.png",
+      "confidence": 100,
+      "question_type": "Vocabulary"
+    },
+    {
+      "file": "image13.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image14.png",
+      "confidence": 85,
+      "question_type": "Matching"
+    },
+    {
+      "file": "image15.jpg",
+      "confidence": 95,
+      "question_type": "Matching"
+    },
+    {
+      "file": "image16.png",
+      "confidence": 95,
+      "question_type": "Matching"
+    },
+    {
+      "file": "image17.png",
+      "confidence": 100,
+      "question_type": "Matching"
+    },
+    {
+      "file": "image18.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image19.png",
+      "confidence": 100,
+      "question_type": "Logical Reasoning"
+    },
+    {
+      "file": "image2.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image20.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image21.png",
+      "confidence": 100,
+      "question_type": "Shapes"
+    },
+    {
+      "file": "image22.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image23.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image24.png",
+      "confidence": 100,
+      "question_type": "Matching"
+    },
+    {
+      "file": "image25.png",
+      "confidence": 100,
+      "question_type": "Logical Reasoning"
+    },
+    {
+      "file": "image26.png",
+      "confidence": 100,
+      "question_type": "Vocabulary"
+    },
+    {
+      "file": "image27.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image28.png",
+      "confidence": 100,
+      "question_type": "Classification"
+    },
+    {
+      "file": "image29.png",
+      "confidence": 100,
+      "question_type": "Matching"
+    },
+    {
+      "file": "image3.png",
+      "confidence": 95,
+      "question_type": "Matching"
+    },
+    {
+      "file": "image30.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image31.png",
+      "confidence": 100,
+      "question_type": "Shapes"
+    },
+    {
+      "file": "image32.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image33.jpg",
+      "confidence": 100,
+      "question_type": "Matching"
+    },
+    {
+      "file": "image34.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image35.png",
+      "confidence": 100,
+      "question_type": "Shapes"
+    },
+    {
+      "file": "image36.png",
+      "confidence": 95,
+      "question_type": "Shapes"
+    },
+    {
+      "file": "image37.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image38.png",
+      "confidence": 100,
+      "question_type": "Shapes"
+    },
+    {
+      "file": "image39.png",
+      "confidence": 95,
+      "question_type": "Counting"
+    },
+    {
+      "file": "image4.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image40.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    },
+    {
+      "file": "image41.png",
+      "confidence": 100,
+      "question_type": "Matching"
+    },
+    {
+      "file": "image5.png",
+      "confidence": 100,
+      "question_type": "Matching"
+    },
+    {
+      "file": "image6.png",
+      "confidence": 100,
+      "question_type": "Classification"
+    },
+    {
+      "file": "image7.png",
+      "confidence": 95,
+      "question_type": "Matching"
+    },
+    {
+      "file": "image8.png",
+      "confidence": 100,
+      "question_type": "Matching"
+    },
+    {
+      "file": "image9.png",
+      "confidence": 100,
+      "question_type": "Comparison"
+    }
+  ]
+}

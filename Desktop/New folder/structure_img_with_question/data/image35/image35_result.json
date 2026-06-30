@@ -1,0 +1,46 @@
+{
+  "question_heading": "(b) Observe the following four shapes. Draw lines to join similar objects. Examples are given.",
+  "question_type": "Shapes",
+  "learning_outcome": "Identify and relate 3D geometric shapes (sphere, cone, cylinder, cuboid) to real-world objects.",
+  "student_action": "match",
+  "answer_format": "connect",
+  "visual_elements": "A top row containing four colored 3D geometric shapes (green sphere, purple cone, pink cylinder, light blue cuboid) inside a rectangular box. A bottom large box containing various real-world objects: a carrot, a treasure chest, a red post box, an orange, a lime, a blue candle, a party hat, a red box, a green cupboard, a brown pot, a red balloon, and a silver thermos. Pink example lines are already drawn connecting the shapes to objects.",
+  "number_range": "N/A",
+  "has_example": true,
+  "question_count": 12,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Geometry",
+  "sub_concept": "3D Shapes and Real-world Objects",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Spatial reasoning",
+    "Shape recognition",
+    "Object-to-shape association"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "moderate",
+  "scaffolding_details": "Provides four clear geometric models at the top and uses pink 'Example' lines to demonstrate exactly how to perform the task.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic recognition of common 3D shapes.",
+  "common_misconceptions": [
+    "Confusing a cylinder with a sphere due to roundness",
+    "Confusing a cuboid with a cylinder if the object is long (like the thermos)",
+    "Mistaking the cone for a cylinder if the object is tall"
+  ],
+  "cultural_context": "The objects (post box, thermos, cupboard) are generally recognizable in an Indian context, though the post box is a specific design.",
+  "teacher_guidance": "Before starting, have students touch real-life objects (like a ball or a box) to feel the dimensions. Ask them to describe the properties of the shapes (e.g., 'Does it have flat faces or curved faces?') before drawing lines.",
+  "adaptation_suggestions": {
+    "struggling": "Provide physical 3D blocks for the child to hold and match to the pictures.",
+    "advanced": "Ask the child to name the shapes or find more objects in the classroom that match these shapes."
+  },
+  "cross_curricular_links": "Environmental Studies (identifying objects in surroundings)",
+  "all_text_detected": "(b) Observe the following four shapes. Draw lines to join similar objects. Examples are given. Example Example Example Example Get your pupils to observe the 4 shapes. Ask them to match objects with 3 dimensional geometric shapes shown at the top. Help them to understand the objects that have 3 dimensional geometric shapes. SCERT TELANGANA",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is clearly labeled with instructions, examples, and a specific task. The visual evidence directly supports the classification of the task as matching 3D shapes to real-world objects."
+}

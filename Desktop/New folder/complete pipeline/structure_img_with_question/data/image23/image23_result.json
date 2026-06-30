@@ -1,0 +1,45 @@
+{
+  "question_heading": "Circle the largest of the objects in each picture.",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to compare objects based on size and identify the largest object in a group.",
+  "student_action": "circle",
+  "answer_format": "circle",
+  "visual_elements": "Three distinct sets of illustrations: 1) Two houses of different sizes against a blue background. 2) Three fish of different sizes inside a purple circle. 3) Three rocks of different sizes against a blue background. The layout is horizontal and linear.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 3,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Comparing Size (Attribute: Length/Area)",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Size comparison",
+    "Identifying attributes",
+    "Fine motor control (circling)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "No explicit scaffolding or examples provided; relies on direct visual comparison.",
+  "multiple_representations": false,
+  "assessment_purpose": "diagnostic",
+  "prior_knowledge_required": "Basic understanding of size concepts (big vs. small).",
+  "common_misconceptions": [
+    "Confusing 'largest' with 'most numerous' (e.g., circling the group with more items instead of the single biggest item).",
+    "Confusing color/brightness with size."
+  ],
+  "cultural_context": "The illustrations (houses, fish, rocks) are universal and relatable to children in any setting, including India.",
+  "teacher_guidance": "Use this to assess if children can distinguish size attributes. Before giving the worksheet, conduct a hands-on activity with physical objects (e.g., big ball vs. small ball) to reinforce the vocabulary 'largest'.",
+  "adaptation_suggestions": {
+    "struggling": "Provide physical objects for comparison first; use more exaggerated size differences.",
+    "advanced": "Introduce the concept of 'smallest' or 'medium' to increase complexity."
+  },
+  "cross_curricular_links": "Art (observing shapes and proportions)",
+  "all_text_detected": "Circle the largest of the objects in each picture.",
+  "confidence_score": 100,
+  "reasoning": "The instruction is explicitly stated in the image. The visual tasks are clearly defined as three sets of objects where size variation is the primary distinguishing feature. The question type and grade level are determined by the simplicity of the comparison task."
+}

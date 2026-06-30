@@ -1,0 +1,43 @@
+{
+  "question_heading": "None visible",
+  "question_type": "Counting",
+  "learning_outcome": "The child will be able to count objects in a set and recognize the quantity.",
+  "student_action": "count",
+  "answer_format": "write_number",
+  "visual_elements": "Six distinct illustrations arranged in a 2x3 grid. Each illustration shows a bowl or plate containing a specific number of fruits: 2 mangoes, 4 mangoes, 3 apples, 5 apples, 2 bananas, and 3 bananas. The illustrations are colorful, cartoon-style, and have thick black outlines.",
+  "number_range": "1-5",
+  "has_example": false,
+  "question_count": 6,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Number Sense",
+  "sub_concept": "Counting objects and cardinality",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Remembering",
+  "skills": [
+    "One-to-one correspondence",
+    "Counting",
+    "Cardinality",
+    "Object recognition"
+  ],
+  "language": "None",
+  "script": "None",
+  "instruction_clarity": "unclear",
+  "visual_density": "simple",
+  "scaffolding_details": "The worksheet uses highly recognizable, colorful fruit imagery to engage the child and provide visual cues for counting.",
+  "multiple_representations": false,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic ability to point and count objects sequentially.",
+  "common_misconceptions": [
+    "Skipping objects while counting",
+    "Counting the same object twice",
+    "Confusing the total count with the number of types of fruit"
+  ],
+  "cultural_context": "The fruits shown (mangoes, bananas, apples) are common and relatable in the Indian context.",
+  "teacher_guidance": "Since there are no written instructions or number boxes, the teacher must verbally instruct the students to 'Count the fruits in each bowl and write the number below' or 'Circle the correct number'. This worksheet is best used as a guided activity where the teacher models the counting process first.",
+  "adaptation_suggestions": "For struggling learners: Provide number stickers or have them use finger counting. For advanced learners: Ask them to add the fruits from two different bowls (e.g., 'How many mangoes and bananas are there in total?').",
+  "cross_curricular_links": "EVS (Identifying fruits)",
+  "all_text_detected": "None",
+  "confidence_score": 95,
+  "reasoning": "The image clearly shows sets of fruits in containers. While there is no text, the visual structure is a classic numeracy task for counting objects. The absence of text/boxes suggests it is an incomplete worksheet or a template intended for a teacher to add instructions/number lines."
+}

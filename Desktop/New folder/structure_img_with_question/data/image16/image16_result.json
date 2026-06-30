@@ -1,0 +1,42 @@
+{
+  "question_heading": null,
+  "question_type": "Matching",
+  "learning_outcome": "The child will be able to identify and match identical objects/images to develop visual discrimination skills.",
+  "student_action": "The student should draw lines to connect the identical vegetable images on the left column with their counterparts in the right column.",
+  "answer_format": "match",
+  "visual_elements": "Two vertical columns of colorful vegetable illustrations (carrot, lettuce, tomato, eggplant, red bell pepper). Between each pair of images in the columns, there is a small empty circle acting as a target/anchor point for matching.",
+  "number_range": null,
+  "has_example": false,
+  "question_count": 5,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Visual Discrimination",
+  "sub_concept": "Object Recognition and Matching",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Object identification",
+    "Fine motor coordination (drawing lines)",
+    "Visual scanning"
+  ],
+  "language": "English (implied by context, though no text is present)",
+  "script": "None",
+  "instruction_clarity": "unclear",
+  "visual_density": "simple",
+  "scaffolding_details": "The use of circles provides a clear visual cue/anchor for where the child should start or end their matching line.",
+  "multiple_representations": false,
+  "assessment_purpose": "diagnostic",
+  "prior_knowledge_required": "Basic recognition of common vegetables and ability to hold a writing tool.",
+  "common_misconceptions": [
+    "Matching by color rather than specific object (e.g., matching any red object)",
+    "Connecting items in a sequence rather than matching identical pairs"
+  ],
+  "cultural_context": "Vegetables shown (carrot, tomato, eggplant, bell pepper, lettuce) are globally recognized and common in Indian households, making it highly relatable.",
+  "teacher_guidance": "Since there are no written instructions, the teacher must orally instruct the students to 'Look at the picture on the left and find the same picture on the right, then draw a line to connect them.' Use this to assess if the child can distinguish between similar shapes or colors.",
+  "adaptation_suggestions": "For struggling learners: Provide a pre-drawn line for the first item as an example. For advanced learners: Ask them to name the vegetables or identify their colors after matching.",
+  "cross_curricular_links": "EVS (Environmental Studies) - Knowledge of plants and food.",
+  "all_text_detected": "",
+  "confidence_score": 95,
+  "reasoning": "The worksheet layout is a classic matching task. The presence of two columns of identical images with circles in between clearly indicates a matching activity. The lack of text suggests it is intended for very young learners (Pre-K) who cannot yet read instructions."
+}

@@ -1,0 +1,42 @@
+{
+  "question_heading": "PO\u0141\u0104CZ ZE SOB\u0104 TAKIE SAME OBRAZKI.",
+  "question_type": "Matching",
+  "learning_outcome": "The student will be able to identify and match identical visual objects, demonstrating visual discrimination skills.",
+  "student_action": "The student should draw lines to connect identical images from the left column to the right column.",
+  "answer_format": "match",
+  "visual_elements": "Two vertical columns of colorful illustrations. Left column contains: blue backpack, yellow pencil, red pencil holder with colored pencils, paint palette with brush, and an eraser. Right column contains: paint palette with brush, eraser, red pencil holder with colored pencils, yellow pencil, and blue backpack. The layout is a structured two-column grid with ample white space in the center for drawing lines.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 5,
+  "worksheet_type": "fine_motor",
+  "difficulty": "easy",
+  "concept": "Visual Discrimination",
+  "sub_concept": "Object Matching",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Visual perception",
+    "Fine motor control (line drawing)",
+    "Object recognition"
+  ],
+  "language": "Polish",
+  "script": "Latin",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "No explicit example is provided, but the task is intuitive for the target age group through the use of familiar school objects.",
+  "multiple_representations": false,
+  "assessment_purpose": "formative",
+  "prior_knowledge_required": "Basic recognition of common school supplies (pencil, eraser, backpack, etc.)",
+  "common_misconceptions": [
+    "Connecting items based on category (e.g., connecting all art supplies) rather than exact identity.",
+    "Crossing lines in a way that makes the worksheet unreadable."
+  ],
+  "cultural_context": "The school supplies shown are universal, making it globally applicable, though the language is specific to Poland.",
+  "teacher_guidance": "Ensure children understand the instruction 'Match the same pictures'. Encourage them to use a ruler if they have developed the fine motor skill, or simply to draw steady lines. Check if they are matching by identity or just by proximity.",
+  "adaptation_suggestions": "For struggling learners: Reduce the number of items to 3. For advanced learners: Use items that are similar but not identical (e.g., different colored pencils) to increase the difficulty of discrimination.",
+  "cross_curricular_links": "Pre-reading skills (visual discrimination is a precursor to letter recognition).",
+  "all_text_detected": "PO\u0141\u0104CZ ZE SOB\u0104 TAKIE SAME OBRAZKI. ERASE",
+  "confidence_score": 100,
+  "reasoning": "The instruction is clearly legible in Polish, translating to 'Connect the same pictures with each other'. The visual evidence shows two columns of school-related icons intended for matching. The task is a standard visual discrimination exercise for early childhood education."
+}

@@ -1,0 +1,42 @@
+{
+  "question_heading": "Big Or Small?",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to identify and differentiate between objects based on the attribute of size (big vs. small).",
+  "student_action": "Circle the correct word (Big or Small) that describes the size of the illustrated animal.",
+  "answer_format": "circle",
+  "visual_elements": "A 3x3 grid of rounded rectangular boxes. Each box contains a colorful cartoon illustration of an animal (Elephant, Lizard, Camel, Giraffe, Ant, Kangaroo, Hedgehog, Bear, Butterfly). Below each image are two words, 'Big' and 'Small', enclosed in ovals for circling.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 9,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Comparing Attributes (Size)",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Size comparison",
+    "Attribute identification",
+    "Vocabulary recognition (Big/Small)",
+    "Fine motor skills (circling)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "Uses high-quality, distinct cartoon illustrations to represent the concept visually. The choice is binary (Big or Small) to reduce cognitive load.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of size concepts and ability to recognize simple English words or follow visual cues.",
+  "common_misconceptions": [
+    "Confusing relative size (e.g., a lizard is 'big' compared to an ant, but 'small' compared to an elephant). The worksheet uses absolute size categories for animals to avoid this."
+  ],
+  "cultural_context": "The animals shown (Elephant, Camel, Kangaroo, Bear) are globally recognized, making it accessible, though Kangaroo is more specific to certain regions.",
+  "teacher_guidance": "Use this as a warm-up activity. Before handing it out, do a physical activity where children point to 'big' objects and 'small' objects in the classroom to ground the concept in reality.",
+  "adaptation_suggestions": "For struggling learners: Use real objects or physical toys. For advanced learners: Ask them to find an animal that is 'medium' sized or ask them to draw a 'big' version of the ant.",
+  "cross_curricular_links": "EVS (Environmental Studies) - Animal recognition.",
+  "all_text_detected": "Big Or Small? Circle the correct answer Big Small Big Small Big Small Big Small Big Small Big Small Big Small Big Small",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is extremely clear. The heading, instructions, and task structure are unambiguous. The visual evidence directly supports the classification of 'Comparison' and 'Measurement' concepts."
+}

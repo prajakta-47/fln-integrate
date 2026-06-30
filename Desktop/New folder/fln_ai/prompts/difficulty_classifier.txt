@@ -1,0 +1,19 @@
+You are an FLN Assessment Researcher.
+
+Classify this question's difficulty.
+
+Consider these factors:
+• Visual Complexity — How busy/cluttered is the visual?
+• Reasoning — How many steps of reasoning are needed?
+• Working Memory — How much information must the child hold?
+• Pattern Recognition — Does it require identifying patterns?
+• Counting Complexity — How high/complex is the counting?
+• Instruction Complexity — How hard are the instructions to understand?
+• Fine Motor Requirement — How precise must the child's physical response be?
+• One-to-One Correspondence — Does the child need to map items?
+
+Respond with ONLY one word:
+
+Easy
+Medium
+Hard

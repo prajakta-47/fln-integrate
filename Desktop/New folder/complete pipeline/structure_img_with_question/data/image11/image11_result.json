@@ -1,0 +1,42 @@
+{
+  "question_heading": "Tick (\u2713) the longest vehicle, heaviest vegetable, shortest, and tallest.",
+  "question_type": "Comparison",
+  "learning_outcome": "The student will be able to compare objects based on attributes of length, mass, and height using comparative vocabulary.",
+  "student_action": "Tick the checkbox below the correct object.",
+  "answer_format": "circle",
+  "visual_elements": "The worksheet is divided into two main sections: an upper section with two completed examples (vehicle length and vegetable weight) and a lower 'Practice' section with two new tasks (pencil length and plant height). It uses colorful, high-quality illustrations of a car, bus, train, pumpkin, cabbage, eggplant, pencils, and plants. Each item has a small square checkbox underneath it. The layout is structured with clear headings and a 'Teacher's Note' at the bottom.",
+  "number_range": "N/A",
+  "has_example": true,
+  "question_count": 4,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Comparison of attributes (Length, Mass, Height)",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Comparative reasoning",
+    "Understanding measurement vocabulary (longest, heaviest, shortest, tallest)",
+    "Attribute identification"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "moderate",
+  "scaffolding_details": "The worksheet provides scaffolding by providing two completed examples at the top (longest vehicle and heaviest vegetable) before asking the student to perform the 'Practice' tasks independently.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of size differences and familiarity with comparative adjectives.",
+  "common_misconceptions": [
+    "Confusing height with length (e.g., thinking a long horizontal object is 'tall')",
+    "Confusing mass with size (e.g., thinking the largest object is always the heaviest, though in these specific examples they align)"
+  ],
+  "cultural_context": "The illustrations (pumpkin, eggplant, bus, train) are generic and globally recognizable, making them highly relatable for Indian children.",
+  "teacher_guidance": "Use this worksheet to introduce or reinforce measurement vocabulary. Before starting, have students physically compare objects in the classroom (e.g., 'Which pencil is longer?'). Ensure they understand that 'longest' refers to horizontal extent and 'tallest' refers to vertical extent.",
+  "adaptation_suggestions": "For struggling learners: Use real objects (real pencils, real vegetables) alongside the worksheet. For advanced learners: Ask them to rank all three items in each set from smallest to largest or lightest to heaviest.",
+  "cross_curricular_links": "EVS (Environmental Studies) - understanding properties of objects and living things (plants).",
+  "all_text_detected": "Tick (\u2713) the longest vechile. Tick (\u2713) the heaviest vegetable. Practice Tick (\u2713) the shortest. Tick (\u2713) the tallest. Teacher's Note Teacher can help students to develop the idea of ordering objects based on length, mass and height. 45",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is clearly laid out with explicit instructions, examples, and a practice section. The text is legible, and the visual evidence directly supports the classification of 'Comparison' within the 'Measurement' domain of numeracy."
+}

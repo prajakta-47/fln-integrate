@@ -1,0 +1,54 @@
+{
+  "worksheet": "Class1_Set_01_page-0003.jpg",
+  "worksheet_info": {
+    "width": 1241,
+    "height": 1754,
+    "preprocessing": {
+      "blurry": false,
+      "skewed": false,
+      "small": false,
+      "low_contrast": false,
+      "lap_var": 820.0,
+      "angle": 0.0,
+      "original_size": "1241x1754",
+      "applied": []
+    }
+  },
+  "worksheet_structure": {},
+  "questions": [
+    {
+      "question_number": 1,
+      "bounding_box": {
+        "x": 70,
+        "y": 197,
+        "width": 1104,
+        "height": 234
+      },
+      "analysis_attempts": 0,
+      "analysis_error": "llm is None",
+      "confidence": 0.0,
+      "raw_response": "",
+      "question_text": "",
+      "all_visible_text": [],
+      "instruction_verb": "",
+      "question_type": "",
+      "question_sub_type": "",
+      "structure": "",
+      "item_count": 0,
+      "items": [],
+      "objects": [],
+      "total_object_count": 0,
+      "illustration_purpose": "",
+      "answer_spaces": [],
+      "visual_elements": [],
+      "colors_mentioned": [],
+      "relational_words": [],
+      "group_context": {},
+      "concept": "",
+      "learning_outcome": "",
+      "cognitive_skill": "",
+      "motor_skill": "",
+      "difficulty": ""
+    }
+  ]
+}

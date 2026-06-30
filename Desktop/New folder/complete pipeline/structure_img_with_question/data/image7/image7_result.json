@@ -1,0 +1,42 @@
+{
+  "question_heading": "None visible",
+  "question_type": "Matching",
+  "learning_outcome": "The child will be able to identify and match identical objects/images to develop visual discrimination skills.",
+  "student_action": "Match the identical apple images from the left column to the right column by drawing lines.",
+  "answer_format": "connect",
+  "visual_elements": "Two vertical columns of apple illustrations. The left column contains: a whole red apple, a sliced apple with a wedge, a halved apple, an apple with a worm, an apple with a bite, and a core. The right column contains: an apple with a worm, an apple core, an apple with a bite, a halved apple, a sliced apple with a wedge, and a whole red apple. The illustrations are colorful and cartoonish.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 6,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Visual Discrimination",
+  "sub_concept": "Object Matching / Visual Perception",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Visual perception",
+    "Hand-eye coordination",
+    "Object recognition"
+  ],
+  "language": "None",
+  "script": "None",
+  "instruction_clarity": "unclear",
+  "visual_density": "simple",
+  "scaffolding_details": "No explicit scaffolding or examples are provided; the task relies entirely on visual recognition.",
+  "multiple_representations": false,
+  "assessment_purpose": "diagnostic",
+  "prior_knowledge_required": "Ability to recognize basic shapes and colors and distinguish between different states of an object (whole vs. eaten vs. sliced).",
+  "common_misconceptions": [
+    "Matching based on color (red) rather than specific features (worm, bite, slice).",
+    "Confusing the apple core with the sliced apple."
+  ],
+  "cultural_context": "Apples are a globally recognized fruit, making this universally relatable.",
+  "teacher_guidance": "Since there are no written instructions, the teacher must orally instruct the students to 'Look at the apple on the left and find its twin on the right, then draw a line to connect them.'",
+  "adaptation_suggestions": "For struggling learners: Provide a starting dot on each image to guide the line. For advanced learners: Ask them to describe the differences between the apples (e.g., 'This one has a worm').",
+  "cross_curricular_links": "Science (parts of a fruit/life cycle of a worm).",
+  "all_text_detected": "None",
+  "confidence_score": 95,
+  "reasoning": "The worksheet clearly presents two columns of varied apple illustrations. The structure is a classic matching task used in early childhood education to test visual discrimination. While there is no text, the visual logic is unambiguous for the target age group."
+}

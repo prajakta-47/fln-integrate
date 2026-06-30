@@ -1,0 +1,43 @@
+{
+  "question_heading": "\u0935\u091c\u0928 (\u0939\u0932\u094d\u0915\u093e-\u092d\u093e\u0930\u0940)",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to compare the weight of two objects and identify which is 'light' (\u0939\u0932\u094d\u0915\u093e) and which is 'heavy' (\u092d\u093e\u0930\u0940).",
+  "student_action": "The student should look at the two objects labeled '\u0905' and '\u092c', compare their weights, and then write the corresponding letter ('\u0905' or '\u092c') in the correct box next to the words '\u0939\u0932\u094d\u0915\u093e' (light) and '\u092d\u093e\u0930\u0940' (heavy).",
+  "answer_format": "fill_in_blank",
+  "visual_elements": "The worksheet is divided into four horizontal rows by thin black lines. Each row contains two illustrations labeled with Devanagari letters '\u0905' and '\u092c'. To the right of each pair, there are two words ('\u0939\u0932\u094d\u0915\u093e' and '\u092d\u093e\u0930\u0940') with empty square boxes next to them. The illustrations include: 1. Two baskets of pears (one full, one less full), 2. An apple and a papaya, 3. A stack of books and a single book, 4. An empty box and a box filled with items. A decorative border at the bottom features children, fruits, and birds.",
+  "number_range": "N/A",
+  "has_example": true,
+  "question_count": 4,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Weight (Mass) Comparison",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Weight comparison",
+    "Logical reasoning",
+    "Vocabulary application (Hindi)",
+    "Fine motor skills (writing letters in boxes)"
+  ],
+  "language": "Hindi",
+  "script": "Devanagari",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The first row provides a completed example where the student has already written '\u092c' for light and '\u0905' for heavy, showing the expected way to complete the task.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of the concepts of 'heavy' and 'light' in daily life; ability to recognize Devanagari letters '\u0905' and '\u092c'.",
+  "common_misconceptions": [
+    "Confusing size with weight (e.g., thinking the larger papaya is always heavier, though in this case it is, but a child might struggle if a large light object is compared to a small heavy object)",
+    "Confusing the labels '\u0905' and '\u092c' with the words '\u0939\u0932\u094d\u0915\u093e' and '\u092d\u093e\u0930\u0940'"
+  ],
+  "cultural_context": "Highly relevant; uses common Indian fruits (papaya, pear) and everyday objects (baskets, books, boxes) that are familiar to Indian children.",
+  "teacher_guidance": "Before using this worksheet, conduct a hands-on activity using real objects (e.g., a stone vs. a leaf, a full water bottle vs. an empty one) to let children feel the difference in weight. This builds the sensory foundation needed for the abstract visual task.",
+  "adaptation_suggestions": "For struggling learners: Use real objects for comparison first. For advanced learners: Ask them to draw their own pair of objects and label them as light/heavy, or introduce a third object to rank in order of weight.",
+  "cross_curricular_links": "Language (Hindi vocabulary development), Science (Physical properties of matter).",
+  "all_text_detected": "\u0935\u091c\u0928 (\u0939\u0932\u094d\u0915\u093e-\u092d\u093e\u0930\u0940), \u0905, \u092c, \u0939\u0932\u094d\u0915\u093e, \u092d\u093e\u0930\u0940, \u0905, \u092c, \u0939\u0932\u094d\u0915\u093e, \u092d\u093e\u0930\u0940, \u0905, \u092c, \u0939\u0932\u094d\u0915\u093e, \u092d\u093e\u0930\u0940, \u0905, \u092c, \u0939\u0932\u094d\u0915\u093e, \u092d\u093e\u0930\u0940, 95",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is clearly labeled with the concept of weight (\u0935\u091c\u0928) and the attributes light (\u0939\u0932\u094d\u0915\u093e) and heavy (\u092d\u093e\u0930\u0940). The example in the first row is explicitly completed, providing a clear model for the student. The visual evidence of the objects (full vs empty, single vs stack) directly supports the mathematical concept of weight comparison."
+}

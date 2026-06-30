@@ -1,0 +1,42 @@
+{
+  "question_heading": "Match the similar.",
+  "question_type": "Matching",
+  "learning_outcome": "The child will be able to identify and pair identical objects based on visual recognition.",
+  "student_action": "The student should draw lines to connect the identical objects in the left column with their counterparts in the right column.",
+  "answer_format": "match",
+  "visual_elements": "Two vertical columns of colorful, cartoon-style illustrations on a light pink background. Left column contains: teddy bear, robot, car, beach ball, rubber duck. Right column contains: rubber duck, beach ball, teddy bear, robot, car. The images are clear, high-contrast, and engaging.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 5,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Visual Discrimination",
+  "sub_concept": "Object Recognition and Pairing",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Object identification",
+    "Visual scanning",
+    "Fine motor coordination (drawing lines)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "No explicit example is provided, but the simplicity of the task serves as its own scaffolding for this age group.",
+  "multiple_representations": false,
+  "assessment_purpose": "diagnostic",
+  "prior_knowledge_required": "Basic recognition of common objects (toys, animals, vehicles).",
+  "common_misconceptions": [
+    "Connecting items based on category (e.g., connecting two different toys) rather than identity.",
+    "Difficulty with spatial tracking when drawing lines across the page."
+  ],
+  "cultural_context": "The objects (teddy bear, robot, car, ball, duck) are universal toys and are highly relatable to children globally, including in India.",
+  "teacher_guidance": "Use this as a diagnostic tool to check a child's visual perception skills. If a child struggles, encourage them to point to the object first before drawing the line. Ensure they are looking at the whole object, not just a single color.",
+  "adaptation_suggestions": "For struggling learners: Provide a worksheet with fewer items or items that are more distinct in color. For advanced learners: Use items that are similar but not identical (e.g., different colored cars) to test higher-level discrimination.",
+  "cross_curricular_links": "Fine Motor Skills (Pre-writing)",
+  "all_text_detected": "Match the similar. azaworksheets@gmail.com",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is unambiguous. The instruction 'Match the similar' combined with the visual layout of two columns of objects clearly indicates a visual discrimination matching task. The objects are distinct and the layout is standard for early childhood education."
+}

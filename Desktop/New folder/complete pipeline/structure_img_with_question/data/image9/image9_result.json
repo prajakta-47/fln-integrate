@@ -1,0 +1,42 @@
+{
+  "question_heading": "Colour the ones which have less quantity.",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to compare two sets of objects/quantities and identify the one with the smaller amount (lesser quantity).",
+  "student_action": "color",
+  "answer_format": "color",
+  "visual_elements": "The worksheet features three pairs of items enclosed in light blue cloud-like shapes. Pair 1: Two fishbowls, one partially filled with water and one nearly empty. Pair 2: Two plastic bottles, one nearly empty and one nearly full. Pair 3: Two large bowls, one with a low water level and one with a high water level. Pair 4: Two aquariums, one crowded with many fish and one with very few fish. The background is light blue.",
+  "number_range": "N/A (Qualitative comparison of volume/quantity)",
+  "has_example": false,
+  "question_count": 4,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Comparison of Quantities",
+  "sub_concept": "More vs Less (Volume/Amount)",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Comparing quantities",
+    "Understanding volume/capacity",
+    "Fine motor skills (coloring)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The worksheet uses visual representations of volume (water levels) and count (number of fish) to represent 'quantity', providing different ways to perceive the concept.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of the concepts 'more' and 'less' or 'big' and 'small'.",
+  "common_misconceptions": [
+    "Confusing size of the container with the quantity of the contents (e.g., thinking the larger bowl always has more, even if it's empty).",
+    "Focusing on the size of the object rather than the amount of substance inside."
+  ],
+  "cultural_context": "The objects (fishbowls, bottles, bowls, aquariums) are universal and easily recognizable to Indian children.",
+  "teacher_guidance": "Before giving this worksheet, use real-life objects like two glasses of water (one full, one half-full) to demonstrate 'more' and 'less'. Ask students to point to the one that has 'less' before they start coloring.",
+  "adaptation_suggestions": "For struggling learners: Use physical manipulatives (beads or water) to demonstrate. For advanced learners: Ask them to draw the 'more' quantity next to the 'less' quantity or use words like 'empty', 'half-full', and 'full'.",
+  "cross_curricular_links": "Science (understanding liquid volume and habitats).",
+  "all_text_detected": "Colour the ones which have less quantity.",
+  "confidence_score": 100,
+  "reasoning": "The instruction is explicit, the visual pairs clearly represent varying levels of quantity/volume, and the task is a standard early numeracy comparison exercise."
+}

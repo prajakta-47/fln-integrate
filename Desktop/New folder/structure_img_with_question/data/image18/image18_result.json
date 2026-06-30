@@ -1,0 +1,42 @@
+{
+  "question_heading": "Tall and Short Worksheet",
+  "question_type": "Comparison",
+  "learning_outcome": "The student will be able to compare the heights of two objects and identify which is taller and which is shorter.",
+  "student_action": "The student should look at each pair of objects, determine which is taller and which is shorter, and then mark the taller one with a green checkmark (\u2713) and the shorter one with a red cross (X) in the provided boxes.",
+  "answer_format": "fill_in_blank",
+  "visual_elements": "A structured grid layout containing 9 rectangular boxes. Each box contains a pair of illustrated objects (e.g., pencil/pencil, building/house, Eiffel Tower/cat, banana/apple, fish/small fish, pen/marker, man/child, stork/bird, dog/giraffe). Below each object in a pair, there is a small empty square box for marking.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 9,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Comparing Length/Height (Tall vs Short)",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Comparing attributes",
+    "Spatial awareness",
+    "Understanding measurement concepts"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "moderate",
+  "scaffolding_details": "The worksheet uses clear, high-contrast illustrations of familiar objects to represent height differences. It provides specific symbols (\u2713 and X) to guide the response.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic recognition of common objects and the concept of size/height.",
+  "common_misconceptions": [
+    "Confusing 'tall' with 'big' (volume vs height)",
+    "Misidentifying height if objects are oriented differently"
+  ],
+  "cultural_context": "The illustrations (Eiffel Tower, specific animals) are globally recognizable but may not be specifically 'Indian' in context, though they are universally understood in modern educational materials.",
+  "teacher_guidance": "Before using this worksheet, conduct a hands-on activity using physical objects (pencils, water bottles, books) to demonstrate 'tall' and 'short'. Ensure children understand that the checkmark goes under the taller item and the cross under the shorter one as per the instructions.",
+  "adaptation_suggestions": "For struggling learners: Use physical objects first and reduce the number of items. For advanced learners: Ask them to arrange three objects in order from shortest to tallest.",
+  "cross_curricular_links": "Science (observing physical properties of objects)",
+  "all_text_detected": "A to Z WORKSHEET, Tall and Short Worksheet, Name:, Class:, Instruction: mark \u2713 the taller and mark X the shorter.",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is clearly titled, the instructions are explicit with visual symbols (check and cross), and the task is a standard comparison exercise for early childhood numeracy/measurement."
+}

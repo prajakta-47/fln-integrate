@@ -1,0 +1,42 @@
+{
+  "question_heading": "Exercise (a) Match the things that have similar shape.",
+  "question_type": "Shapes",
+  "learning_outcome": "The child will be able to identify and relate real-world objects based on their geometric properties/shapes.",
+  "student_action": "Match objects from the left column to objects in the right column that share a similar geometric shape.",
+  "answer_format": "match",
+  "visual_elements": "Two vertical columns separated by a pink line. Left column contains: a carrot (conical/tapered), a lime/lemon (spherical), a treasure chest (rectangular prism), and a post box (cylindrical/rectangular). Right column contains: an orange (spherical), a water flask/thermos (cylindrical), a party hat (conical), and a cupboard (rectangular prism). The background has a large watermark 'SCERT TELANGANA'.",
+  "number_range": null,
+  "has_example": false,
+  "question_count": 4,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Geometry",
+  "sub_concept": "Spatial Understanding and Shape Recognition",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Shape recognition",
+    "Object-to-shape association",
+    "Logical reasoning"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "Uses real-world objects to represent abstract geometric shapes to help children bridge the gap between concrete objects and mathematical concepts.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic recognition of common objects and fundamental shapes (circle, triangle, rectangle, cylinder).",
+  "common_misconceptions": [
+    "Confusing size with shape (e.g., thinking a large orange and small lime are different because of size)",
+    "Confusing color with shape (e.g., matching the orange to the carrot because they are both orange/yellowish)"
+  ],
+  "cultural_context": "The objects (post box, water flask, cupboard) are common in Indian households and environments.",
+  "teacher_guidance": "Encourage students to name the shape of the object first (e.g., 'The orange is round like a ball') before drawing the line. This reinforces vocabulary.",
+  "adaptation_suggestions": "For struggling learners: Provide the names of the shapes next to the objects. For advanced learners: Ask them to draw one more object that fits the same shape category.",
+  "cross_curricular_links": "Environmental Studies (identifying fruits, vegetables, and household objects).",
+  "all_text_detected": "Exercise (a) Match the things that have similar shape. SCERT TELANGANA",
+  "confidence_score": 100,
+  "reasoning": "The instruction is explicit, the visual layout is a standard matching format, and the objects clearly correspond to geometric shapes (Carrot-Party Hat/Cone; Lime-Orange/Sphere; Chest-Cupboard/Rectangular Prism; Post Box-Flask/Cylinder)."
+}

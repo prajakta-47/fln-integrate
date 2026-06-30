@@ -1,0 +1,43 @@
+{
+  "question_heading": "Directions: read, choose and circle. Then color.",
+  "question_type": "Vocabulary",
+  "learning_outcome": "The student will be able to identify and differentiate between basic descriptive adjectives (opposites/comparatives) through visual cues.",
+  "student_action": "read the word, identify the correct image pair that matches the adjective, circle the correct pair, and then color the images.",
+  "answer_format": "circle",
+  "visual_elements": "A structured 3x2 grid layout. Each cell contains a colored word in a rounded rectangle (big, tall, short, fat, thin, small) and two corresponding cartoon illustrations (e.g., a large dog and a small cat for 'big'). The illustrations are colorful and high-contrast.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 6,
+  "worksheet_type": "literacy",
+  "difficulty": "easy",
+  "concept": "Descriptive Adjectives",
+  "sub_concept": "Opposites and Size/Shape Attributes",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Reading sight words",
+    "Vocabulary acquisition",
+    "Visual discrimination",
+    "Concept of size and proportion",
+    "Fine motor skills (coloring/circling)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "Uses direct visual pairing (two objects of different sizes/shapes) to provide immediate context for the written word.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic ability to recognize letters and simple sight words; understanding of basic object names (dog, cat, tree, boy, girl, etc.).",
+  "common_misconceptions": [
+    "Confusing 'thin' with 'small'",
+    "Confusing 'short' (height) with 'small' (overall size)"
+  ],
+  "cultural_context": "Generic/Universal cartoon style; not specifically Indian but highly accessible.",
+  "teacher_guidance": "Use this as a warm-up activity. Before handing it out, do a verbal drill where you point to objects in the classroom and ask 'Is this big or small?' to build oral language before moving to the written task.",
+  "adaptation_suggestions": "For struggling learners: Read the words aloud to them. For advanced learners: Ask them to write the opposite word next to the box (e.g., write 'small' next to 'big').",
+  "cross_curricular_links": "Mathematics (Measurement/Comparison)",
+  "all_text_detected": "Name: ________ Date: ________ Directions: read, choose and circle. Then color. big tall short fat thin small",
+  "confidence_score": 100,
+  "reasoning": "The instructions are explicitly stated at the top. The grid structure and the pairing of words with visual opposites are unambiguous. The task type (circle and color) is clearly defined."
+}

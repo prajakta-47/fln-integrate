@@ -1,0 +1,42 @@
+{
+  "question_heading": "Biggest - Circle The Biggest One",
+  "question_type": "Comparison",
+  "learning_outcome": "The child will be able to identify and compare the relative size of objects to determine which is the 'biggest'.",
+  "student_action": "circle",
+  "answer_format": "circle",
+  "visual_elements": "The worksheet features a blue polka-dot border. It contains four horizontal rectangular boxes, each outlined in a different color (pink, green, orange, brown). Inside each box, there are three illustrations of a specific object (guava/green fruit, orange, bean/pod, and grapes) in varying sizes. The background has a faint watermark of the website URL.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 4,
+  "worksheet_type": "numeracy",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Comparing Size (Attribute: Magnitude)",
+  "estimated_grade": "Pre-K",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Size comparison",
+    "Object identification",
+    "Fine motor control (circling)"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "simple",
+  "scaffolding_details": "The worksheet uses clear, distinct visual representations of objects in three different sizes to allow for easy comparison without distraction.",
+  "multiple_representations": false,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Basic understanding of size concepts (big vs. small) and ability to recognize common fruits/vegetables.",
+  "common_misconceptions": [
+    "Confusing 'biggest' with 'most numerous' (though only one object type is shown per row, preventing this)",
+    "Difficulty distinguishing between scale and quantity if objects were grouped"
+  ],
+  "cultural_context": "The fruits/vegetables shown (guava, orange, grapes, beans) are globally recognizable and common in Indian households, making it culturally relatable.",
+  "teacher_guidance": "Use this worksheet to introduce the vocabulary of comparison (big, bigger, biggest). Before starting, ask students to point to large and small objects in the classroom to build context.",
+  "adaptation_suggestions": "For struggling learners: Use physical objects (real fruit or blocks) first before moving to the paper. For advanced learners: Ask them to circle the 'smallest' one instead, or introduce 'medium' sized objects.",
+  "cross_curricular_links": "EVS (Environmental Studies) - identifying fruits and vegetables.",
+  "all_text_detected": "Name _________ Biggest Circle The Biggest One https://whatistheurl.com Please visit our site for worksheets and charts https://whatistheurl.com/",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is unambiguous. The heading explicitly states the task ('Biggest') and the instruction ('Circle The Biggest One'). The visual evidence shows four distinct rows of objects with varying sizes, clearly designed for a size comparison task."
+}

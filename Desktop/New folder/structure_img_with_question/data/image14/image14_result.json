@@ -1,0 +1,42 @@
+{
+  "question_heading": "None visible",
+  "question_type": "Matching",
+  "learning_outcome": "The child will be able to identify and match objects based on their capacity/volume (larger vs. smaller containers).",
+  "student_action": "Match the items on the left with the corresponding items on the right based on a logical relationship (likely size/capacity or pairing).",
+  "answer_format": "match",
+  "visual_elements": "The worksheet contains several pairs of objects separated by pink horizontal bars. Objects include a large bucket and a jug, a glass and a mug, a large orange jug/decanter and a glass, a glass and a jug, and a jug and a large orange jug/decanter. There is a small illustration of children eating at the bottom left.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 5,
+  "worksheet_type": "numeracy",
+  "difficulty": "medium",
+  "concept": "Measurement",
+  "sub_concept": "Capacity and Volume (Comparing sizes of containers)",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Comparison of size/capacity",
+    "Logical reasoning",
+    "Object recognition"
+  ],
+  "language": "None visible",
+  "script": "N/A",
+  "instruction_clarity": "unclear",
+  "visual_density": "simple",
+  "scaffolding_details": "No explicit scaffolding or examples are provided; the child must deduce the relationship between the objects.",
+  "multiple_representations": false,
+  "assessment_purpose": "diagnostic",
+  "prior_knowledge_required": "Basic recognition of common household objects and the concept of big vs. small.",
+  "common_misconceptions": [
+    "Matching based on color rather than size/function",
+    "Matching based on shape rather than capacity"
+  ],
+  "cultural_context": "The objects (jugs, glasses, buckets) are common in Indian households, making it culturally relatable.",
+  "teacher_guidance": "Since there are no written instructions, the teacher should orally instruct the students to 'Match the big container with its smaller partner' or 'Match the objects that belong together'. Discuss the capacity of each item (e.g., 'Which one holds more water?') to deepen understanding.",
+  "adaptation_suggestions": "For struggling learners, provide physical objects (a real bucket and a small cup) to demonstrate the concept first. For advanced learners, ask them to rank the objects from smallest capacity to largest capacity.",
+  "cross_curricular_links": "EVS (Environmental Studies) - understanding household items and their uses.",
+  "all_text_detected": "None",
+  "confidence_score": 85,
+  "reasoning": "The worksheet clearly shows pairs of objects separated by bars, which is a standard layout for matching exercises. While the exact relationship (size vs. functional pairing) is slightly ambiguous without text, the visual context of containers strongly suggests a capacity/size comparison task. The lack of text makes the instruction 'unclear' for an independent student, but the intent is visually evident for a guided classroom setting."
+}

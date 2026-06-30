@@ -1,0 +1,43 @@
+{
+  "question_heading": "(e) Look at the colours of the following 4 shapes. Colour the shapes of the following picture with the same colours.",
+  "question_type": "Shapes",
+  "learning_outcome": "The child will be able to identify geometric shapes within a complex figure and associate specific colors with specific shapes.",
+  "student_action": "color",
+  "answer_format": "color",
+  "visual_elements": "A large line-art illustration of a humanoid figure (robot/doll) composed entirely of geometric shapes: a triangle (hat), circles (eyes, buttons), a large circle (head), a rectangle (body), triangles (arms/hands and feet), and rectangles (legs). At the top, there is a color key consisting of a red square, a blue triangle, a pink circle, and a green rectangle. The background has a large watermark 'SCERT TELANGANA'.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 1,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Geometry",
+  "sub_concept": "Shape Recognition and Color Association",
+  "estimated_grade": "Kindergarten",
+  "bloom_level": "Applying",
+  "skills": [
+    "Shape identification",
+    "Color recognition",
+    "Visual discrimination",
+    "Fine motor skills (coloring)",
+    "Object-to-shape correspondence"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "moderate",
+  "scaffolding_details": "Provides a visual color key at the top to serve as a reference for the task.",
+  "multiple_representations": true,
+  "assessment_purpose": "practice",
+  "prior_knowledge_required": "Recognition of basic shapes (circle, square, triangle, rectangle) and primary/secondary colors.",
+  "common_misconceptions": [
+    "Applying the color to the wrong shape (e.g., coloring the head blue because it's a circle, but the key says blue is for triangles).",
+    "Difficulty distinguishing between a square and a rectangle if the child's perception is imprecise."
+  ],
+  "cultural_context": "Generic humanoid figure, suitable for any Indian classroom context.",
+  "teacher_guidance": "Before handing out the worksheet, verbally review the shapes and colors shown in the key. Ask students to point to the triangle in the key and name its color. This ensures they understand the mapping before they start coloring.",
+  "adaptation_suggestions": "For struggling learners: Provide a version where the shapes in the figure are already lightly shaded with the target color. For advanced learners: Ask them to count how many of each shape they colored (e.g., 'How many blue triangles did you color?').",
+  "cross_curricular_links": "Art (Coloring/Composition)",
+  "all_text_detected": "(e) Look at the colours of the following 4 shapes. Colour the shapes of the following picture with the same colours. SCERT TELANGANA Get your pupils to identify the colour used for the four different shapes. Let them identify where those shapes are in the",
+  "confidence_score": 100,
+  "reasoning": "The instructions are explicitly stated at the top and bottom. The visual elements (shapes and color key) are clearly identifiable and directly relate to the task described. The watermark confirms the source (SCERT Telangana), which is consistent with Indian FLN materials."
+}

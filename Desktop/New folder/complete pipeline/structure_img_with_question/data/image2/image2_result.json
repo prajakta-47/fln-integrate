@@ -1,0 +1,47 @@
+{
+  "question_heading": "Three-part activity involving comparison of length, weight, and capacity.",
+  "question_type": "Comparison",
+  "learning_outcome": "The student will be able to compare and contrast objects based on physical attributes: length, weight, and capacity/volume.",
+  "student_action": "Tick boxes for length comparison, guess/identify light vs heavy for weight, and predict/experiment for capacity.",
+  "answer_format": "draw",
+  "visual_elements": "Three distinct sections (a, b, c). Section (a) shows a chalkboard, a tube, a window, and a ruler with empty checkboxes below. Section (b) shows two pairs of vegetables (green chili vs green chili, pea pod vs eggplant) in pink-bordered boxes. Section (c) shows a bucket, a jug, and a glass. A watermark 'SCERT TELANGANA' is visible across the page. Teacher instructions are at the bottom.",
+  "number_range": "N/A",
+  "has_example": false,
+  "question_count": 3,
+  "worksheet_type": "mixed",
+  "difficulty": "easy",
+  "concept": "Measurement",
+  "sub_concept": "Comparison of attributes (Length, Weight, Capacity)",
+  "estimated_grade": "Grade 1",
+  "bloom_level": "Understanding",
+  "skills": [
+    "Visual discrimination",
+    "Comparative reasoning",
+    "Estimation",
+    "Observation",
+    "Logical thinking"
+  ],
+  "language": "English",
+  "script": "Roman",
+  "instruction_clarity": "clear",
+  "visual_density": "moderate",
+  "scaffolding_details": "The worksheet uses real-world objects (vegetables, household items) to ground abstract measurement concepts in everyday experience.",
+  "multiple_representations": true,
+  "assessment_purpose": "formative",
+  "prior_knowledge_required": "Basic understanding of object properties like size, weight, and how much liquid a container holds.",
+  "common_misconceptions": [
+    "Confusing size with weight (thinking a larger object is always heavier)",
+    "Confusing length with weight",
+    "Assuming a taller vessel always holds more liquid regardless of width"
+  ],
+  "cultural_context": "Highly relevant to Indian children; uses common items like chilies, eggplants, buckets, and jugs found in Indian households.",
+  "teacher_guidance": "This worksheet is designed for guided discovery. For part (a), ensure children understand the reference object (pencil). For part (b), encourage them to 'feel' the weight mentally. For part (c), the instruction explicitly suggests 'actual filling', so the teacher should provide water and the vessels for a hands-on experiment.",
+  "adaptation_suggestions": {
+    "struggling_learners": "Provide actual physical objects (a real pencil, real vegetables, real water containers) for them to touch and manipulate while doing the worksheet.",
+    "advanced_learners": "Ask them to rank the objects in order (e.g., shortest to longest, lightest to heaviest) or estimate the exact volume in cups/glasses."
+  },
+  "cross_curricular_links": "Science (Physical properties of matter)",
+  "all_text_detected": "(a) Look at the things given below. Tick '\u2713' the things which are shorter than a pencil. (b) Look at the two pairs of vegetables. Guess which of the two is light and which is heavy. (c) If you want to fill the bucket fast, which vessel should you use? Guess. Find out by actual filling. Get your pupils to understand the instruction for each problem. Let them solve the problems by themselves. SCERT TELANGANA 134",
+  "confidence_score": 100,
+  "reasoning": "The worksheet is clearly divided into three logical measurement tasks. The text provides explicit instructions for each. The visual evidence for the objects and the intended actions (ticking, guessing, filling) is unambiguous. The watermark confirms it is an official educational resource from SCERT Telangana."
+}

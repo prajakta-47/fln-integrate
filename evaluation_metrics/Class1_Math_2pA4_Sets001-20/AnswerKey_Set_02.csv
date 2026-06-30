@@ -1,0 +1,10 @@
+set,q,type,question,answer
+2,Q1,matching,"Match shapes","[{""lPos"":1,""shape"":""Rectangle"",""rPos"":1,""obj"":""Door""},{""lPos"":2,""shape"":""Square"",""rPos"":4,""obj"":""Chocolate""},{""lPos"":3,""shape"":""Triangle"",""rPos"":2,""obj"":""Mango""},{""lPos"":4,""shape"":""Circle"",""rPos"":3,""obj"":""Clock""}]"
+2,Q2,group_circle,"Circle MORE/LESS groups","[{""cell"":""TL"",""task"":""MORE"",""lCount"":6,""rCount"":2,""ans"":""Left""},{""cell"":""TR"",""task"":""MORE"",""lCount"":2,""rCount"":9,""ans"":""Right""},{""cell"":""BL"",""task"":""LESS"",""lCount"":5,""rCount"":8,""ans"":""Left""},{""cell"":""BR"",""task"":""LESS"",""lCount"":2,""rCount"":8,""ans"":""Left""}]"
+2,Q3,fill_number,"Fill missing numbers in sequence 2,3,4,5,6,7",""""""
+2,Q4,choice,"Heavier side (a dice and a balloon)","Right"
+2,Q5,matching,"Match pairs","[{""lPos"":1,""left"":""Rocket"",""rPos"":2,""right"":""Star""},{""lPos"":2,""left"":""Drum"",""rPos"":1,""right"":""Bird""},{""lPos"":3,""left"":""Lock"",""rPos"":3,""right"":""Key""},{""lPos"":4,""left"":""Pencil"",""rPos"":4,""right"":""Eraser""}]"
+2,Q6,cluster_loop,"Circle ₹1 coins",""""""
+2,Q7,path_trace,"Cut mango in half",""""""
+2,Q8,mcq,"How many left? (box of gifts)","0"
+2,Q9,dual_mark,"Most/Least leaf",""""""

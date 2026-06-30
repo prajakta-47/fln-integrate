@@ -1,0 +1,65 @@
+[
+  {
+    "set": "11",
+    "q": "Q1",
+    "type": "matching",
+    "question": "Match shapes",
+    "answer": "[{\"lPos\":1,\"shape\":\"Circle\",\"rPos\":3,\"obj\":\"Soccer Ball\"},{\"lPos\":2,\"shape\":\"Triangle\",\"rPos\":1,\"obj\":\"Warning Sign\"},{\"lPos\":3,\"shape\":\"Rectangle\",\"rPos\":4,\"obj\":\"Eraser\"},{\"lPos\":4,\"shape\":\"Square\",\"rPos\":2,\"obj\":\"Book\"}]"
+  },
+  {
+    "set": "11",
+    "q": "Q2",
+    "type": "group_circle",
+    "question": "Circle MORE/LESS groups",
+    "answer": "[{\"cell\":\"TL\",\"task\":\"MORE\",\"lCount\":3,\"rCount\":8,\"ans\":\"Right\"},{\"cell\":\"TR\",\"task\":\"MORE\",\"lCount\":7,\"rCount\":2,\"ans\":\"Left\"},{\"cell\":\"BL\",\"task\":\"LESS\",\"lCount\":7,\"rCount\":4,\"ans\":\"Right\"},{\"cell\":\"BR\",\"task\":\"LESS\",\"lCount\":3,\"rCount\":7,\"ans\":\"Left\"}]"
+  },
+  {
+    "set": "11",
+    "q": "Q3",
+    "type": "fill_number",
+    "question": "Fill missing numbers in sequence 4,5,6,7,8,9",
+    "answer": "\"\""
+  },
+  {
+    "set": "11",
+    "q": "Q4",
+    "type": "choice",
+    "question": "Tick (\u2713) the balloon that is SMALLER.",
+    "answer": "Balloon B"
+  },
+  {
+    "set": "11",
+    "q": "Q5",
+    "type": "matching",
+    "question": "Match pairs",
+    "answer": "[{\"lPos\":1,\"left\":\"Rocket\",\"rPos\":3,\"right\":\"Star\"},{\"lPos\":2,\"left\":\"Pencil\",\"rPos\":2,\"right\":\"Eraser\"},{\"lPos\":3,\"left\":\"Drum\",\"rPos\":1,\"right\":\"Bird\"},{\"lPos\":4,\"left\":\"Lock\",\"rPos\":4,\"right\":\"Key\"}]"
+  },
+  {
+    "set": "11",
+    "q": "Q6",
+    "type": "cluster_loop",
+    "question": "Circle \u20b91 coins",
+    "answer": "\"\""
+  },
+  {
+    "set": "11",
+    "q": "Q7",
+    "type": "path_trace",
+    "question": "Cut guava in half",
+    "answer": "\"\""
+  },
+  {
+    "set": "11",
+    "q": "Q8",
+    "type": "mcq",
+    "question": "How many left? (vase of flowers)",
+    "answer": "0"
+  },
+  {
+    "set": "11",
+    "q": "Q9",
+    "type": "dual_mark",
+    "question": "Most/Least apple",
+    "answer": "\"\""
+  }
+]

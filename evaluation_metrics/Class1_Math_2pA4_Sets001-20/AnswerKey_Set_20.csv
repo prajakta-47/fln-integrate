@@ -1,0 +1,10 @@
+set,q,type,question,answer
+20,Q1,matching,"Match shapes","[{""lPos"":1,""shape"":""Square"",""rPos"":1,""obj"":""Gift Box""},{""lPos"":2,""shape"":""Rectangle"",""rPos"":4,""obj"":""Book""},{""lPos"":3,""shape"":""Triangle"",""rPos"":2,""obj"":""Ice Cream""},{""lPos"":4,""shape"":""Circle"",""rPos"":3,""obj"":""Plate""}]"
+20,Q2,group_circle,"Circle MORE/LESS groups","[{""cell"":""TL"",""task"":""MORE"",""lCount"":2,""rCount"":10,""ans"":""Right""},{""cell"":""TR"",""task"":""MORE"",""lCount"":5,""rCount"":10,""ans"":""Right""},{""cell"":""BL"",""task"":""LESS"",""lCount"":2,""rCount"":6,""ans"":""Left""},{""cell"":""BR"",""task"":""LESS"",""lCount"":10,""rCount"":2,""ans"":""Right""}]"
+20,Q3,fill_number,"Fill missing numbers in sequence 3,4,5,6,7,8",""""""
+20,Q4,choice,"Circle the ball that is BIGGER.","Ball B"
+20,Q5,matching,"Match pairs","[{""lPos"":1,""left"":""Rocket"",""rPos"":2,""right"":""Star""},{""lPos"":2,""left"":""Lock"",""rPos"":3,""right"":""Key""},{""lPos"":3,""left"":""Shoe"",""rPos"":1,""right"":""Sock""},{""lPos"":4,""left"":""Toothbrush"",""rPos"":4,""right"":""Toothpaste""}]"
+20,Q6,cluster_loop,"Circle ₹1 coins",""""""
+20,Q7,path_trace,"Cut giftBox in half",""""""
+20,Q8,mcq,"How many left? (vase of flowers)","0"
+20,Q9,dual_mark,"Most/Least leaf",""""""

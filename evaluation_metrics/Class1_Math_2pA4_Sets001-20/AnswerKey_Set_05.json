@@ -1,0 +1,65 @@
+[
+  {
+    "set": "5",
+    "q": "Q1",
+    "type": "matching",
+    "question": "Match shapes",
+    "answer": "[{\"lPos\":1,\"shape\":\"Square\",\"rPos\":3,\"obj\":\"Dice\"},{\"lPos\":2,\"shape\":\"Rectangle\",\"rPos\":1,\"obj\":\"Eraser\"},{\"lPos\":3,\"shape\":\"Triangle\",\"rPos\":2,\"obj\":\"Warning Sign\"},{\"lPos\":4,\"shape\":\"Circle\",\"rPos\":4,\"obj\":\"Clock\"}]"
+  },
+  {
+    "set": "5",
+    "q": "Q2",
+    "type": "group_circle",
+    "question": "Circle MORE/LESS groups",
+    "answer": "[{\"cell\":\"TL\",\"task\":\"MORE\",\"lCount\":7,\"rCount\":4,\"ans\":\"Left\"},{\"cell\":\"TR\",\"task\":\"MORE\",\"lCount\":9,\"rCount\":5,\"ans\":\"Left\"},{\"cell\":\"BL\",\"task\":\"LESS\",\"lCount\":5,\"rCount\":6,\"ans\":\"Left\"},{\"cell\":\"BR\",\"task\":\"LESS\",\"lCount\":4,\"rCount\":8,\"ans\":\"Left\"}]"
+  },
+  {
+    "set": "5",
+    "q": "Q3",
+    "type": "fill_number",
+    "question": "Fill missing numbers in sequence 4,5,6,7,8,9",
+    "answer": "\"\""
+  },
+  {
+    "set": "5",
+    "q": "Q4",
+    "type": "choice",
+    "question": "Tick (\u2713) the balloon that is SMALLER.",
+    "answer": "Balloon B"
+  },
+  {
+    "set": "5",
+    "q": "Q5",
+    "type": "matching",
+    "question": "Match pairs",
+    "answer": "[{\"lPos\":1,\"left\":\"Lock\",\"rPos\":4,\"right\":\"Key\"},{\"lPos\":2,\"left\":\"Umbrella\",\"rPos\":2,\"right\":\"Raincoat\"},{\"lPos\":3,\"left\":\"Shoe\",\"rPos\":1,\"right\":\"Sock\"},{\"lPos\":4,\"left\":\"Pencil\",\"rPos\":3,\"right\":\"Eraser\"}]"
+  },
+  {
+    "set": "5",
+    "q": "Q6",
+    "type": "cluster_loop",
+    "question": "Circle \u20b91 coins",
+    "answer": "\"\""
+  },
+  {
+    "set": "5",
+    "q": "Q7",
+    "type": "path_trace",
+    "question": "Cut guava in half",
+    "answer": "\"\""
+  },
+  {
+    "set": "5",
+    "q": "Q8",
+    "type": "mcq",
+    "question": "How many left? (basket of apples)",
+    "answer": "0"
+  },
+  {
+    "set": "5",
+    "q": "Q9",
+    "type": "dual_mark",
+    "question": "Most/Least rocket",
+    "answer": "\"\""
+  }
+]

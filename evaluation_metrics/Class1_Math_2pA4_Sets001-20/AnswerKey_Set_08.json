@@ -1,0 +1,65 @@
+[
+  {
+    "set": "8",
+    "q": "Q1",
+    "type": "matching",
+    "question": "Match shapes",
+    "answer": "[{\"lPos\":1,\"shape\":\"Circle\",\"rPos\":2,\"obj\":\"Plate\"},{\"lPos\":2,\"shape\":\"Rectangle\",\"rPos\":1,\"obj\":\"Pencil\"},{\"lPos\":3,\"shape\":\"Square\",\"rPos\":3,\"obj\":\"Gift Box\"},{\"lPos\":4,\"shape\":\"Triangle\",\"rPos\":4,\"obj\":\"Ice Cream\"}]"
+  },
+  {
+    "set": "8",
+    "q": "Q2",
+    "type": "group_circle",
+    "question": "Circle MORE/LESS groups",
+    "answer": "[{\"cell\":\"TL\",\"task\":\"MORE\",\"lCount\":8,\"rCount\":2,\"ans\":\"Left\"},{\"cell\":\"TR\",\"task\":\"MORE\",\"lCount\":7,\"rCount\":5,\"ans\":\"Left\"},{\"cell\":\"BL\",\"task\":\"LESS\",\"lCount\":7,\"rCount\":4,\"ans\":\"Right\"},{\"cell\":\"BR\",\"task\":\"LESS\",\"lCount\":4,\"rCount\":8,\"ans\":\"Left\"}]"
+  },
+  {
+    "set": "8",
+    "q": "Q3",
+    "type": "fill_number",
+    "question": "Fill missing numbers in sequence 4,5,6,7,8,9",
+    "answer": "\"\""
+  },
+  {
+    "set": "8",
+    "q": "Q4",
+    "type": "choice",
+    "question": "Circle the container that can hold the MOST water.",
+    "answer": "Bucket"
+  },
+  {
+    "set": "8",
+    "q": "Q5",
+    "type": "matching",
+    "question": "Match pairs",
+    "answer": "[{\"lPos\":1,\"left\":\"Pencil\",\"rPos\":4,\"right\":\"Eraser\"},{\"lPos\":2,\"left\":\"Lock\",\"rPos\":3,\"right\":\"Key\"},{\"lPos\":3,\"left\":\"Shoe\",\"rPos\":2,\"right\":\"Sock\"},{\"lPos\":4,\"left\":\"Umbrella\",\"rPos\":1,\"right\":\"Raincoat\"}]"
+  },
+  {
+    "set": "8",
+    "q": "Q6",
+    "type": "cluster_loop",
+    "question": "Circle \u20b91 coins",
+    "answer": "\"\""
+  },
+  {
+    "set": "8",
+    "q": "Q7",
+    "type": "path_trace",
+    "question": "Cut guava in half",
+    "answer": "\"\""
+  },
+  {
+    "set": "8",
+    "q": "Q8",
+    "type": "mcq",
+    "question": "How many left? (basket of butterflies)",
+    "answer": "0"
+  },
+  {
+    "set": "8",
+    "q": "Q9",
+    "type": "dual_mark",
+    "question": "Most/Least balloon",
+    "answer": "\"\""
+  }
+]

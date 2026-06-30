@@ -1,0 +1,10 @@
+set,q,type,question,answer
+3,Q1,matching,"Match shapes","[{""lPos"":1,""shape"":""Triangle"",""rPos"":1,""obj"":""Party Hat""},{""lPos"":2,""shape"":""Circle"",""rPos"":2,""obj"":""Button""},{""lPos"":3,""shape"":""Square"",""rPos"":3,""obj"":""Chocolate""},{""lPos"":4,""shape"":""Rectangle"",""rPos"":4,""obj"":""Pencil""}]"
+3,Q2,group_circle,"Circle MORE/LESS groups","[{""cell"":""TL"",""task"":""MORE"",""lCount"":9,""rCount"":3,""ans"":""Left""},{""cell"":""TR"",""task"":""MORE"",""lCount"":2,""rCount"":10,""ans"":""Right""},{""cell"":""BL"",""task"":""LESS"",""lCount"":10,""rCount"":4,""ans"":""Right""},{""cell"":""BR"",""task"":""LESS"",""lCount"":3,""rCount"":10,""ans"":""Left""}]"
+3,Q3,fill_number,"Fill missing numbers in sequence 1,2,3,4,5,6",""""""
+3,Q4,choice,"Tick (✓) the container that can hold the LEAST water.","Spoon"
+3,Q5,matching,"Match pairs","[{""lPos"":1,""left"":""Shoe"",""rPos"":2,""right"":""Sock""},{""lPos"":2,""left"":""Drum"",""rPos"":3,""right"":""Bird""},{""lPos"":3,""left"":""Toothbrush"",""rPos"":4,""right"":""Toothpaste""},{""lPos"":4,""left"":""Lock"",""rPos"":1,""right"":""Key""}]"
+3,Q6,cluster_loop,"Circle ₹1 coins",""""""
+3,Q7,path_trace,"Cut guava in half",""""""
+3,Q8,mcq,"How many left? (plate of mangoes)","0"
+3,Q9,dual_mark,"Most/Least bird",""""""

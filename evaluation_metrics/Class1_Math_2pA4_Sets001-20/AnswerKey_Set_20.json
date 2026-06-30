@@ -1,0 +1,65 @@
+[
+  {
+    "set": "20",
+    "q": "Q1",
+    "type": "matching",
+    "question": "Match shapes",
+    "answer": "[{\"lPos\":1,\"shape\":\"Square\",\"rPos\":1,\"obj\":\"Gift Box\"},{\"lPos\":2,\"shape\":\"Rectangle\",\"rPos\":4,\"obj\":\"Book\"},{\"lPos\":3,\"shape\":\"Triangle\",\"rPos\":2,\"obj\":\"Ice Cream\"},{\"lPos\":4,\"shape\":\"Circle\",\"rPos\":3,\"obj\":\"Plate\"}]"
+  },
+  {
+    "set": "20",
+    "q": "Q2",
+    "type": "group_circle",
+    "question": "Circle MORE/LESS groups",
+    "answer": "[{\"cell\":\"TL\",\"task\":\"MORE\",\"lCount\":2,\"rCount\":10,\"ans\":\"Right\"},{\"cell\":\"TR\",\"task\":\"MORE\",\"lCount\":5,\"rCount\":10,\"ans\":\"Right\"},{\"cell\":\"BL\",\"task\":\"LESS\",\"lCount\":2,\"rCount\":6,\"ans\":\"Left\"},{\"cell\":\"BR\",\"task\":\"LESS\",\"lCount\":10,\"rCount\":2,\"ans\":\"Right\"}]"
+  },
+  {
+    "set": "20",
+    "q": "Q3",
+    "type": "fill_number",
+    "question": "Fill missing numbers in sequence 3,4,5,6,7,8",
+    "answer": "\"\""
+  },
+  {
+    "set": "20",
+    "q": "Q4",
+    "type": "choice",
+    "question": "Circle the ball that is BIGGER.",
+    "answer": "Ball B"
+  },
+  {
+    "set": "20",
+    "q": "Q5",
+    "type": "matching",
+    "question": "Match pairs",
+    "answer": "[{\"lPos\":1,\"left\":\"Rocket\",\"rPos\":2,\"right\":\"Star\"},{\"lPos\":2,\"left\":\"Lock\",\"rPos\":3,\"right\":\"Key\"},{\"lPos\":3,\"left\":\"Shoe\",\"rPos\":1,\"right\":\"Sock\"},{\"lPos\":4,\"left\":\"Toothbrush\",\"rPos\":4,\"right\":\"Toothpaste\"}]"
+  },
+  {
+    "set": "20",
+    "q": "Q6",
+    "type": "cluster_loop",
+    "question": "Circle \u20b91 coins",
+    "answer": "\"\""
+  },
+  {
+    "set": "20",
+    "q": "Q7",
+    "type": "path_trace",
+    "question": "Cut giftBox in half",
+    "answer": "\"\""
+  },
+  {
+    "set": "20",
+    "q": "Q8",
+    "type": "mcq",
+    "question": "How many left? (vase of flowers)",
+    "answer": "0"
+  },
+  {
+    "set": "20",
+    "q": "Q9",
+    "type": "dual_mark",
+    "question": "Most/Least leaf",
+    "answer": "\"\""
+  }
+]

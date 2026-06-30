@@ -1,0 +1,10 @@
+set,q,type,question,answer
+5,Q1,matching,"Match shapes","[{""lPos"":1,""shape"":""Square"",""rPos"":3,""obj"":""Dice""},{""lPos"":2,""shape"":""Rectangle"",""rPos"":1,""obj"":""Eraser""},{""lPos"":3,""shape"":""Triangle"",""rPos"":2,""obj"":""Warning Sign""},{""lPos"":4,""shape"":""Circle"",""rPos"":4,""obj"":""Clock""}]"
+5,Q2,group_circle,"Circle MORE/LESS groups","[{""cell"":""TL"",""task"":""MORE"",""lCount"":7,""rCount"":4,""ans"":""Left""},{""cell"":""TR"",""task"":""MORE"",""lCount"":9,""rCount"":5,""ans"":""Left""},{""cell"":""BL"",""task"":""LESS"",""lCount"":5,""rCount"":6,""ans"":""Left""},{""cell"":""BR"",""task"":""LESS"",""lCount"":4,""rCount"":8,""ans"":""Left""}]"
+5,Q3,fill_number,"Fill missing numbers in sequence 4,5,6,7,8,9",""""""
+5,Q4,choice,"Tick (✓) the balloon that is SMALLER.","Balloon B"
+5,Q5,matching,"Match pairs","[{""lPos"":1,""left"":""Lock"",""rPos"":4,""right"":""Key""},{""lPos"":2,""left"":""Umbrella"",""rPos"":2,""right"":""Raincoat""},{""lPos"":3,""left"":""Shoe"",""rPos"":1,""right"":""Sock""},{""lPos"":4,""left"":""Pencil"",""rPos"":3,""right"":""Eraser""}]"
+5,Q6,cluster_loop,"Circle ₹1 coins",""""""
+5,Q7,path_trace,"Cut guava in half",""""""
+5,Q8,mcq,"How many left? (basket of apples)","0"
+5,Q9,dual_mark,"Most/Least rocket",""""""

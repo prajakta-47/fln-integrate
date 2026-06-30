@@ -1,0 +1,10 @@
+set,q,type,question,answer
+17,Q1,matching,"Match shapes","[{""lPos"":1,""shape"":""Rectangle"",""rPos"":4,""obj"":""Eraser""},{""lPos"":2,""shape"":""Circle"",""rPos"":3,""obj"":""Button""},{""lPos"":3,""shape"":""Triangle"",""rPos"":2,""obj"":""Mango""},{""lPos"":4,""shape"":""Square"",""rPos"":1,""obj"":""Gift Box""}]"
+17,Q2,group_circle,"Circle MORE/LESS groups","[{""cell"":""TL"",""task"":""MORE"",""lCount"":9,""rCount"":2,""ans"":""Left""},{""cell"":""TR"",""task"":""MORE"",""lCount"":6,""rCount"":2,""ans"":""Left""},{""cell"":""BL"",""task"":""LESS"",""lCount"":10,""rCount"":3,""ans"":""Right""},{""cell"":""BR"",""task"":""LESS"",""lCount"":3,""rCount"":9,""ans"":""Left""}]"
+17,Q3,fill_number,"Fill missing numbers in sequence 2,3,4,5,6,7",""""""
+17,Q4,choice,"Circle the tower that is TALLER.","Tower B"
+17,Q5,matching,"Match pairs","[{""lPos"":1,""left"":""Drum"",""rPos"":3,""right"":""Bird""},{""lPos"":2,""left"":""Kite"",""rPos"":4,""right"":""Balloon""},{""lPos"":3,""left"":""Pencil"",""rPos"":2,""right"":""Eraser""},{""lPos"":4,""left"":""Lock"",""rPos"":1,""right"":""Key""}]"
+17,Q6,cluster_loop,"Circle ₹1 coins",""""""
+17,Q7,path_trace,"Cut giftBox in half",""""""
+17,Q8,mcq,"How many left? (box of stars)","0"
+17,Q9,dual_mark,"Most/Least bird",""""""

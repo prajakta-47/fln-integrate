@@ -1,0 +1,65 @@
+[
+  {
+    "set": "7",
+    "q": "Q1",
+    "type": "matching",
+    "question": "Match shapes",
+    "answer": "[{\"lPos\":1,\"shape\":\"Circle\",\"rPos\":4,\"obj\":\"Clock\"},{\"lPos\":2,\"shape\":\"Square\",\"rPos\":1,\"obj\":\"Gift Box\"},{\"lPos\":3,\"shape\":\"Triangle\",\"rPos\":2,\"obj\":\"Mango\"},{\"lPos\":4,\"shape\":\"Rectangle\",\"rPos\":3,\"obj\":\"Book\"}]"
+  },
+  {
+    "set": "7",
+    "q": "Q2",
+    "type": "group_circle",
+    "question": "Circle MORE/LESS groups",
+    "answer": "[{\"cell\":\"TL\",\"task\":\"MORE\",\"lCount\":5,\"rCount\":7,\"ans\":\"Right\"},{\"cell\":\"TR\",\"task\":\"MORE\",\"lCount\":4,\"rCount\":9,\"ans\":\"Right\"},{\"cell\":\"BL\",\"task\":\"LESS\",\"lCount\":3,\"rCount\":8,\"ans\":\"Left\"},{\"cell\":\"BR\",\"task\":\"LESS\",\"lCount\":9,\"rCount\":2,\"ans\":\"Right\"}]"
+  },
+  {
+    "set": "7",
+    "q": "Q3",
+    "type": "fill_number",
+    "question": "Fill missing numbers in sequence 1,2,3,4,5,6",
+    "answer": "\"\""
+  },
+  {
+    "set": "7",
+    "q": "Q4",
+    "type": "choice",
+    "question": "Tick (\u2713) the container that can hold the LEAST water.",
+    "answer": "Spoon"
+  },
+  {
+    "set": "7",
+    "q": "Q5",
+    "type": "matching",
+    "question": "Match pairs",
+    "answer": "[{\"lPos\":1,\"left\":\"Drum\",\"rPos\":1,\"right\":\"Bird\"},{\"lPos\":2,\"left\":\"Shoe\",\"rPos\":4,\"right\":\"Sock\"},{\"lPos\":3,\"left\":\"Pencil\",\"rPos\":3,\"right\":\"Eraser\"},{\"lPos\":4,\"left\":\"Toothbrush\",\"rPos\":2,\"right\":\"Toothpaste\"}]"
+  },
+  {
+    "set": "7",
+    "q": "Q6",
+    "type": "cluster_loop",
+    "question": "Circle \u20b91 coins",
+    "answer": "\"\""
+  },
+  {
+    "set": "7",
+    "q": "Q7",
+    "type": "path_trace",
+    "question": "Cut apple in half",
+    "answer": "\"\""
+  },
+  {
+    "set": "7",
+    "q": "Q8",
+    "type": "mcq",
+    "question": "How many left? (basket of apples)",
+    "answer": "0"
+  },
+  {
+    "set": "7",
+    "q": "Q9",
+    "type": "dual_mark",
+    "question": "Most/Least kite",
+    "answer": "\"\""
+  }
+]

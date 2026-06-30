@@ -1,0 +1,65 @@
+[
+  {
+    "set": "12",
+    "q": "Q1",
+    "type": "matching",
+    "question": "Match shapes",
+    "answer": "[{\"lPos\":1,\"shape\":\"Triangle\",\"rPos\":3,\"obj\":\"Party Hat\"},{\"lPos\":2,\"shape\":\"Rectangle\",\"rPos\":2,\"obj\":\"Door\"},{\"lPos\":3,\"shape\":\"Square\",\"rPos\":4,\"obj\":\"Gift Box\"},{\"lPos\":4,\"shape\":\"Circle\",\"rPos\":1,\"obj\":\"Clock\"}]"
+  },
+  {
+    "set": "12",
+    "q": "Q2",
+    "type": "group_circle",
+    "question": "Circle MORE/LESS groups",
+    "answer": "[{\"cell\":\"TL\",\"task\":\"MORE\",\"lCount\":4,\"rCount\":10,\"ans\":\"Right\"},{\"cell\":\"TR\",\"task\":\"MORE\",\"lCount\":5,\"rCount\":6,\"ans\":\"Right\"},{\"cell\":\"BL\",\"task\":\"LESS\",\"lCount\":6,\"rCount\":5,\"ans\":\"Right\"},{\"cell\":\"BR\",\"task\":\"LESS\",\"lCount\":9,\"rCount\":2,\"ans\":\"Right\"}]"
+  },
+  {
+    "set": "12",
+    "q": "Q3",
+    "type": "fill_number",
+    "question": "Fill missing numbers in sequence 4,5,6,7,8,9",
+    "answer": "\"\""
+  },
+  {
+    "set": "12",
+    "q": "Q4",
+    "type": "choice",
+    "question": "Tick (\u2713) the ribbon that is SHORTER.",
+    "answer": "Ribbon B"
+  },
+  {
+    "set": "12",
+    "q": "Q5",
+    "type": "matching",
+    "question": "Match pairs",
+    "answer": "[{\"lPos\":1,\"left\":\"Rocket\",\"rPos\":1,\"right\":\"Star\"},{\"lPos\":2,\"left\":\"Pencil\",\"rPos\":2,\"right\":\"Eraser\"},{\"lPos\":3,\"left\":\"Kite\",\"rPos\":3,\"right\":\"Balloon\"},{\"lPos\":4,\"left\":\"Toothbrush\",\"rPos\":4,\"right\":\"Toothpaste\"}]"
+  },
+  {
+    "set": "12",
+    "q": "Q6",
+    "type": "cluster_loop",
+    "question": "Circle \u20b91 coins",
+    "answer": "\"\""
+  },
+  {
+    "set": "12",
+    "q": "Q7",
+    "type": "path_trace",
+    "question": "Cut mango in half",
+    "answer": "\"\""
+  },
+  {
+    "set": "12",
+    "q": "Q8",
+    "type": "mcq",
+    "question": "How many left? (jar of bees)",
+    "answer": "0"
+  },
+  {
+    "set": "12",
+    "q": "Q9",
+    "type": "dual_mark",
+    "question": "Most/Least crown",
+    "answer": "\"\""
+  }
+]

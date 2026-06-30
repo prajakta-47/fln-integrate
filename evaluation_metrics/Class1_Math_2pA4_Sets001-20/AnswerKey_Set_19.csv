@@ -1,0 +1,10 @@
+set,q,type,question,answer
+19,Q1,matching,"Match shapes","[{""lPos"":1,""shape"":""Circle"",""rPos"":2,""obj"":""Clock""},{""lPos"":2,""shape"":""Rectangle"",""rPos"":4,""obj"":""Book""},{""lPos"":3,""shape"":""Square"",""rPos"":3,""obj"":""Gift Box""},{""lPos"":4,""shape"":""Triangle"",""rPos"":1,""obj"":""Ice Cream""}]"
+19,Q2,group_circle,"Circle MORE/LESS groups","[{""cell"":""TL"",""task"":""MORE"",""lCount"":6,""rCount"":5,""ans"":""Left""},{""cell"":""TR"",""task"":""MORE"",""lCount"":7,""rCount"":5,""ans"":""Left""},{""cell"":""BL"",""task"":""LESS"",""lCount"":7,""rCount"":4,""ans"":""Right""},{""cell"":""BR"",""task"":""LESS"",""lCount"":10,""rCount"":2,""ans"":""Right""}]"
+19,Q3,fill_number,"Fill missing numbers in sequence 5,6,7,8,9,10",""""""
+19,Q4,choice,"Circle the container that can hold the MOST water.","Bucket"
+19,Q5,matching,"Match pairs","[{""lPos"":1,""left"":""Umbrella"",""rPos"":3,""right"":""Raincoat""},{""lPos"":2,""left"":""Pencil"",""rPos"":2,""right"":""Eraser""},{""lPos"":3,""left"":""Rocket"",""rPos"":1,""right"":""Star""},{""lPos"":4,""left"":""Kite"",""rPos"":4,""right"":""Balloon""}]"
+19,Q6,cluster_loop,"Circle ₹1 coins",""""""
+19,Q7,path_trace,"Cut mango in half",""""""
+19,Q8,mcq,"How many left? (plate of mangoes)","0"
+19,Q9,dual_mark,"Most/Least rocket",""""""
